@@ -1,0 +1,87 @@
+[
+  {
+    "titleEn": "Fundamental Rights & Duties",
+    "titleNp": "मौलिक हक र कर्तव्य",
+    "iconName": "gavel",
+    "pointsEn": [
+      "Guarantees 31 distinct fundamental rights for citizens (Articles 16-46).",
+      "Includes Right to Equality, Freedom, Education, Health, and Environment.",
+      "Abolishes untouchability and outlaws discrimination of all kinds.",
+      "Outlines 4 primary civic duties, including safeguarding national sovereignty and fulfilling legal obligations."
+    ],
+    "pointsNp": [
+      "नागरिकहरूका लागि ३१ वटा मौलिक हकहरूको ग्यारेन्टी (धारा १६-४६) गर्दछ।",
+      "यसमा समानता, स्वतन्त्रता, शिक्षा, स्वास्थ्य र स्वच्छ वातावरणको हक समावेश छ।",
+      "छुवाछुतको अन्त्य गर्दै सबै किसिमका भेदभावलाई गैरकानुनी मान्छ।",
+      "राष्ट्रिय सार्वभौमसत्ताको रक्षा गर्ने र कानुनी दायित्व पूरा गर्ने लगायत ४ वटा प्राथमिक नागरिक कर्तव्यहरू तोकिएको छ।"
+    ]
+  },
+  {
+    "titleEn": "Federal Structure",
+    "titleNp": "संघीय संरचना",
+    "iconName": "account_balance",
+    "pointsEn": [
+      "Establishes a three-tiered government: Federal, Provincial, and Local.",
+      "Divides the nation into 7 provinces with their own assemblies and cabinets.",
+      "Clearly distributes executive and legislative powers among the three levels via constitutional schedules.",
+      "Residual powers (powers not explicitly listed) remain with the Federal Government."
+    ],
+    "pointsNp": [
+      "संघ, प्रदेश र स्थानीय गरी तीन तहको सरकार स्थापना गर्दछ।",
+      "देशलाई आफ्नै संसद् र मन्त्रिमण्डलसहित ७ प्रदेशमा विभाजन गर्दछ।",
+      "संविधानका अनुसूचीहरूमार्फत तीनवटै तहमा कार्यकारी र विधायी अधिकारहरूको स्पष्ट बाँडफाँड।",
+      "अवशिष्ट अधिकार (स्पष्ट रूपमा नतोकिएका अधिकारहरू) संघीय सरकारमै निहीत रहन्छ।"
+    ]
+  },
+  {
+    "titleEn": "Nature of the State",
+    "titleNp": "राज्यको स्वरूप",
+    "iconName": "public",
+    "pointsEn": [
+      "Declared Nepal as an independent, sovereign, secular, and inclusive state.",
+      "Firmly establishes Nepal as a Federal Democratic Republic.",
+      "Vests absolute sovereignty and state authority directly in the Nepalese people.",
+      "'Secularism' legally protects the freedom of religion and culture practiced since ancient times."
+    ],
+    "pointsNp": [
+      "नेपाललाई स्वतन्त्र, सार्वभौमसत्तासम्पन्न, धर्मनिरपेक्ष र समावेशी राष्ट्र घोषणा गर्दछ।",
+      "नेपाललाई संघीय लोकतान्त्रिक गणतन्त्रका रूपमा दृढतापूर्वक स्थापित गर्दछ।",
+      "निरपेक्ष सार्वभौमसत्ता र राजकीय सत्ता सीधै नेपाली जनतामा निहीत गर्दछ।",
+      "'धर्मनिरपेक्षता' ले प्राचीन कालदेखि चलिआएको धर्म र संस्कृतिको स्वतन्त्रतालाई कानुनी रूपमा संरक्षण गर्छ।"
+    ]
+  },
+  {
+    "titleEn": "Governmental Structure",
+    "titleNp": "शासकीय स्वरूप",
+    "iconName": "groups",
+    "pointsEn": [
+      "Establishes a Bicameral Federal Parliament (House of Representatives and National Assembly).",
+      "The President operates as the ceremonial Head of State, while the Prime Minister holds executive power.",
+      "Features an independent judiciary with a three-tiered court system (Supreme, High, and District).",
+      "The Supreme Court holds the final authority for constitutional interpretation."
+    ],
+    "pointsNp": [
+      "द्विसदनात्मक संघीय संसद् (प्रतिनिधिसभा र राष्ट्रिय सभा) को स्थापना।",
+      "राष्ट्रपति आलंकारिक राष्ट्राध्यक्ष हुन् भने प्रधानमन्त्रीसँग कार्यकारी अधिकार रहन्छ।",
+      "तीन तहको अदालत (सर्वोच्च, उच्च र जिल्ला) सहितको स्वतन्त्र न्यायपालिकाको व्यवस्था।",
+      "संविधानको अन्तिम व्याख्या गर्ने अधिकार सर्वोच्च अदालतलाई मात्र छ।"
+    ]
+  },
+  {
+    "titleEn": "Inclusivity & Citizenship",
+    "titleNp": "समावेशिता र नागरिकता",
+    "iconName": "diversity_3",
+    "pointsEn": [
+      "Ensures proportional representation in government bodies for marginalized and indigenous groups.",
+      "Establishes a single federal citizenship with provincial identity.",
+      "Recognizes all mother tongues spoken in Nepal as official national languages.",
+      "Guarantees that no citizen can be arbitrarily deprived of citizenship rights."
+    ],
+    "pointsNp": [
+      "सरकारी निकायहरूमा सीमान्तकृत र आदिवासी जनजातिहरूको समानुपातिक प्रतिनिधित्व सुनिश्चित गर्दछ।",
+      "प्रादेशिक पहिचानसहितको एकल संघीय नागरिकताको व्यवस्था गर्दछ।",
+      "नेपालमा बोलिने सबै मातृभाषाहरूलाई राष्ट्रभाषाको रूपमा मान्यता दिन्छ।",
+      "कुनै पनि नागरिकलाई नागरिकताको अधिकारबाट स्वेच्छाचारी रूपमा वञ्चित नगरिने ग्यारेन्टी गर्छ।"
+    ]
+  }
+]
