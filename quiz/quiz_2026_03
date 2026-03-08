@@ -1,0 +1,2562 @@
+{
+    "2026-03-01": {
+        "id": "2026-03-01",
+        "title": "Challenge #1",
+        "questionsCount": "5",
+        "duration": "150",
+        "questions": [
+            {
+                "id": 1,
+                "questionEn": "What is the national flower of Nepal?",
+                "questionNe": "नेपालको राष्ट्रिय फूल के हो?",
+                "options": [
+                    {
+                        "textEn": "Rhododendron",
+                        "textNe": "लालीगुराँस"
+                    },
+                    {
+                        "textEn": "Lotus",
+                        "textNe": "कमल"
+                    },
+                    {
+                        "textEn": "Rose",
+                        "textNe": "गुलाब"
+                    },
+                    {
+                        "textEn": "Sunflower",
+                        "textNe": "सूर्यमुखी"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 2,
+                "questionEn": "When was the current Constitution of Nepal promulgated?",
+                "questionNe": "नेपालको हालको संविधान कहिले जारी भयो?",
+                "options": [
+                    {
+                        "textEn": "2072 Aswin 3",
+                        "textNe": "२०७२ असोज ३"
+                    },
+                    {
+                        "textEn": "2063 Magh 1",
+                        "textNe": "२०६३ माघ १"
+                    },
+                    {
+                        "textEn": "2047 Kartik 23",
+                        "textNe": "२०४७ कात्तिक २३"
+                    },
+                    {
+                        "textEn": "2015 Falgun 1",
+                        "textNe": "२०१५ फागुन १"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 3,
+                "questionEn": "Which article defines the National Flag of Nepal?",
+                "questionNe": "नेपालको झण्डा कुन धारामा परिभाषित छ?",
+                "options": [
+                    {
+                        "textEn": "Article 8",
+                        "textNe": "धारा ८"
+                    },
+                    {
+                        "textEn": "Article 5",
+                        "textNe": "धारा ५"
+                    },
+                    {
+                        "textEn": "Article 10",
+                        "textNe": "धारा १०"
+                    },
+                    {
+                        "textEn": "Article 1",
+                        "textNe": "धारा १"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 4,
+                "questionEn": "What is the national animal of Nepal?",
+                "questionNe": "नेपालको राष्ट्रिय जनावर कुन हो?",
+                "options": [
+                    {
+                        "textEn": "Cow",
+                        "textNe": "गाई"
+                    },
+                    {
+                        "textEn": "Rhino",
+                        "textNe": "गैंडा"
+                    },
+                    {
+                        "textEn": "Tiger",
+                        "textNe": "बाघ"
+                    },
+                    {
+                        "textEn": "Elephant",
+                        "textNe": "हात्ती"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 5,
+                "questionEn": "In which part is citizenship mentioned?",
+                "questionNe": "संविधानको कुन भागमा नागरिकताको उल्लेख छ?",
+                "options": [
+                    {
+                        "textEn": "Part 2",
+                        "textNe": "भाग २"
+                    },
+                    {
+                        "textEn": "Part 1",
+                        "textNe": "भाग १"
+                    },
+                    {
+                        "textEn": "Part 3",
+                        "textNe": "भाग ३"
+                    },
+                    {
+                        "textEn": "Part 4",
+                        "textNe": "भाग ४"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            }
+        ]
+    },
+    "2026-03-02": {
+        "id": "2026-03-02",
+        "title": "Challenge #2",
+        "questionsCount": "5",
+        "duration": "150",
+        "questions": [
+            {
+                "id": 6,
+                "questionEn": "Who is the main source of sovereign power in Nepal?",
+                "questionNe": "नेपालमा राजकीय सत्ताको मुख्य स्रोत को हो?",
+                "options": [
+                    {
+                        "textEn": "Nepalese People",
+                        "textNe": "नेपाली जनता"
+                    },
+                    {
+                        "textEn": "The King",
+                        "textNe": "राजा"
+                    },
+                    {
+                        "textEn": "Prime Minister",
+                        "textNe": "प्रधानमन्त्री"
+                    },
+                    {
+                        "textEn": "President",
+                        "textNe": "राष्ट्रपति"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 7,
+                "questionEn": "What is the official language of Nepal?",
+                "questionNe": "नेपालको सरकारी कामकाजको भाषा के हो?",
+                "options": [
+                    {
+                        "textEn": "Nepali",
+                        "textNe": "नेपाली"
+                    },
+                    {
+                        "textEn": "English",
+                        "textNe": "अङ्ग्रेजी"
+                    },
+                    {
+                        "textEn": "Maithili",
+                        "textNe": "मैथिली"
+                    },
+                    {
+                        "textEn": "Bhojpuri",
+                        "textNe": "भोजपुरी"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 8,
+                "questionEn": "Which article ensures the Right to Live with Dignity?",
+                "questionNe": "सम्मानपूर्वक बाँच्न पाउने हक कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 16",
+                        "textNe": "धारा १६"
+                    },
+                    {
+                        "textEn": "Article 18",
+                        "textNe": "धारा १८"
+                    },
+                    {
+                        "textEn": "Article 20",
+                        "textNe": "धारा २०"
+                    },
+                    {
+                        "textEn": "Article 17",
+                        "textNe": "धारा १७"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 9,
+                "questionEn": "Right to Equality is mentioned in which article?",
+                "questionNe": "समानताको हक कुन धारामा उल्लेख छ?",
+                "options": [
+                    {
+                        "textEn": "Article 18",
+                        "textNe": "धारा १८"
+                    },
+                    {
+                        "textEn": "Article 19",
+                        "textNe": "धारा १९"
+                    },
+                    {
+                        "textEn": "Article 21",
+                        "textNe": "धारा २१"
+                    },
+                    {
+                        "textEn": "Article 16",
+                        "textNe": "धारा १६"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 10,
+                "questionEn": "Which article guarantees Freedom of Speech?",
+                "questionNe": "वाक स्वतन्त्रताको ग्यारेन्टी कुन धाराले गर्छ?",
+                "options": [
+                    {
+                        "textEn": "Article 17",
+                        "textNe": "धारा १७"
+                    },
+                    {
+                        "textEn": "Article 25",
+                        "textNe": "धारा २५"
+                    },
+                    {
+                        "textEn": "Article 18",
+                        "textNe": "धारा १८"
+                    },
+                    {
+                        "textEn": "Article 22",
+                        "textNe": "धारा २२"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            }
+        ]
+    },
+    "2026-03-03": {
+        "id": "2026-03-03",
+        "title": "Challenge #3",
+        "questionsCount": "5",
+        "duration": "150",
+        "questions": [
+            {
+                "id": 1,
+                "questionEn": "In which part of the constitution are Fundamental Rights listed?",
+                "questionNe": "मौलिक हकहरू संविधानको कुन भागमा छन्?",
+                "options": [
+                    {
+                        "textEn": "Part 3",
+                        "textNe": "भाग ३"
+                    },
+                    {
+                        "textEn": "Part 2",
+                        "textNe": "भाग २"
+                    },
+                    {
+                        "textEn": "Part 4",
+                        "textNe": "भाग ४"
+                    },
+                    {
+                        "textEn": "Part 5",
+                        "textNe": "भाग ५"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 2,
+                "questionEn": "Right against Untouchability and Discrimination is in which article?",
+                "questionNe": "छुवाछुत तथा भेदभावविरुद्धको हक कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 24",
+                        "textNe": "धारा २४"
+                    },
+                    {
+                        "textEn": "Article 20",
+                        "textNe": "धारा २०"
+                    },
+                    {
+                        "textEn": "Article 18",
+                        "textNe": "धारा १८"
+                    },
+                    {
+                        "textEn": "Article 26",
+                        "textNe": "धारा २६"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 3,
+                "questionEn": "Right to Freedom of religion is covered under which article?",
+                "questionNe": "धर्म स्वतन्त्रताको हक कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 26",
+                        "textNe": "धारा २६"
+                    },
+                    {
+                        "textEn": "Article 22",
+                        "textNe": "धारा २२"
+                    },
+                    {
+                        "textEn": "Article 28",
+                        "textNe": "धारा २८"
+                    },
+                    {
+                        "textEn": "Article 18",
+                        "textNe": "धारा १८"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 4,
+                "questionEn": "Right to Information is in which article?",
+                "questionNe": "सूचनाको हक कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 27",
+                        "textNe": "धारा २७"
+                    },
+                    {
+                        "textEn": "Article 24",
+                        "textNe": "धारा २४"
+                    },
+                    {
+                        "textEn": "Article 19",
+                        "textNe": "धारा १९"
+                    },
+                    {
+                        "textEn": "Article 30",
+                        "textNe": "धारा ३०"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 5,
+                "questionEn": "Right to property is guaranteed under which article?",
+                "questionNe": "सम्पत्तिको हक कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 25",
+                        "textNe": "धारा २५"
+                    },
+                    {
+                        "textEn": "Article 23",
+                        "textNe": "धारा २३"
+                    },
+                    {
+                        "textEn": "Article 29",
+                        "textNe": "धारा २९"
+                    },
+                    {
+                        "textEn": "Article 21",
+                        "textNe": "धारा २१"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            }
+        ]
+    },
+    "2026-03-04": {
+        "id": "2026-03-04",
+        "title": "Challenge #4",
+        "questionsCount": "5",
+        "duration": "150",
+        "questions": [
+            {
+                "id": 6,
+                "questionEn": "Right to privacy is guaranteed under which article?",
+                "questionNe": "गोपनीयताको हक कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 28",
+                        "textNe": "धारा २८"
+                    },
+                    {
+                        "textEn": "Article 25",
+                        "textNe": "धारा २५"
+                    },
+                    {
+                        "textEn": "Article 31",
+                        "textNe": "धारा ३१"
+                    },
+                    {
+                        "textEn": "Article 20",
+                        "textNe": "धारा २०"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 7,
+                "questionEn": "Right to constitutional remedy is in which article?",
+                "questionNe": "संवैधानिक उपचारको हक कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 46",
+                        "textNe": "धारा ४६"
+                    },
+                    {
+                        "textEn": "Article 40",
+                        "textNe": "धारा ४०"
+                    },
+                    {
+                        "textEn": "Article 35",
+                        "textNe": "धारा ३५"
+                    },
+                    {
+                        "textEn": "Article 44",
+                        "textNe": "धारा ४४"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 8,
+                "questionEn": "Right to education is mentioned in which article?",
+                "questionNe": "शिक्षाको हक कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 31",
+                        "textNe": "धारा ३१"
+                    },
+                    {
+                        "textEn": "Article 28",
+                        "textNe": "धारा २८"
+                    },
+                    {
+                        "textEn": "Article 33",
+                        "textNe": "धारा ३३"
+                    },
+                    {
+                        "textEn": "Article 27",
+                        "textNe": "धारा २७"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 9,
+                "questionEn": "Right to health is in which article?",
+                "questionNe": "स्वास्थ्यको हक कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 35",
+                        "textNe": "धारा ३५"
+                    },
+                    {
+                        "textEn": "Article 32",
+                        "textNe": "धारा ३२"
+                    },
+                    {
+                        "textEn": "Article 38",
+                        "textNe": "धारा ३८"
+                    },
+                    {
+                        "textEn": "Article 30",
+                        "textNe": "धारा ३०"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 10,
+                "questionEn": "Right to food is guaranteed under which article?",
+                "questionNe": "खाद्य सम्प्रभुताको हक कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 36",
+                        "textNe": "धारा ३६"
+                    },
+                    {
+                        "textEn": "Article 33",
+                        "textNe": "धारा ३३"
+                    },
+                    {
+                        "textEn": "Article 39",
+                        "textNe": "धारा ३९"
+                    },
+                    {
+                        "textEn": "Article 31",
+                        "textNe": "धारा ३१"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            }
+        ]
+    },
+    "2026-03-05": {
+        "id": "2026-03-05",
+        "title": "Challenge #5",
+        "questionsCount": "5",
+        "duration": "150",
+        "questions": [
+            {
+                "id": 1,
+                "questionEn": "Nepal is defined as what type of state in the Constitution?",
+                "questionNe": "संविधानमा नेपाललाई कस्तो राष्ट्र भनिएको छ?",
+                "options": [
+                    {
+                        "textEn": "Federal Democratic Republic",
+                        "textNe": "संघीय लोकतान्त्रिक गणतन्त्र"
+                    },
+                    {
+                        "textEn": "Constitutional Monarchy",
+                        "textNe": "संवैधानिक राजतन्त्र"
+                    },
+                    {
+                        "textEn": "Socialist Republic",
+                        "textNe": "समाजवादी गणतन्त्र"
+                    },
+                    {
+                        "textEn": "Parliamentary Democracy",
+                        "textNe": "संसदीय लोकतन्त्र"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 2,
+                "questionEn": "How many provinces does Nepal have?",
+                "questionNe": "नेपालमा कति प्रदेश छन्?",
+                "options": [
+                    {
+                        "textEn": "7",
+                        "textNe": "७"
+                    },
+                    {
+                        "textEn": "5",
+                        "textNe": "५"
+                    },
+                    {
+                        "textEn": "6",
+                        "textNe": "6"
+                    },
+                    {
+                        "textEn": "8",
+                        "textNe": "8"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 3,
+                "questionEn": "How many levels of government are there in Nepal?",
+                "questionNe": "नेपालमा सरकारका कति तह छन्?",
+                "options": [
+                    {
+                        "textEn": "3",
+                        "textNe": "३"
+                    },
+                    {
+                        "textEn": "2",
+                        "textNe": "२"
+                    },
+                    {
+                        "textEn": "4",
+                        "textNe": "४"
+                    },
+                    {
+                        "textEn": "5",
+                        "textNe": "५"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 4,
+                "questionEn": "Which article defines Nepal as a federal state?",
+                "questionNe": "नेपाललाई संघीय राज्य भन्ने कुन धाराले परिभाषित गर्छ?",
+                "options": [
+                    {
+                        "textEn": "Article 56",
+                        "textNe": "धारा ५६"
+                    },
+                    {
+                        "textEn": "Article 50",
+                        "textNe": "धारा ५०"
+                    },
+                    {
+                        "textEn": "Article 60",
+                        "textNe": "धारा ६०"
+                    },
+                    {
+                        "textEn": "Article 45",
+                        "textNe": "धारा ४५"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 5,
+                "questionEn": "How many local levels (Palika) does Nepal have?",
+                "questionNe": "नेपालमा कति स्थानीय तह छन्?",
+                "options": [
+                    {
+                        "textEn": "753",
+                        "textNe": "७५३"
+                    },
+                    {
+                        "textEn": "700",
+                        "textNe": "७००"
+                    },
+                    {
+                        "textEn": "800",
+                        "textNe": "८००"
+                    },
+                    {
+                        "textEn": "650",
+                        "textNe": "६५०"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            }
+        ]
+    },
+    "2026-03-06": {
+        "id": "2026-03-06",
+        "title": "Challenge #6",
+        "questionsCount": "5",
+        "duration": "150",
+        "questions": [
+            {
+                "id": 6,
+                "questionEn": "Which schedule of the Constitution lists the powers of the Federation?",
+                "questionNe": "संघको अधिकार कुन अनुसूचीमा छ?",
+                "options": [
+                    {
+                        "textEn": "Schedule 5",
+                        "textNe": "अनुसूची ५"
+                    },
+                    {
+                        "textEn": "Schedule 3",
+                        "textNe": "अनुसूची ३"
+                    },
+                    {
+                        "textEn": "Schedule 7",
+                        "textNe": "अनुसूची ७"
+                    },
+                    {
+                        "textEn": "Schedule 9",
+                        "textNe": "अनुसूची ९"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 7,
+                "questionEn": "Which article constitutes the National Assembly (Rashtriya Sabha)?",
+                "questionNe": "राष्ट्रिय सभाको गठन कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 86",
+                        "textNe": "धारा ८६"
+                    },
+                    {
+                        "textEn": "Article 80",
+                        "textNe": "धारा ८०"
+                    },
+                    {
+                        "textEn": "Article 90",
+                        "textNe": "धारा ९०"
+                    },
+                    {
+                        "textEn": "Article 84",
+                        "textNe": "धारा ८४"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 8,
+                "questionEn": "How many members are in the House of Representatives?",
+                "questionNe": "प्रतिनिधि सभामा कति सदस्य हुन्छन्?",
+                "options": [
+                    {
+                        "textEn": "275",
+                        "textNe": "२७५"
+                    },
+                    {
+                        "textEn": "240",
+                        "textNe": "२४०"
+                    },
+                    {
+                        "textEn": "300",
+                        "textNe": "३००"
+                    },
+                    {
+                        "textEn": "250",
+                        "textNe": "२५०"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 9,
+                "questionEn": "How many members are in the National Assembly?",
+                "questionNe": "राष्ट्रिय सभामा कति सदस्य हुन्छन्?",
+                "options": [
+                    {
+                        "textEn": "59",
+                        "textNe": "५९"
+                    },
+                    {
+                        "textEn": "50",
+                        "textNe": "५०"
+                    },
+                    {
+                        "textEn": "75",
+                        "textNe": "७५"
+                    },
+                    {
+                        "textEn": "65",
+                        "textNe": "६५"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 10,
+                "questionEn": "Which article deals with the formation of the Federal Parliament?",
+                "questionNe": "संघीय संसदको गठन कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 83",
+                        "textNe": "धारा ८३"
+                    },
+                    {
+                        "textEn": "Article 79",
+                        "textNe": "धारा ७९"
+                    },
+                    {
+                        "textEn": "Article 88",
+                        "textNe": "धारा ८८"
+                    },
+                    {
+                        "textEn": "Article 75",
+                        "textNe": "धारा ७५"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            }
+        ]
+    },
+    "2026-03-07": {
+        "id": "2026-03-07",
+        "title": "Challenge #7",
+        "questionsCount": "5",
+        "duration": "150",
+        "questions": [
+            {
+                "id": 1,
+                "questionEn": "Who is the President of Nepal elected by?",
+                "questionNe": "नेपालको राष्ट्रपति कसले निर्वाचित गर्छ?",
+                "options": [
+                    {
+                        "textEn": "Electoral College",
+                        "textNe": "निर्वाचक मण्डल"
+                    },
+                    {
+                        "textEn": "Cabinet",
+                        "textNe": "मन्त्रिपरिषद"
+                    },
+                    {
+                        "textEn": "Supreme Court",
+                        "textNe": "सर्वोच्च अदालत"
+                    },
+                    {
+                        "textEn": "Parliament alone",
+                        "textNe": "संसद मात्र"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 2,
+                "questionEn": "What is the term of the President of Nepal?",
+                "questionNe": "नेपालको राष्ट्रपतिको कार्यकाल कति वर्षको हो?",
+                "options": [
+                    {
+                        "textEn": "5 years",
+                        "textNe": "५ वर्ष"
+                    },
+                    {
+                        "textEn": "4 years",
+                        "textNe": "४ वर्ष"
+                    },
+                    {
+                        "textEn": "6 years",
+                        "textNe": "६ वर्ष"
+                    },
+                    {
+                        "textEn": "3 years",
+                        "textNe": "३ वर्ष"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 3,
+                "questionEn": "Which article deals with the executive power of the federation?",
+                "questionNe": "संघको कार्यकारी अधिकार कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 75",
+                        "textNe": "धारा ७५"
+                    },
+                    {
+                        "textEn": "Article 70",
+                        "textNe": "धारा ७०"
+                    },
+                    {
+                        "textEn": "Article 80",
+                        "textNe": "धारा ८०"
+                    },
+                    {
+                        "textEn": "Article 65",
+                        "textNe": "धारा ६५"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 4,
+                "questionEn": "Who appoints the Prime Minister of Nepal?",
+                "questionNe": "नेपालको प्रधानमन्त्री कसले नियुक्त गर्छ?",
+                "options": [
+                    {
+                        "textEn": "President",
+                        "textNe": "राष्ट्रपति"
+                    },
+                    {
+                        "textEn": "Parliament",
+                        "textNe": "संसद"
+                    },
+                    {
+                        "textEn": "Supreme Court",
+                        "textNe": "सर्वोच्च अदालत"
+                    },
+                    {
+                        "textEn": "Election Commission",
+                        "textNe": "निर्वाचन आयोग"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 5,
+                "questionEn": "To become Prime Minister, one must command majority in which house?",
+                "questionNe": "प्रधानमन्त्री बन्न कुन सदनमा बहुमत चाहिन्छ?",
+                "options": [
+                    {
+                        "textEn": "House of Representatives",
+                        "textNe": "प्रतिनिधि सभा"
+                    },
+                    {
+                        "textEn": "National Assembly",
+                        "textNe": "राष्ट्रिय सभा"
+                    },
+                    {
+                        "textEn": "Both Houses",
+                        "textNe": "दुवै सदन"
+                    },
+                    {
+                        "textEn": "Provincial Assembly",
+                        "textNe": "प्रदेश सभा"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            }
+        ]
+    },
+    "2026-03-08": {
+        "id": "2026-03-08",
+        "title": "Challenge #8",
+        "questionsCount": "5",
+        "duration": "150",
+        "questions": [
+            {
+                "id": 6,
+                "questionEn": "Which article deals with the Council of Ministers?",
+                "questionNe": "मन्त्रिपरिषदको व्यवस्था कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 76",
+                        "textNe": "धारा ७६"
+                    },
+                    {
+                        "textEn": "Article 72",
+                        "textNe": "धारा ७२"
+                    },
+                    {
+                        "textEn": "Article 80",
+                        "textNe": "धारा ८०"
+                    },
+                    {
+                        "textEn": "Article 68",
+                        "textNe": "धारा ६८"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 7,
+                "questionEn": "Who presides over the Council of Ministers?",
+                "questionNe": "मन्त्रिपरिषदको अध्यक्षता कसले गर्छ?",
+                "options": [
+                    {
+                        "textEn": "Prime Minister",
+                        "textNe": "प्रधानमन्त्री"
+                    },
+                    {
+                        "textEn": "President",
+                        "textNe": "राष्ट्रपति"
+                    },
+                    {
+                        "textEn": "Speaker",
+                        "textNe": "सभामुख"
+                    },
+                    {
+                        "textEn": "Chief Justice",
+                        "textNe": "प्रधान न्यायाधीश"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 8,
+                "questionEn": "Province executive power is vested in whom?",
+                "questionNe": "प्रदेशको कार्यकारी शक्ति कसमा निहित हुन्छ?",
+                "options": [
+                    {
+                        "textEn": "Province Council of Ministers",
+                        "textNe": "प्रदेश मन्त्रिपरिषद"
+                    },
+                    {
+                        "textEn": "Governor",
+                        "textNe": "राज्यपाल"
+                    },
+                    {
+                        "textEn": "President",
+                        "textNe": "राष्ट्रपति"
+                    },
+                    {
+                        "textEn": "Chief Minister alone",
+                        "textNe": "मुख्यमन्त्री मात्र"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 9,
+                "questionEn": "Who appoints the Governor of a Province?",
+                "questionNe": "प्रदेशको राज्यपाल कसले नियुक्त गर्छ?",
+                "options": [
+                    {
+                        "textEn": "President on PM's recommendation",
+                        "textNe": "प्रधानमन्त्रीको सिफारिसमा राष्ट्रपति"
+                    },
+                    {
+                        "textEn": "Federal Parliament",
+                        "textNe": "संघीय संसद"
+                    },
+                    {
+                        "textEn": "Chief Minister",
+                        "textNe": "मुख्यमन्त्री"
+                    },
+                    {
+                        "textEn": "Election Commission",
+                        "textNe": "निर्वाचन आयोग"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 10,
+                "questionEn": "In which article is the President's qualification mentioned?",
+                "questionNe": "राष्ट्रपतिको योग्यता कुन धारामा उल्लेख छ?",
+                "options": [
+                    {
+                        "textEn": "Article 63",
+                        "textNe": "धारा ६३"
+                    },
+                    {
+                        "textEn": "Article 58",
+                        "textNe": "धारा ५८"
+                    },
+                    {
+                        "textEn": "Article 70",
+                        "textNe": "धारा ७०"
+                    },
+                    {
+                        "textEn": "Article 60",
+                        "textNe": "धारा ६०"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            }
+        ]
+    },
+    "2026-03-09": {
+        "id": "2026-03-09",
+        "title": "Challenge #9",
+        "questionsCount": "5",
+        "duration": "150",
+        "questions": [
+            {
+                "id": 1,
+                "questionEn": "Which is the highest court of Nepal?",
+                "questionNe": "नेपालको सर्वोच्च अदालत कुन हो?",
+                "options": [
+                    {
+                        "textEn": "Supreme Court",
+                        "textNe": "सर्वोच्च अदालत"
+                    },
+                    {
+                        "textEn": "High Court",
+                        "textNe": "उच्च अदालत"
+                    },
+                    {
+                        "textEn": "District Court",
+                        "textNe": "जिल्ला अदालत"
+                    },
+                    {
+                        "textEn": "Special Court",
+                        "textNe": "विशेष अदालत"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 2,
+                "questionEn": "Who appoints the Chief Justice of Nepal?",
+                "questionNe": "नेपालको प्रधान न्यायाधीश कसले नियुक्त गर्छ?",
+                "options": [
+                    {
+                        "textEn": "President on recommendation of Constitutional Council",
+                        "textNe": "संवैधानिक परिषदको सिफारिसमा राष्ट्रपति"
+                    },
+                    {
+                        "textEn": "Prime Minister",
+                        "textNe": "प्रधानमन्त्री"
+                    },
+                    {
+                        "textEn": "Parliament",
+                        "textNe": "संसद"
+                    },
+                    {
+                        "textEn": "Cabinet",
+                        "textNe": "मन्त्रिपरिषद"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 3,
+                "questionEn": "What is the term of the Chief Justice of Nepal?",
+                "questionNe": "प्रधान न्यायाधीशको कार्यकाल कति हो?",
+                "options": [
+                    {
+                        "textEn": "Until age 65",
+                        "textNe": "६५ वर्षको उमेरसम्म"
+                    },
+                    {
+                        "textEn": "5 years",
+                        "textNe": "५ वर्ष"
+                    },
+                    {
+                        "textEn": "Until age 70",
+                        "textNe": "७० वर्षको उमेरसम्म"
+                    },
+                    {
+                        "textEn": "6 years",
+                        "textNe": "६ वर्ष"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 4,
+                "questionEn": "Which article establishes the Supreme Court?",
+                "questionNe": "सर्वोच्च अदालतको स्थापना कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 128",
+                        "textNe": "धारा १२८"
+                    },
+                    {
+                        "textEn": "Article 120",
+                        "textNe": "धारा १२०"
+                    },
+                    {
+                        "textEn": "Article 135",
+                        "textNe": "धारा १३५"
+                    },
+                    {
+                        "textEn": "Article 115",
+                        "textNe": "धारा ११५"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 5,
+                "questionEn": "How many justices can the Supreme Court have at maximum?",
+                "questionNe": "सर्वोच्च अदालतमा अधिकतम कति न्यायाधीश हुन सक्छन्?",
+                "options": [
+                    {
+                        "textEn": "20",
+                        "textNe": "२०"
+                    },
+                    {
+                        "textEn": "15",
+                        "textNe": "१५"
+                    },
+                    {
+                        "textEn": "25",
+                        "textNe": "२५"
+                    },
+                    {
+                        "textEn": "12",
+                        "textNe": "१२"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            }
+        ]
+    },
+    "2026-03-10": {
+        "id": "2026-03-10",
+        "title": "Challenge #10",
+        "questionsCount": "5",
+        "duration": "150",
+        "questions": [
+            {
+                "id": 6,
+                "questionEn": "How many High Courts does Nepal have?",
+                "questionNe": "नेपालमा कति उच्च अदालत छन्?",
+                "options": [
+                    {
+                        "textEn": "7",
+                        "textNe": "७"
+                    },
+                    {
+                        "textEn": "5",
+                        "textNe": "५"
+                    },
+                    {
+                        "textEn": "3",
+                        "textNe": "३"
+                    },
+                    {
+                        "textEn": "9",
+                        "textNe": "९"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 7,
+                "questionEn": "Which body hears complaints against judges?",
+                "questionNe": "न्यायाधीशविरुद्धको उजुरी कुन निकायले सुन्छ?",
+                "options": [
+                    {
+                        "textEn": "Judicial Council",
+                        "textNe": "न्याय परिषद"
+                    },
+                    {
+                        "textEn": "Supreme Court",
+                        "textNe": "सर्वोच्च अदालत"
+                    },
+                    {
+                        "textEn": "Parliament",
+                        "textNe": "संसद"
+                    },
+                    {
+                        "textEn": "President",
+                        "textNe": "राष्ट्रपति"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 8,
+                "questionEn": "Which article establishes the Judicial Council?",
+                "questionNe": "न्याय परिषदको स्थापना कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 153",
+                        "textNe": "धारा १५३"
+                    },
+                    {
+                        "textEn": "Article 145",
+                        "textNe": "धारा १४५"
+                    },
+                    {
+                        "textEn": "Article 160",
+                        "textNe": "धारा १६०"
+                    },
+                    {
+                        "textEn": "Article 140",
+                        "textNe": "धारा १४०"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 9,
+                "questionEn": "Which court has jurisdiction over electoral disputes?",
+                "questionNe": "निर्वाचन विवाद कुन अदालतले हेर्छ?",
+                "options": [
+                    {
+                        "textEn": "Supreme Court",
+                        "textNe": "सर्वोच्च अदालत"
+                    },
+                    {
+                        "textEn": "District Court",
+                        "textNe": "जिल्ला अदालत"
+                    },
+                    {
+                        "textEn": "High Court",
+                        "textNe": "उच्च अदालत"
+                    },
+                    {
+                        "textEn": "Election Tribunal",
+                        "textNe": "निर्वाचन न्यायाधिकरण"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 10,
+                "questionEn": "Which writ can be filed for protection of fundamental rights?",
+                "questionNe": "मौलिक हकको संरक्षणका लागि कुन रिट दायर गर्न सकिन्छ?",
+                "options": [
+                    {
+                        "textEn": "Habeas Corpus",
+                        "textNe": "बन्दी प्रत्यक्षीकरण"
+                    },
+                    {
+                        "textEn": "Certiorari",
+                        "textNe": "सर्टियोरारी"
+                    },
+                    {
+                        "textEn": "Prohibition",
+                        "textNe": "प्रोहिबिसन"
+                    },
+                    {
+                        "textEn": "Mandamus",
+                        "textNe": "परमादेश"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            }
+        ]
+    },
+    "2026-03-11": {
+        "id": "2026-03-11",
+        "title": "Challenge #11",
+        "questionsCount": "5",
+        "duration": "150",
+        "questions": [
+            {
+                "id": 1,
+                "questionEn": "Which body conducts elections in Nepal?",
+                "questionNe": "नेपालमा निर्वाचन कुन निकायले गर्छ?",
+                "options": [
+                    {
+                        "textEn": "Election Commission",
+                        "textNe": "निर्वाचन आयोग"
+                    },
+                    {
+                        "textEn": "Cabinet",
+                        "textNe": "मन्त्रिपरिषद"
+                    },
+                    {
+                        "textEn": "Parliament",
+                        "textNe": "संसद"
+                    },
+                    {
+                        "textEn": "Supreme Court",
+                        "textNe": "सर्वोच्च अदालत"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 2,
+                "questionEn": "Which article establishes the Election Commission?",
+                "questionNe": "निर्वाचन आयोगको स्थापना कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 245",
+                        "textNe": "धारा २४५"
+                    },
+                    {
+                        "textEn": "Article 240",
+                        "textNe": "धारा २४०"
+                    },
+                    {
+                        "textEn": "Article 250",
+                        "textNe": "धारा २५०"
+                    },
+                    {
+                        "textEn": "Article 235",
+                        "textNe": "धारा २३५"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 3,
+                "questionEn": "Which body audits the accounts of the Government of Nepal?",
+                "questionNe": "नेपाल सरकारको लेखा परीक्षण कुन निकायले गर्छ?",
+                "options": [
+                    {
+                        "textEn": "Auditor General",
+                        "textNe": "महालेखा परीक्षक"
+                    },
+                    {
+                        "textEn": "Finance Ministry",
+                        "textNe": "अर्थ मन्त्रालय"
+                    },
+                    {
+                        "textEn": "Parliament",
+                        "textNe": "संसद"
+                    },
+                    {
+                        "textEn": "National Vigilance Centre",
+                        "textNe": "राष्ट्रिय सतर्कता केन्द्र"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 4,
+                "questionEn": "The Commission for the Investigation of Abuse of Authority (CIAA) is established by which article?",
+                "questionNe": "अख्तियार दुरुपयोग अनुसन्धान आयोगको स्थापना कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 238",
+                        "textNe": "धारा २३८"
+                    },
+                    {
+                        "textEn": "Article 230",
+                        "textNe": "धारा २३०"
+                    },
+                    {
+                        "textEn": "Article 245",
+                        "textNe": "धारा २४५"
+                    },
+                    {
+                        "textEn": "Article 225",
+                        "textNe": "धारा २२५"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 5,
+                "questionEn": "Who appoints members of the CIAA?",
+                "questionNe": "अख्तियारका आयुक्त कसले नियुक्त गर्छ?",
+                "options": [
+                    {
+                        "textEn": "President on recommendation of Constitutional Council",
+                        "textNe": "संवैधानिक परिषदको सिफारिसमा राष्ट्रपति"
+                    },
+                    {
+                        "textEn": "Prime Minister",
+                        "textNe": "प्रधानमन्त्री"
+                    },
+                    {
+                        "textEn": "Parliament",
+                        "textNe": "संसद"
+                    },
+                    {
+                        "textEn": "Chief Justice",
+                        "textNe": "प्रधान न्यायाधीश"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            }
+        ]
+    },
+    "2026-03-12": {
+        "id": "2026-03-12",
+        "title": "Challenge #12",
+        "questionsCount": "5",
+        "duration": "150",
+        "questions": [
+            {
+                "id": 6,
+                "questionEn": "The Public Service Commission is established by which article?",
+                "questionNe": "लोकसेवा आयोगको स्थापना कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 242",
+                        "textNe": "धारा २४२"
+                    },
+                    {
+                        "textEn": "Article 235",
+                        "textNe": "धारा २३५"
+                    },
+                    {
+                        "textEn": "Article 248",
+                        "textNe": "धारा २४८"
+                    },
+                    {
+                        "textEn": "Article 228",
+                        "textNe": "धारा २२८"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 7,
+                "questionEn": "The National Human Rights Commission is established by which article?",
+                "questionNe": "राष्ट्रिय मानव अधिकार आयोग कुन धारामा स्थापित छ?",
+                "options": [
+                    {
+                        "textEn": "Article 248",
+                        "textNe": "धारा २४८"
+                    },
+                    {
+                        "textEn": "Article 242",
+                        "textNe": "धारा २४२"
+                    },
+                    {
+                        "textEn": "Article 255",
+                        "textNe": "धारा २५५"
+                    },
+                    {
+                        "textEn": "Article 238",
+                        "textNe": "धारा २३८"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 8,
+                "questionEn": "Who heads the Constitutional Council?",
+                "questionNe": "संवैधानिक परिषदको अध्यक्षता कसले गर्छ?",
+                "options": [
+                    {
+                        "textEn": "Prime Minister",
+                        "textNe": "प्रधानमन्त्री"
+                    },
+                    {
+                        "textEn": "President",
+                        "textNe": "राष्ट्रपति"
+                    },
+                    {
+                        "textEn": "Chief Justice",
+                        "textNe": "प्रधान न्यायाधीश"
+                    },
+                    {
+                        "textEn": "Speaker",
+                        "textNe": "सभामुख"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 9,
+                "questionEn": "The National Natural Resources and Fiscal Commission is established by which article?",
+                "questionNe": "राष्ट्रिय प्राकृतिक स्रोत तथा वित्त आयोग कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 251",
+                        "textNe": "धारा २५१"
+                    },
+                    {
+                        "textEn": "Article 245",
+                        "textNe": "धारा २४५"
+                    },
+                    {
+                        "textEn": "Article 258",
+                        "textNe": "धारा २५८"
+                    },
+                    {
+                        "textEn": "Article 240",
+                        "textNe": "धारा २४०"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 10,
+                "questionEn": "Which commission is responsible for inclusion and representation?",
+                "questionNe": "समावेशिता र प्रतिनिधित्वका लागि कुन आयोग जिम्मेवार छ?",
+                "options": [
+                    {
+                        "textEn": "National Inclusion Commission",
+                        "textNe": "राष्ट्रिय समावेशी आयोग"
+                    },
+                    {
+                        "textEn": "CIAA",
+                        "textNe": "अख्तियार"
+                    },
+                    {
+                        "textEn": "Election Commission",
+                        "textNe": "निर्वाचन आयोग"
+                    },
+                    {
+                        "textEn": "PSC",
+                        "textNe": "लोकसेवा आयोग"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            }
+        ]
+    },
+    "2026-03-13": {
+        "id": "2026-03-13",
+        "title": "Challenge #13",
+        "questionsCount": "5",
+        "duration": "150",
+        "questions": [
+            {
+                "id": 1,
+                "questionEn": "In which part are Directive Principles stated?",
+                "questionNe": "निर्देशक सिद्धान्त संविधानको कुन भागमा छ?",
+                "options": [
+                    {
+                        "textEn": "Part 4",
+                        "textNe": "भाग ४"
+                    },
+                    {
+                        "textEn": "Part 3",
+                        "textNe": "भाग ३"
+                    },
+                    {
+                        "textEn": "Part 5",
+                        "textNe": "भाग ५"
+                    },
+                    {
+                        "textEn": "Part 2",
+                        "textNe": "भाग २"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 2,
+                "questionEn": "Directive Principles are covered in which articles?",
+                "questionNe": "निर्देशक सिद्धान्त कुन धाराहरूमा छन्?",
+                "options": [
+                    {
+                        "textEn": "Articles 50-55",
+                        "textNe": "धारा ५०-५५"
+                    },
+                    {
+                        "textEn": "Articles 40-45",
+                        "textNe": "धारा ४०-४५"
+                    },
+                    {
+                        "textEn": "Articles 60-65",
+                        "textNe": "धारा ६०-६५"
+                    },
+                    {
+                        "textEn": "Articles 30-35",
+                        "textNe": "धारा ३०-३५"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 3,
+                "questionEn": "Can Directive Principles be enforced by courts?",
+                "questionNe": "निर्देशक सिद्धान्त अदालतबाट लागू गराउन सकिन्छ?",
+                "options": [
+                    {
+                        "textEn": "No",
+                        "textNe": "सकिँदैन"
+                    },
+                    {
+                        "textEn": "Yes, always",
+                        "textNe": "सधैं सकिन्छ"
+                    },
+                    {
+                        "textEn": "Only by Supreme Court",
+                        "textNe": "सर्वोच्च अदालतले मात्र"
+                    },
+                    {
+                        "textEn": "Yes, by any court",
+                        "textNe": "जुनसुकै अदालतले"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 4,
+                "questionEn": "Which directive principle relates to sustainable development?",
+                "questionNe": "दिगो विकाससम्बन्धी निर्देशक सिद्धान्त कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 51(g)",
+                        "textNe": "धारा ५१(ग)"
+                    },
+                    {
+                        "textEn": "Article 50",
+                        "textNe": "धारा ५०"
+                    },
+                    {
+                        "textEn": "Article 53",
+                        "textNe": "धारा ५३"
+                    },
+                    {
+                        "textEn": "Article 48",
+                        "textNe": "धारा ४८"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 5,
+                "questionEn": "The State's obligation to implement Directive Principles is in which article?",
+                "questionNe": "निर्देशक सिद्धान्त कार्यान्वयनको राज्यको दायित्व कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 55",
+                        "textNe": "धारा ५५"
+                    },
+                    {
+                        "textEn": "Article 50",
+                        "textNe": "धारा ५०"
+                    },
+                    {
+                        "textEn": "Article 58",
+                        "textNe": "धारा ५८"
+                    },
+                    {
+                        "textEn": "Article 52",
+                        "textNe": "धारा ५२"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            }
+        ]
+    },
+    "2026-03-14": {
+        "id": "2026-03-14",
+        "title": "Challenge #14",
+        "questionsCount": "5",
+        "duration": "150",
+        "questions": [
+            {
+                "id": 6,
+                "questionEn": "Which principle promotes proportional representation?",
+                "questionNe": "समानुपातिक प्रतिनिधित्वलाई बढावा दिने सिद्धान्त कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 51(d)",
+                        "textNe": "धारा ५१(घ)"
+                    },
+                    {
+                        "textEn": "Article 53",
+                        "textNe": "धारा ५३"
+                    },
+                    {
+                        "textEn": "Article 49",
+                        "textNe": "धारा ४९"
+                    },
+                    {
+                        "textEn": "Article 55",
+                        "textNe": "धारा ५५"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 7,
+                "questionEn": "Which article sets the policy for foreign relations?",
+                "questionNe": "परराष्ट्र सम्बन्धसम्बन्धी नीति कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 51(m)",
+                        "textNe": "धारा ५१(म)"
+                    },
+                    {
+                        "textEn": "Article 54",
+                        "textNe": "धारा ५४"
+                    },
+                    {
+                        "textEn": "Article 50",
+                        "textNe": "धारा ५०"
+                    },
+                    {
+                        "textEn": "Article 56",
+                        "textNe": "धारा ५६"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 8,
+                "questionEn": "The policy regarding agriculture and land reform is in which article?",
+                "questionNe": "कृषि र भूमि सुधारसम्बन्धी नीति कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 51(e)",
+                        "textNe": "धारा ५१(ङ)"
+                    },
+                    {
+                        "textEn": "Article 52",
+                        "textNe": "धारा ५२"
+                    },
+                    {
+                        "textEn": "Article 48",
+                        "textNe": "धारा ४८"
+                    },
+                    {
+                        "textEn": "Article 55",
+                        "textNe": "धारा ५५"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 9,
+                "questionEn": "Which principle ensures social security?",
+                "questionNe": "सामाजिक सुरक्षा सुनिश्चित गर्ने कुन सिद्धान्त छ?",
+                "options": [
+                    {
+                        "textEn": "Article 51(j)",
+                        "textNe": "धारा ५१(ज)"
+                    },
+                    {
+                        "textEn": "Article 49",
+                        "textNe": "धारा ४९"
+                    },
+                    {
+                        "textEn": "Article 54",
+                        "textNe": "धारा ५४"
+                    },
+                    {
+                        "textEn": "Article 53",
+                        "textNe": "धारा ५३"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 10,
+                "questionEn": "Which article relates to policy on education and health?",
+                "questionNe": "शिक्षा र स्वास्थ्यसम्बन्धी नीति कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 51(h)",
+                        "textNe": "धारा ५१(ह)"
+                    },
+                    {
+                        "textEn": "Article 53",
+                        "textNe": "धारा ५३"
+                    },
+                    {
+                        "textEn": "Article 50",
+                        "textNe": "धारा ५०"
+                    },
+                    {
+                        "textEn": "Article 55",
+                        "textNe": "धारा ५५"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            }
+        ]
+    },
+    "2026-03-15": {
+        "id": "2026-03-15",
+        "title": "Challenge #15",
+        "questionsCount": "5",
+        "duration": "150",
+        "questions": [
+            {
+                "id": 1,
+                "questionEn": "Which article deals with the amendment of the Constitution?",
+                "questionNe": "संविधान संशोधन कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 274",
+                        "textNe": "धारा २७४"
+                    },
+                    {
+                        "textEn": "Article 268",
+                        "textNe": "धारा २६८"
+                    },
+                    {
+                        "textEn": "Article 280",
+                        "textNe": "धारा २८०"
+                    },
+                    {
+                        "textEn": "Article 260",
+                        "textNe": "धारा २६०"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 2,
+                "questionEn": "How many schedules does the 2072 Constitution have?",
+                "questionNe": "२०७२ को संविधानमा कति अनुसूचीहरू छन्?",
+                "options": [
+                    {
+                        "textEn": "9",
+                        "textNe": "९"
+                    },
+                    {
+                        "textEn": "7",
+                        "textNe": "७"
+                    },
+                    {
+                        "textEn": "11",
+                        "textNe": "११"
+                    },
+                    {
+                        "textEn": "6",
+                        "textNe": "६"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 3,
+                "questionEn": "How many parts does the 2072 Constitution have?",
+                "questionNe": "२०७२ को संविधानमा कति भागहरू छन्?",
+                "options": [
+                    {
+                        "textEn": "35",
+                        "textNe": "३५"
+                    },
+                    {
+                        "textEn": "30",
+                        "textNe": "३०"
+                    },
+                    {
+                        "textEn": "40",
+                        "textNe": "४०"
+                    },
+                    {
+                        "textEn": "28",
+                        "textNe": "२८"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 4,
+                "questionEn": "How many articles does the 2072 Constitution have?",
+                "questionNe": "२०७२ को संविधानमा कति धाराहरू छन्?",
+                "options": [
+                    {
+                        "textEn": "308",
+                        "textNe": "३०८"
+                    },
+                    {
+                        "textEn": "280",
+                        "textNe": "२८०"
+                    },
+                    {
+                        "textEn": "320",
+                        "textNe": "३२०"
+                    },
+                    {
+                        "textEn": "295",
+                        "textNe": "२९५"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 5,
+                "questionEn": "To amend any article of the Constitution, what majority is required?",
+                "questionNe": "संविधान संशोधनका लागि कति बहुमत चाहिन्छ?",
+                "options": [
+                    {
+                        "textEn": "Two-thirds majority",
+                        "textNe": "दुई-तिहाइ बहुमत"
+                    },
+                    {
+                        "textEn": "Simple majority",
+                        "textNe": "साधारण बहुमत"
+                    },
+                    {
+                        "textEn": "Three-fourths majority",
+                        "textNe": "तीन-चौथाइ बहुमत"
+                    },
+                    {
+                        "textEn": "Unanimous vote",
+                        "textNe": "सर्वसम्मत मत"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            }
+        ]
+    },
+    "2026-03-16": {
+        "id": "2026-03-16",
+        "title": "Challenge #16",
+        "questionsCount": "5",
+        "duration": "150",
+        "questions": [
+            {
+                "id": 6,
+                "questionEn": "Which article cannot be amended without provincial consent?",
+                "questionNe": "प्रदेशको सहमतिबिना कुन धारा संशोधन गर्न सकिँदैन?",
+                "options": [
+                    {
+                        "textEn": "Both 274(2) and (4)",
+                        "textNe": "धारा २७४(२) र (४) दुवै"
+                    },
+                    {
+                        "textEn": "Article 274(1) only",
+                        "textNe": "धारा २७४(१) मात्र"
+                    },
+                    {
+                        "textEn": "Any article",
+                        "textNe": "जुनसुकै धारा"
+                    },
+                    {
+                        "textEn": "Only Schedule 5",
+                        "textNe": "अनुसूची ५ मात्र"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 7,
+                "questionEn": "When does the amended Constitution come into force?",
+                "questionNe": "संशोधित संविधान कहिलेदेखि लागू हुन्छ?",
+                "options": [
+                    {
+                        "textEn": "When authenticated by President",
+                        "textNe": "राष्ट्रपतिले प्रमाणित गरेपछि"
+                    },
+                    {
+                        "textEn": "When passed by Parliament",
+                        "textNe": "संसदले पारित गरेपछि"
+                    },
+                    {
+                        "textEn": "After 30 days",
+                        "textNe": "३० दिनपछि"
+                    },
+                    {
+                        "textEn": "After referendum",
+                        "textNe": "जनमत संग्रहपछि"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 8,
+                "questionEn": "Which article guarantees the supremacy of the Constitution?",
+                "questionNe": "संविधानको सर्वोच्चता कुन धाराले सुनिश्चित गर्छ?",
+                "options": [
+                    {
+                        "textEn": "Article 1",
+                        "textNe": "धारा १"
+                    },
+                    {
+                        "textEn": "Article 5",
+                        "textNe": "धारा ५"
+                    },
+                    {
+                        "textEn": "Article 10",
+                        "textNe": "धारा १०"
+                    },
+                    {
+                        "textEn": "Article 3",
+                        "textNe": "धारा ३"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 9,
+                "questionEn": "The transitional provisions of the Constitution are in which part?",
+                "questionNe": "संविधानको संक्रमणकालीन व्यवस्था कुन भागमा छ?",
+                "options": [
+                    {
+                        "textEn": "Part 33",
+                        "textNe": "भाग ३३"
+                    },
+                    {
+                        "textEn": "Part 30",
+                        "textNe": "भाग ३०"
+                    },
+                    {
+                        "textEn": "Part 35",
+                        "textNe": "भाग ३५"
+                    },
+                    {
+                        "textEn": "Part 28",
+                        "textNe": "भाग २८"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 10,
+                "questionEn": "Which article defines the territory of Nepal?",
+                "questionNe": "नेपालको भू-भाग कुन धारामा परिभाषित छ?",
+                "options": [
+                    {
+                        "textEn": "Article 5",
+                        "textNe": "धारा ५"
+                    },
+                    {
+                        "textEn": "Article 3",
+                        "textNe": "धारा ३"
+                    },
+                    {
+                        "textEn": "Article 8",
+                        "textNe": "धारा ८"
+                    },
+                    {
+                        "textEn": "Article 1",
+                        "textNe": "धारा १"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            }
+        ]
+    },
+    "2026-03-17": {
+        "id": "2026-03-17",
+        "title": "Challenge #17",
+        "questionsCount": "5",
+        "duration": "150",
+        "questions": [
+            {
+                "id": 1,
+                "questionEn": "Which article provides for the rights of local governments?",
+                "questionNe": "स्थानीय सरकारको अधिकार कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 228",
+                        "textNe": "धारा २२८"
+                    },
+                    {
+                        "textEn": "Article 220",
+                        "textNe": "धारा २२०"
+                    },
+                    {
+                        "textEn": "Article 235",
+                        "textNe": "धारा २३५"
+                    },
+                    {
+                        "textEn": "Article 215",
+                        "textNe": "धारा २१५"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 2,
+                "questionEn": "How many types of local levels exist in Nepal?",
+                "questionNe": "नेपालमा स्थानीय तहका कति प्रकार छन्?",
+                "options": [
+                    {
+                        "textEn": "3",
+                        "textNe": "३"
+                    },
+                    {
+                        "textEn": "2",
+                        "textNe": "२"
+                    },
+                    {
+                        "textEn": "4",
+                        "textNe": "४"
+                    },
+                    {
+                        "textEn": "5",
+                        "textNe": "५"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 3,
+                "questionEn": "Who heads the Village Executive (Gaun Karyapalika)?",
+                "questionNe": "गाउँ कार्यपालिकाको अध्यक्ष को हुन्छ?",
+                "options": [
+                    {
+                        "textEn": "Chairperson",
+                        "textNe": "अध्यक्ष"
+                    },
+                    {
+                        "textEn": "Mayor",
+                        "textNe": "मेयर"
+                    },
+                    {
+                        "textEn": "Chief Minister",
+                        "textNe": "मुख्यमन्त्री"
+                    },
+                    {
+                        "textEn": "Ward Chairperson",
+                        "textNe": "वडा अध्यक्ष"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 4,
+                "questionEn": "Who heads the Metropolitan City Executive?",
+                "questionNe": "महानगरपालिका कार्यपालिकाको प्रमुख को हुन्छ?",
+                "options": [
+                    {
+                        "textEn": "Mayor",
+                        "textNe": "मेयर"
+                    },
+                    {
+                        "textEn": "Chairperson",
+                        "textNe": "अध्यक्ष"
+                    },
+                    {
+                        "textEn": "Chief Minister",
+                        "textNe": "मुख्यमन्त्री"
+                    },
+                    {
+                        "textEn": "Governor",
+                        "textNe": "राज्यपाल"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 5,
+                "questionEn": "Which schedule lists the exclusive rights of local governments?",
+                "questionNe": "स्थानीय तहको एकल अधिकार कुन अनुसूचीमा छ?",
+                "options": [
+                    {
+                        "textEn": "Schedule 8",
+                        "textNe": "अनुसूची ८"
+                    },
+                    {
+                        "textEn": "Schedule 6",
+                        "textNe": "अनुसूची ६"
+                    },
+                    {
+                        "textEn": "Schedule 9",
+                        "textNe": "अनुसूची ९"
+                    },
+                    {
+                        "textEn": "Schedule 5",
+                        "textNe": "अनुसूची ५"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            }
+        ]
+    },
+    "2026-03-18": {
+        "id": "2026-03-18",
+        "title": "Challenge #18",
+        "questionsCount": "5",
+        "duration": "150",
+        "questions": [
+            {
+                "id": 6,
+                "questionEn": "Local legislatures consist of how many levels?",
+                "questionNe": "स्थानीय व्यवस्थापिका कति तहमा छ?",
+                "options": [
+                    {
+                        "textEn": "Ward and local assembly",
+                        "textNe": "वार्ड र स्थानीय सभा"
+                    },
+                    {
+                        "textEn": "Only ward",
+                        "textNe": "वार्ड मात्र"
+                    },
+                    {
+                        "textEn": "District and village",
+                        "textNe": "जिल्ला र गाउँ"
+                    },
+                    {
+                        "textEn": "Province only",
+                        "textNe": "प्रदेश मात्र"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 7,
+                "questionEn": "Which article allows local governments to levy taxes?",
+                "questionNe": "स्थानीय तहलाई कर लगाउने अधिकार कुन धाराले दिन्छ?",
+                "options": [
+                    {
+                        "textEn": "Article 228",
+                        "textNe": "धारा २२८"
+                    },
+                    {
+                        "textEn": "Article 220",
+                        "textNe": "धारा २२०"
+                    },
+                    {
+                        "textEn": "Article 235",
+                        "textNe": "धारा २३५"
+                    },
+                    {
+                        "textEn": "Article 210",
+                        "textNe": "धारा २१०"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 8,
+                "questionEn": "How many total wards are there in Nepal?",
+                "questionNe": "नेपालमा जम्मा कति वार्ड छन्?",
+                "options": [
+                    {
+                        "textEn": "6,743",
+                        "textNe": "६,७४३"
+                    },
+                    {
+                        "textEn": "5,000",
+                        "textNe": "५,०००"
+                    },
+                    {
+                        "textEn": "7,500",
+                        "textNe": "७,५००"
+                    },
+                    {
+                        "textEn": "4,800",
+                        "textNe": "४,८००"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 9,
+                "questionEn": "Which article deals with the dissolution of local governments?",
+                "questionNe": "स्थानीय सरकार विघटनको व्यवस्था कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 232",
+                        "textNe": "धारा २३२"
+                    },
+                    {
+                        "textEn": "Article 225",
+                        "textNe": "धारा २२५"
+                    },
+                    {
+                        "textEn": "Article 238",
+                        "textNe": "धारा २३८"
+                    },
+                    {
+                        "textEn": "Article 218",
+                        "textNe": "धारा २१८"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 10,
+                "questionEn": "Who can oversee a local government's financial administration?",
+                "questionNe": "स्थानीय सरकारको वित्तीय प्रशासनको निगरानी कसले गर्छ?",
+                "options": [
+                    {
+                        "textEn": "Auditor General",
+                        "textNe": "महालेखा परीक्षक"
+                    },
+                    {
+                        "textEn": "CIAA",
+                        "textNe": "अख्तियार"
+                    },
+                    {
+                        "textEn": "Province Government",
+                        "textNe": "प्रदेश सरकार"
+                    },
+                    {
+                        "textEn": "Ministry of Finance",
+                        "textNe": "अर्थ मन्त्रालय"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            }
+        ]
+    },
+    "2026-03-19": {
+        "id": "2026-03-19",
+        "title": "Challenge #19",
+        "questionsCount": "5",
+        "duration": "150",
+        "questions": [
+            {
+                "id": 1,
+                "questionEn": "At what age can a Nepali citizen get citizenship by descent?",
+                "questionNe": "वंश परम्पराको नागरिकता कति वर्षमा पाइन्छ?",
+                "options": [
+                    {
+                        "textEn": "At birth",
+                        "textNe": "जन्मसिद्ध"
+                    },
+                    {
+                        "textEn": "18 years",
+                        "textNe": "१८ वर्षमा"
+                    },
+                    {
+                        "textEn": "16 years",
+                        "textNe": "१६ वर्षमा"
+                    },
+                    {
+                        "textEn": "21 years",
+                        "textNe": "२१ वर्षमा"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 2,
+                "questionEn": "Which article deals with citizenship by descent?",
+                "questionNe": "वंशज नागरिकता कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 11",
+                        "textNe": "धारा ११"
+                    },
+                    {
+                        "textEn": "Article 9",
+                        "textNe": "धारा ९"
+                    },
+                    {
+                        "textEn": "Article 13",
+                        "textNe": "धारा १३"
+                    },
+                    {
+                        "textEn": "Article 7",
+                        "textNe": "धारा ७"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 3,
+                "questionEn": "Who can declare a state of emergency?",
+                "questionNe": "संकटकाल कसले घोषणा गर्न सक्छ?",
+                "options": [
+                    {
+                        "textEn": "President on recommendation of Council of Ministers",
+                        "textNe": "मन्त्रिपरिषदको सिफारिसमा राष्ट्रपति"
+                    },
+                    {
+                        "textEn": "Prime Minister alone",
+                        "textNe": "प्रधानमन्त्री एकलै"
+                    },
+                    {
+                        "textEn": "Parliament",
+                        "textNe": "संसद"
+                    },
+                    {
+                        "textEn": "Supreme Court",
+                        "textNe": "सर्वोच्च अदालत"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 4,
+                "questionEn": "For how long can a state of emergency last without parliamentary approval?",
+                "questionNe": "संसदीय अनुमोदनबिना संकटकाल कति समय रहन सक्छ?",
+                "options": [
+                    {
+                        "textEn": "1 month",
+                        "textNe": "१ महिना"
+                    },
+                    {
+                        "textEn": "3 months",
+                        "textNe": "३ महिना"
+                    },
+                    {
+                        "textEn": "15 days",
+                        "textNe": "१५ दिन"
+                    },
+                    {
+                        "textEn": "6 months",
+                        "textNe": "6 महिना"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 5,
+                "questionEn": "Which article deals with the state of emergency?",
+                "questionNe": "संकटकालको व्यवस्था कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 273",
+                        "textNe": "धारा २७३"
+                    },
+                    {
+                        "textEn": "Article 265",
+                        "textNe": "धारा २६५"
+                    },
+                    {
+                        "textEn": "Article 280",
+                        "textNe": "धारा २८०"
+                    },
+                    {
+                        "textEn": "Article 258",
+                        "textNe": "धारा २५८"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            }
+        ]
+    },
+    "2026-03-20": {
+        "id": "2026-03-20",
+        "title": "Challenge #20",
+        "questionsCount": "5",
+        "duration": "150",
+        "questions": [
+            {
+                "id": 6,
+                "questionEn": "Which fundamental right cannot be suspended even during emergency?",
+                "questionNe": "संकटकालमा पनि कुन मौलिक हक निलम्बन गर्न सकिँदैन?",
+                "options": [
+                    {
+                        "textEn": "Right against Torture",
+                        "textNe": "यातनाविरुद्धको हक"
+                    },
+                    {
+                        "textEn": "Right to freedom",
+                        "textNe": "स्वतन्त्रताको हक"
+                    },
+                    {
+                        "textEn": "Right to property",
+                        "textNe": "सम्पत्तिको हक"
+                    },
+                    {
+                        "textEn": "Right to privacy",
+                        "textNe": "गोपनीयताको हक"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 7,
+                "questionEn": "Naturalized citizenship is covered in which article?",
+                "questionNe": "अङ्गीकृत नागरिकता कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 12",
+                        "textNe": "धारा १२"
+                    },
+                    {
+                        "textEn": "Article 10",
+                        "textNe": "धारा १०"
+                    },
+                    {
+                        "textEn": "Article 14",
+                        "textNe": "धारा १४"
+                    },
+                    {
+                        "textEn": "Article 8",
+                        "textNe": "धारा ८"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 8,
+                "questionEn": "Can a person have dual citizenship in Nepal?",
+                "questionNe": "नेपालमा दोहोरो नागरिकता लिन सकिन्छ?",
+                "options": [
+                    {
+                        "textEn": "No",
+                        "textNe": "सकिँदैन"
+                    },
+                    {
+                        "textEn": "Yes, always",
+                        "textNe": "सधैं सकिन्छ"
+                    },
+                    {
+                        "textEn": "Only for professionals",
+                        "textNe": "पेशेवरका लागि मात्र"
+                    },
+                    {
+                        "textEn": "Yes with government approval",
+                        "textNe": "सरकारको स्वीकृतिमा"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 9,
+                "questionEn": "Which article deals with the revocation of citizenship?",
+                "questionNe": "नागरिकता खारेजीको व्यवस्था कुन धारामा छ?",
+                "options": [
+                    {
+                        "textEn": "Article 15",
+                        "textNe": "धारा १५"
+                    },
+                    {
+                        "textEn": "Article 12",
+                        "textNe": "धारा १२"
+                    },
+                    {
+                        "textEn": "Article 18",
+                        "textNe": "धारा १८"
+                    },
+                    {
+                        "textEn": "Article 10",
+                        "textNe": "धारा १०"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "id": 10,
+                "questionEn": "Right against exile is guaranteed by which article?",
+                "questionNe": "देश निकालाविरुद्धको हक कुन धाराले दिन्छ?",
+                "options": [
+                    {
+                        "textEn": "Article 23",
+                        "textNe": "धारा २३"
+                    },
+                    {
+                        "textEn": "Article 19",
+                        "textNe": "धारा १९"
+                    },
+                    {
+                        "textEn": "Article 26",
+                        "textNe": "धारा २६"
+                    },
+                    {
+                        "textEn": "Article 21",
+                        "textNe": "धारा २१"
+                    }
+                ],
+                "correctAnswerIndex": 0
+            }
+        ]
+    }
+}
