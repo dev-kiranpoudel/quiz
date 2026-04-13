@@ -1,0 +1,2178 @@
+{
+  "2026-04-14": {
+    "id": "2026-04-14",
+    "title": "Challenge #21",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 100,
+        "questionEn": "Who is the commander-in-chief of Nepal Army?",
+        "questionNe": "नेपाल सेनाको सर्वोच्च कमाण्डर को हो?",
+        "options": [
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "Army Chief",
+            "textNe": "सेनाप्रमुख"
+          },
+          {
+            "textEn": "Defence Minister",
+            "textNe": "रक्षामन्त्री"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 101,
+        "questionEn": "Which body recommends judges?",
+        "questionNe": "न्यायाधीश सिफारिस गर्ने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Judicial Council",
+            "textNe": "न्याय परिषद"
+          },
+          {
+            "textEn": "Parliament",
+            "textNe": "संसद"
+          },
+          {
+            "textEn": "Cabinet",
+            "textNe": "मन्त्रिपरिषद"
+          },
+          {
+            "textEn": "President Office",
+            "textNe": "राष्ट्रपतिको कार्यालय"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 102,
+        "questionEn": "What ensures separation of powers?",
+        "questionNe": "शक्तिको विभाजन के ले सुनिश्चित गर्छ?",
+        "options": [
+          {
+            "textEn": "Constitution",
+            "textNe": "संविधान"
+          },
+          {
+            "textEn": "Government",
+            "textNe": "सरकार"
+          },
+          {
+            "textEn": "Court",
+            "textNe": "अदालत"
+          },
+          {
+            "textEn": "Election",
+            "textNe": "निर्वाचन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 103,
+        "questionEn": "Which right protects personal freedom?",
+        "questionNe": "व्यक्तिगत स्वतन्त्रता कुन अधिकारले जोगाउँछ?",
+        "options": [
+          {
+            "textEn": "Right to freedom",
+            "textNe": "स्वतन्त्रताको अधिकार"
+          },
+          {
+            "textEn": "Right to property",
+            "textNe": "सम्पत्तिको अधिकार"
+          },
+          {
+            "textEn": "Right to tax",
+            "textNe": "कर अधिकार"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 104,
+        "questionEn": "Who forms the Council of Ministers?",
+        "questionNe": "मन्त्रिपरिषद कसले गठन गर्छ?",
+        "options": [
+          {
+            "textEn": "Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "Speaker",
+            "textNe": "सभामुख"
+          },
+          {
+            "textEn": "Chief Justice",
+            "textNe": "प्रधानन्यायाधीश"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-04-15": {
+    "id": "2026-04-15",
+    "title": "Challenge #22",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 105,
+        "questionEn": "What is federalism?",
+        "questionNe": "संघीयता के हो?",
+        "options": [
+          {
+            "textEn": "Division of power among levels",
+            "textNe": "तहहरूबीच शक्ति बाँडफाँड"
+          },
+          {
+            "textEn": "Single power",
+            "textNe": "एकल शक्ति"
+          },
+          {
+            "textEn": "Military rule",
+            "textNe": "सैनिक शासन"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 106,
+        "questionEn": "Which organ enforces law?",
+        "questionNe": "कानून कार्यान्वयन गर्ने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Executive",
+            "textNe": "कार्यपालिका"
+          },
+          {
+            "textEn": "Legislature",
+            "textNe": "व्यवस्थापिका"
+          },
+          {
+            "textEn": "Judiciary",
+            "textNe": "न्यायपालिका"
+          },
+          {
+            "textEn": "Media",
+            "textNe": "मिडिया"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 107,
+        "questionEn": "Which organ makes law?",
+        "questionNe": "कानून बनाउने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Legislature",
+            "textNe": "व्यवस्थापिका"
+          },
+          {
+            "textEn": "Executive",
+            "textNe": "कार्यपालिका"
+          },
+          {
+            "textEn": "Judiciary",
+            "textNe": "न्यायपालिका"
+          },
+          {
+            "textEn": "Police",
+            "textNe": "प्रहरी"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 108,
+        "questionEn": "Which organ interprets law?",
+        "questionNe": "कानूनको व्याख्या गर्ने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Judiciary",
+            "textNe": "न्यायपालिका"
+          },
+          {
+            "textEn": "Executive",
+            "textNe": "कार्यपालिका"
+          },
+          {
+            "textEn": "Legislature",
+            "textNe": "व्यवस्थापिका"
+          },
+          {
+            "textEn": "Army",
+            "textNe": "सेना"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 109,
+        "questionEn": "Right to clean environment?",
+        "questionNe": "स्वच्छ वातावरणको अधिकार के हो?",
+        "options": [
+          {
+            "textEn": "Fundamental right",
+            "textNe": "मौलिक हक"
+          },
+          {
+            "textEn": "Policy",
+            "textNe": "नीति"
+          },
+          {
+            "textEn": "Optional",
+            "textNe": "ऐच्छिक"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-04-16": {
+    "id": "2026-04-16",
+    "title": "Challenge #23",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 110,
+        "questionEn": "Who approves budget?",
+        "questionNe": "बजेट कसले पारित गर्छ?",
+        "options": [
+          {
+            "textEn": "Parliament",
+            "textNe": "संसद"
+          },
+          {
+            "textEn": "Court",
+            "textNe": "अदालत"
+          },
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "PM",
+            "textNe": "प्रधानमन्त्री"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 111,
+        "questionEn": "What is citizenship?",
+        "questionNe": "नागरिकता के हो?",
+        "options": [
+          {
+            "textEn": "Legal identity",
+            "textNe": "कानुनी पहिचान"
+          },
+          {
+            "textEn": "Job",
+            "textNe": "जागिर"
+          },
+          {
+            "textEn": "Tax",
+            "textNe": "कर"
+          },
+          {
+            "textEn": "Vote only",
+            "textNe": "मतदान मात्र"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 112,
+        "questionEn": "Which election body conducts elections?",
+        "questionNe": "निर्वाचन गर्ने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Election Commission",
+            "textNe": "निर्वाचन आयोग"
+          },
+          {
+            "textEn": "Court",
+            "textNe": "अदालत"
+          },
+          {
+            "textEn": "Parliament",
+            "textNe": "संसद"
+          },
+          {
+            "textEn": "Police",
+            "textNe": "प्रहरी"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 113,
+        "questionEn": "Right to information?",
+        "questionNe": "सूचनाको अधिकार के हो?",
+        "options": [
+          {
+            "textEn": "Access to public info",
+            "textNe": "सार्वजनिक सूचना पाउने अधिकार"
+          },
+          {
+            "textEn": "Secret info",
+            "textNe": "गोप्य सूचना"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          },
+          {
+            "textEn": "Optional",
+            "textNe": "ऐच्छिक"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 114,
+        "questionEn": "Who protects constitution?",
+        "questionNe": "संविधानको संरक्षण कसले गर्छ?",
+        "options": [
+          {
+            "textEn": "Supreme Court",
+            "textNe": "सर्वोच्च अदालत"
+          },
+          {
+            "textEn": "PM",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "Speaker",
+            "textNe": "सभामुख"
+          },
+          {
+            "textEn": "Army",
+            "textNe": "सेना"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-04-17": {
+    "id": "2026-04-17",
+    "title": "Challenge #24",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 115,
+        "questionEn": "Which body audits government?",
+        "questionNe": "सरकारको लेखा परीक्षण कसले गर्छ?",
+        "options": [
+          {
+            "textEn": "Auditor General",
+            "textNe": "महालेखा परीक्षक"
+          },
+          {
+            "textEn": "Court",
+            "textNe": "अदालत"
+          },
+          {
+            "textEn": "PM",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 116,
+        "questionEn": "What is rule of law?",
+        "questionNe": "कानूनको शासन के हो?",
+        "options": [
+          {
+            "textEn": "Everyone equal before law",
+            "textNe": "सबै कानूनअगाडि समान"
+          },
+          {
+            "textEn": "Only rich rule",
+            "textNe": "धनीको शासन"
+          },
+          {
+            "textEn": "Military rule",
+            "textNe": "सैनिक शासन"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 117,
+        "questionEn": "Who is the commander-in-chief of Nepal Army?",
+        "questionNe": "नेपाल सेनाको सर्वोच्च कमाण्डर को हो?",
+        "options": [
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "Army Chief",
+            "textNe": "सेनाप्रमुख"
+          },
+          {
+            "textEn": "Defence Minister",
+            "textNe": "रक्षामन्त्री"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 118,
+        "questionEn": "Which body recommends judges?",
+        "questionNe": "न्यायाधीश सिफारिस गर्ने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Judicial Council",
+            "textNe": "न्याय परिषद"
+          },
+          {
+            "textEn": "Parliament",
+            "textNe": "संसद"
+          },
+          {
+            "textEn": "Cabinet",
+            "textNe": "मन्त्रिपरिषद"
+          },
+          {
+            "textEn": "President Office",
+            "textNe": "राष्ट्रपतिको कार्यालय"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 119,
+        "questionEn": "What ensures separation of powers?",
+        "questionNe": "शक्तिको विभाजन के ले सुनिश्चित गर्छ?",
+        "options": [
+          {
+            "textEn": "Constitution",
+            "textNe": "संविधान"
+          },
+          {
+            "textEn": "Government",
+            "textNe": "सरकार"
+          },
+          {
+            "textEn": "Court",
+            "textNe": "अदालत"
+          },
+          {
+            "textEn": "Election",
+            "textNe": "निर्वाचन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-04-18": {
+    "id": "2026-04-18",
+    "title": "Challenge #25",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 120,
+        "questionEn": "Which right protects personal freedom?",
+        "questionNe": "व्यक्तिगत स्वतन्त्रता कुन अधिकारले जोगाउँछ?",
+        "options": [
+          {
+            "textEn": "Right to freedom",
+            "textNe": "स्वतन्त्रताको अधिकार"
+          },
+          {
+            "textEn": "Right to property",
+            "textNe": "सम्पत्तिको अधिकार"
+          },
+          {
+            "textEn": "Right to tax",
+            "textNe": "कर अधिकार"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 121,
+        "questionEn": "Who forms the Council of Ministers?",
+        "questionNe": "मन्त्रिपरिषद कसले गठन गर्छ?",
+        "options": [
+          {
+            "textEn": "Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "Speaker",
+            "textNe": "सभामुख"
+          },
+          {
+            "textEn": "Chief Justice",
+            "textNe": "प्रधानन्यायाधीश"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 122,
+        "questionEn": "What is federalism?",
+        "questionNe": "संघीयता के हो?",
+        "options": [
+          {
+            "textEn": "Division of power among levels",
+            "textNe": "तहहरूबीच शक्ति बाँडफाँड"
+          },
+          {
+            "textEn": "Single power",
+            "textNe": "एकल शक्ति"
+          },
+          {
+            "textEn": "Military rule",
+            "textNe": "सैनिक शासन"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 123,
+        "questionEn": "Which organ enforces law?",
+        "questionNe": "कानून कार्यान्वयन गर्ने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Executive",
+            "textNe": "कार्यपालिका"
+          },
+          {
+            "textEn": "Legislature",
+            "textNe": "व्यवस्थापिका"
+          },
+          {
+            "textEn": "Judiciary",
+            "textNe": "न्यायपालिका"
+          },
+          {
+            "textEn": "Media",
+            "textNe": "मिडिया"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 124,
+        "questionEn": "Which organ makes law?",
+        "questionNe": "कानून बनाउने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Legislature",
+            "textNe": "व्यवस्थापिका"
+          },
+          {
+            "textEn": "Executive",
+            "textNe": "कार्यपालिका"
+          },
+          {
+            "textEn": "Judiciary",
+            "textNe": "न्यायपालिका"
+          },
+          {
+            "textEn": "Police",
+            "textNe": "प्रहरी"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-04-19": {
+    "id": "2026-04-19",
+    "title": "Challenge #26",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 125,
+        "questionEn": "Which organ interprets law?",
+        "questionNe": "कानूनको व्याख्या गर्ने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Judiciary",
+            "textNe": "न्यायपालिका"
+          },
+          {
+            "textEn": "Executive",
+            "textNe": "कार्यपालिका"
+          },
+          {
+            "textEn": "Legislature",
+            "textNe": "व्यवस्थापिका"
+          },
+          {
+            "textEn": "Army",
+            "textNe": "सेना"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 126,
+        "questionEn": "Right to clean environment?",
+        "questionNe": "स्वच्छ वातावरणको अधिकार के हो?",
+        "options": [
+          {
+            "textEn": "Fundamental right",
+            "textNe": "मौलिक हक"
+          },
+          {
+            "textEn": "Policy",
+            "textNe": "नीति"
+          },
+          {
+            "textEn": "Optional",
+            "textNe": "ऐच्छिक"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 127,
+        "questionEn": "Who approves budget?",
+        "questionNe": "बजेट कसले पारित गर्छ?",
+        "options": [
+          {
+            "textEn": "Parliament",
+            "textNe": "संसद"
+          },
+          {
+            "textEn": "Court",
+            "textNe": "अदालत"
+          },
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "PM",
+            "textNe": "प्रधानमन्त्री"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 128,
+        "questionEn": "What is citizenship?",
+        "questionNe": "नागरिकता के हो?",
+        "options": [
+          {
+            "textEn": "Legal identity",
+            "textNe": "कानुनी पहिचान"
+          },
+          {
+            "textEn": "Job",
+            "textNe": "जागिर"
+          },
+          {
+            "textEn": "Tax",
+            "textNe": "कर"
+          },
+          {
+            "textEn": "Vote only",
+            "textNe": "मतदान मात्र"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 129,
+        "questionEn": "Which election body conducts elections?",
+        "questionNe": "निर्वाचन गर्ने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Election Commission",
+            "textNe": "निर्वाचन आयोग"
+          },
+          {
+            "textEn": "Court",
+            "textNe": "अदालत"
+          },
+          {
+            "textEn": "Parliament",
+            "textNe": "संसद"
+          },
+          {
+            "textEn": "Police",
+            "textNe": "प्रहरी"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-04-20": {
+    "id": "2026-04-20",
+    "title": "Challenge #27",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 130,
+        "questionEn": "Right to information?",
+        "questionNe": "सूचनाको अधिकार के हो?",
+        "options": [
+          {
+            "textEn": "Access to public info",
+            "textNe": "सार्वजनिक सूचना पाउने अधिकार"
+          },
+          {
+            "textEn": "Secret info",
+            "textNe": "गोप्य सूचना"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          },
+          {
+            "textEn": "Optional",
+            "textNe": "ऐच्छिक"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 131,
+        "questionEn": "Who protects constitution?",
+        "questionNe": "संविधानको संरक्षण कसले गर्छ?",
+        "options": [
+          {
+            "textEn": "Supreme Court",
+            "textNe": "सर्वोच्च अदालत"
+          },
+          {
+            "textEn": "PM",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "Speaker",
+            "textNe": "सभामुख"
+          },
+          {
+            "textEn": "Army",
+            "textNe": "सेना"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 132,
+        "questionEn": "Which body audits government?",
+        "questionNe": "सरकारको लेखा परीक्षण कसले गर्छ?",
+        "options": [
+          {
+            "textEn": "Auditor General",
+            "textNe": "महालेखा परीक्षक"
+          },
+          {
+            "textEn": "Court",
+            "textNe": "अदालत"
+          },
+          {
+            "textEn": "PM",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 133,
+        "questionEn": "What is rule of law?",
+        "questionNe": "कानूनको शासन के हो?",
+        "options": [
+          {
+            "textEn": "Everyone equal before law",
+            "textNe": "सबै कानूनअगाडि समान"
+          },
+          {
+            "textEn": "Only rich rule",
+            "textNe": "धनीको शासन"
+          },
+          {
+            "textEn": "Military rule",
+            "textNe": "सैनिक शासन"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 134,
+        "questionEn": "Who is the commander-in-chief of Nepal Army?",
+        "questionNe": "नेपाल सेनाको सर्वोच्च कमाण्डर को हो?",
+        "options": [
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "Army Chief",
+            "textNe": "सेनाप्रमुख"
+          },
+          {
+            "textEn": "Defence Minister",
+            "textNe": "रक्षामन्त्री"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-04-21": {
+    "id": "2026-04-21",
+    "title": "Challenge #28",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 135,
+        "questionEn": "Which body recommends judges?",
+        "questionNe": "न्यायाधीश सिफारिस गर्ने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Judicial Council",
+            "textNe": "न्याय परिषद"
+          },
+          {
+            "textEn": "Parliament",
+            "textNe": "संसद"
+          },
+          {
+            "textEn": "Cabinet",
+            "textNe": "मन्त्रिपरिषद"
+          },
+          {
+            "textEn": "President Office",
+            "textNe": "राष्ट्रपतिको कार्यालय"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 136,
+        "questionEn": "What ensures separation of powers?",
+        "questionNe": "शक्तिको विभाजन के ले सुनिश्चित गर्छ?",
+        "options": [
+          {
+            "textEn": "Constitution",
+            "textNe": "संविधान"
+          },
+          {
+            "textEn": "Government",
+            "textNe": "सरकार"
+          },
+          {
+            "textEn": "Court",
+            "textNe": "अदालत"
+          },
+          {
+            "textEn": "Election",
+            "textNe": "निर्वाचन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 137,
+        "questionEn": "Which right protects personal freedom?",
+        "questionNe": "व्यक्तिगत स्वतन्त्रता कुन अधिकारले जोगाउँछ?",
+        "options": [
+          {
+            "textEn": "Right to freedom",
+            "textNe": "स्वतन्त्रताको अधिकार"
+          },
+          {
+            "textEn": "Right to property",
+            "textNe": "सम्पत्तिको अधिकार"
+          },
+          {
+            "textEn": "Right to tax",
+            "textNe": "कर अधिकार"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 138,
+        "questionEn": "Who forms the Council of Ministers?",
+        "questionNe": "मन्त्रिपरिषद कसले गठन गर्छ?",
+        "options": [
+          {
+            "textEn": "Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "Speaker",
+            "textNe": "सभामुख"
+          },
+          {
+            "textEn": "Chief Justice",
+            "textNe": "प्रधानन्यायाधीश"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 139,
+        "questionEn": "What is federalism?",
+        "questionNe": "संघीयता के हो?",
+        "options": [
+          {
+            "textEn": "Division of power among levels",
+            "textNe": "तहहरूबीच शक्ति बाँडफाँड"
+          },
+          {
+            "textEn": "Single power",
+            "textNe": "एकल शक्ति"
+          },
+          {
+            "textEn": "Military rule",
+            "textNe": "सैनिक शासन"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-04-22": {
+    "id": "2026-04-22",
+    "title": "Challenge #29",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 140,
+        "questionEn": "Which organ enforces law?",
+        "questionNe": "कानून कार्यान्वयन गर्ने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Executive",
+            "textNe": "कार्यपालिका"
+          },
+          {
+            "textEn": "Legislature",
+            "textNe": "व्यवस्थापिका"
+          },
+          {
+            "textEn": "Judiciary",
+            "textNe": "न्यायपालिका"
+          },
+          {
+            "textEn": "Media",
+            "textNe": "मिडिया"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 141,
+        "questionEn": "Which organ makes law?",
+        "questionNe": "कानून बनाउने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Legislature",
+            "textNe": "व्यवस्थापिका"
+          },
+          {
+            "textEn": "Executive",
+            "textNe": "कार्यपालिका"
+          },
+          {
+            "textEn": "Judiciary",
+            "textNe": "न्यायपालिका"
+          },
+          {
+            "textEn": "Police",
+            "textNe": "प्रहरी"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 142,
+        "questionEn": "Which organ interprets law?",
+        "questionNe": "कानूनको व्याख्या गर्ने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Judiciary",
+            "textNe": "न्यायपालिका"
+          },
+          {
+            "textEn": "Executive",
+            "textNe": "कार्यपालिका"
+          },
+          {
+            "textEn": "Legislature",
+            "textNe": "व्यवस्थापिका"
+          },
+          {
+            "textEn": "Army",
+            "textNe": "सेना"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 143,
+        "questionEn": "Right to clean environment?",
+        "questionNe": "स्वच्छ वातावरणको अधिकार के हो?",
+        "options": [
+          {
+            "textEn": "Fundamental right",
+            "textNe": "मौलिक हक"
+          },
+          {
+            "textEn": "Policy",
+            "textNe": "नीति"
+          },
+          {
+            "textEn": "Optional",
+            "textNe": "ऐच्छिक"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 144,
+        "questionEn": "Who approves budget?",
+        "questionNe": "बजेट कसले पारित गर्छ?",
+        "options": [
+          {
+            "textEn": "Parliament",
+            "textNe": "संसद"
+          },
+          {
+            "textEn": "Court",
+            "textNe": "अदालत"
+          },
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "PM",
+            "textNe": "प्रधानमन्त्री"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-04-23": {
+    "id": "2026-04-23",
+    "title": "Challenge #30",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 145,
+        "questionEn": "What is citizenship?",
+        "questionNe": "नागरिकता के हो?",
+        "options": [
+          {
+            "textEn": "Legal identity",
+            "textNe": "कानुनी पहिचान"
+          },
+          {
+            "textEn": "Job",
+            "textNe": "जागिर"
+          },
+          {
+            "textEn": "Tax",
+            "textNe": "कर"
+          },
+          {
+            "textEn": "Vote only",
+            "textNe": "मतदान मात्र"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 146,
+        "questionEn": "Which election body conducts elections?",
+        "questionNe": "निर्वाचन गर्ने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Election Commission",
+            "textNe": "निर्वाचन आयोग"
+          },
+          {
+            "textEn": "Court",
+            "textNe": "अदालत"
+          },
+          {
+            "textEn": "Parliament",
+            "textNe": "संसद"
+          },
+          {
+            "textEn": "Police",
+            "textNe": "प्रहरी"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 147,
+        "questionEn": "Right to information?",
+        "questionNe": "सूचनाको अधिकार के हो?",
+        "options": [
+          {
+            "textEn": "Access to public info",
+            "textNe": "सार्वजनिक सूचना पाउने अधिकार"
+          },
+          {
+            "textEn": "Secret info",
+            "textNe": "गोप्य सूचना"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          },
+          {
+            "textEn": "Optional",
+            "textNe": "ऐच्छिक"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 148,
+        "questionEn": "Who protects constitution?",
+        "questionNe": "संविधानको संरक्षण कसले गर्छ?",
+        "options": [
+          {
+            "textEn": "Supreme Court",
+            "textNe": "सर्वोच्च अदालत"
+          },
+          {
+            "textEn": "PM",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "Speaker",
+            "textNe": "सभामुख"
+          },
+          {
+            "textEn": "Army",
+            "textNe": "सेना"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 149,
+        "questionEn": "Which body audits government?",
+        "questionNe": "सरकारको लेखा परीक्षण कसले गर्छ?",
+        "options": [
+          {
+            "textEn": "Auditor General",
+            "textNe": "महालेखा परीक्षक"
+          },
+          {
+            "textEn": "Court",
+            "textNe": "अदालत"
+          },
+          {
+            "textEn": "PM",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-04-24": {
+    "id": "2026-04-24",
+    "title": "Challenge #31",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 150,
+        "questionEn": "What is rule of law?",
+        "questionNe": "कानूनको शासन के हो?",
+        "options": [
+          {
+            "textEn": "Everyone equal before law",
+            "textNe": "सबै कानूनअगाडि समान"
+          },
+          {
+            "textEn": "Only rich rule",
+            "textNe": "धनीको शासन"
+          },
+          {
+            "textEn": "Military rule",
+            "textNe": "सैनिक शासन"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 151,
+        "questionEn": "Who is the commander-in-chief of Nepal Army?",
+        "questionNe": "नेपाल सेनाको सर्वोच्च कमाण्डर को हो?",
+        "options": [
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "Army Chief",
+            "textNe": "सेनाप्रमुख"
+          },
+          {
+            "textEn": "Defence Minister",
+            "textNe": "रक्षामन्त्री"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 152,
+        "questionEn": "Which body recommends judges?",
+        "questionNe": "न्यायाधीश सिफारिस गर्ने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Judicial Council",
+            "textNe": "न्याय परिषद"
+          },
+          {
+            "textEn": "Parliament",
+            "textNe": "संसद"
+          },
+          {
+            "textEn": "Cabinet",
+            "textNe": "मन्त्रिपरिषद"
+          },
+          {
+            "textEn": "President Office",
+            "textNe": "राष्ट्रपतिको कार्यालय"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 153,
+        "questionEn": "What ensures separation of powers?",
+        "questionNe": "शक्तिको विभाजन के ले सुनिश्चित गर्छ?",
+        "options": [
+          {
+            "textEn": "Constitution",
+            "textNe": "संविधान"
+          },
+          {
+            "textEn": "Government",
+            "textNe": "सरकार"
+          },
+          {
+            "textEn": "Court",
+            "textNe": "अदालत"
+          },
+          {
+            "textEn": "Election",
+            "textNe": "निर्वाचन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 154,
+        "questionEn": "Which right protects personal freedom?",
+        "questionNe": "व्यक्तिगत स्वतन्त्रता कुन अधिकारले जोगाउँछ?",
+        "options": [
+          {
+            "textEn": "Right to freedom",
+            "textNe": "स्वतन्त्रताको अधिकार"
+          },
+          {
+            "textEn": "Right to property",
+            "textNe": "सम्पत्तिको अधिकार"
+          },
+          {
+            "textEn": "Right to tax",
+            "textNe": "कर अधिकार"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-04-25": {
+    "id": "2026-04-25",
+    "title": "Challenge #32",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 155,
+        "questionEn": "Who forms the Council of Ministers?",
+        "questionNe": "मन्त्रिपरिषद कसले गठन गर्छ?",
+        "options": [
+          {
+            "textEn": "Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "Speaker",
+            "textNe": "सभामुख"
+          },
+          {
+            "textEn": "Chief Justice",
+            "textNe": "प्रधानन्यायाधीश"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 156,
+        "questionEn": "What is federalism?",
+        "questionNe": "संघीयता के हो?",
+        "options": [
+          {
+            "textEn": "Division of power among levels",
+            "textNe": "तहहरूबीच शक्ति बाँडफाँड"
+          },
+          {
+            "textEn": "Single power",
+            "textNe": "एकल शक्ति"
+          },
+          {
+            "textEn": "Military rule",
+            "textNe": "सैनिक शासन"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 157,
+        "questionEn": "Which organ enforces law?",
+        "questionNe": "कानून कार्यान्वयन गर्ने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Executive",
+            "textNe": "कार्यपालिका"
+          },
+          {
+            "textEn": "Legislature",
+            "textNe": "व्यवस्थापिका"
+          },
+          {
+            "textEn": "Judiciary",
+            "textNe": "न्यायपालिका"
+          },
+          {
+            "textEn": "Media",
+            "textNe": "मिडिया"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 158,
+        "questionEn": "Which organ makes law?",
+        "questionNe": "कानून बनाउने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Legislature",
+            "textNe": "व्यवस्थापिका"
+          },
+          {
+            "textEn": "Executive",
+            "textNe": "कार्यपालिका"
+          },
+          {
+            "textEn": "Judiciary",
+            "textNe": "न्यायपालिका"
+          },
+          {
+            "textEn": "Police",
+            "textNe": "प्रहरी"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 159,
+        "questionEn": "Which organ interprets law?",
+        "questionNe": "कानूनको व्याख्या गर्ने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Judiciary",
+            "textNe": "न्यायपालिका"
+          },
+          {
+            "textEn": "Executive",
+            "textNe": "कार्यपालिका"
+          },
+          {
+            "textEn": "Legislature",
+            "textNe": "व्यवस्थापिका"
+          },
+          {
+            "textEn": "Army",
+            "textNe": "सेना"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-04-26": {
+    "id": "2026-04-26",
+    "title": "Challenge #33",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 160,
+        "questionEn": "Right to clean environment?",
+        "questionNe": "स्वच्छ वातावरणको अधिकार के हो?",
+        "options": [
+          {
+            "textEn": "Fundamental right",
+            "textNe": "मौलिक हक"
+          },
+          {
+            "textEn": "Policy",
+            "textNe": "नीति"
+          },
+          {
+            "textEn": "Optional",
+            "textNe": "ऐच्छिक"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 161,
+        "questionEn": "Who approves budget?",
+        "questionNe": "बजेट कसले पारित गर्छ?",
+        "options": [
+          {
+            "textEn": "Parliament",
+            "textNe": "संसद"
+          },
+          {
+            "textEn": "Court",
+            "textNe": "अदालत"
+          },
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "PM",
+            "textNe": "प्रधानमन्त्री"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 162,
+        "questionEn": "What is citizenship?",
+        "questionNe": "नागरिकता के हो?",
+        "options": [
+          {
+            "textEn": "Legal identity",
+            "textNe": "कानुनी पहिचान"
+          },
+          {
+            "textEn": "Job",
+            "textNe": "जागिर"
+          },
+          {
+            "textEn": "Tax",
+            "textNe": "कर"
+          },
+          {
+            "textEn": "Vote only",
+            "textNe": "मतदान मात्र"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 163,
+        "questionEn": "Which election body conducts elections?",
+        "questionNe": "निर्वाचन गर्ने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Election Commission",
+            "textNe": "निर्वाचन आयोग"
+          },
+          {
+            "textEn": "Court",
+            "textNe": "अदालत"
+          },
+          {
+            "textEn": "Parliament",
+            "textNe": "संसद"
+          },
+          {
+            "textEn": "Police",
+            "textNe": "प्रहरी"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 164,
+        "questionEn": "Right to information?",
+        "questionNe": "सूचनाको अधिकार के हो?",
+        "options": [
+          {
+            "textEn": "Access to public info",
+            "textNe": "सार्वजनिक सूचना पाउने अधिकार"
+          },
+          {
+            "textEn": "Secret info",
+            "textNe": "गोप्य सूचना"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          },
+          {
+            "textEn": "Optional",
+            "textNe": "ऐच्छिक"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-04-27": {
+    "id": "2026-04-27",
+    "title": "Challenge #34",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 165,
+        "questionEn": "Who protects constitution?",
+        "questionNe": "संविधानको संरक्षण कसले गर्छ?",
+        "options": [
+          {
+            "textEn": "Supreme Court",
+            "textNe": "सर्वोच्च अदालत"
+          },
+          {
+            "textEn": "PM",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "Speaker",
+            "textNe": "सभामुख"
+          },
+          {
+            "textEn": "Army",
+            "textNe": "सेना"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 166,
+        "questionEn": "Which body audits government?",
+        "questionNe": "सरकारको लेखा परीक्षण कसले गर्छ?",
+        "options": [
+          {
+            "textEn": "Auditor General",
+            "textNe": "महालेखा परीक्षक"
+          },
+          {
+            "textEn": "Court",
+            "textNe": "अदालत"
+          },
+          {
+            "textEn": "PM",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 167,
+        "questionEn": "What is rule of law?",
+        "questionNe": "कानूनको शासन के हो?",
+        "options": [
+          {
+            "textEn": "Everyone equal before law",
+            "textNe": "सबै कानूनअगाडि समान"
+          },
+          {
+            "textEn": "Only rich rule",
+            "textNe": "धनीको शासन"
+          },
+          {
+            "textEn": "Military rule",
+            "textNe": "सैनिक शासन"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 168,
+        "questionEn": "Who is the commander-in-chief of Nepal Army?",
+        "questionNe": "नेपाल सेनाको सर्वोच्च कमाण्डर को हो?",
+        "options": [
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "Army Chief",
+            "textNe": "सेनाप्रमुख"
+          },
+          {
+            "textEn": "Defence Minister",
+            "textNe": "रक्षामन्त्री"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 169,
+        "questionEn": "Which body recommends judges?",
+        "questionNe": "न्यायाधीश सिफारिस गर्ने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Judicial Council",
+            "textNe": "न्याय परिषद"
+          },
+          {
+            "textEn": "Parliament",
+            "textNe": "संसद"
+          },
+          {
+            "textEn": "Cabinet",
+            "textNe": "मन्त्रिपरिषद"
+          },
+          {
+            "textEn": "President Office",
+            "textNe": "राष्ट्रपतिको कार्यालय"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-04-28": {
+    "id": "2026-04-28",
+    "title": "Challenge #35",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 170,
+        "questionEn": "What ensures separation of powers?",
+        "questionNe": "शक्तिको विभाजन के ले सुनिश्चित गर्छ?",
+        "options": [
+          {
+            "textEn": "Constitution",
+            "textNe": "संविधान"
+          },
+          {
+            "textEn": "Government",
+            "textNe": "सरकार"
+          },
+          {
+            "textEn": "Court",
+            "textNe": "अदालत"
+          },
+          {
+            "textEn": "Election",
+            "textNe": "निर्वाचन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 171,
+        "questionEn": "Which right protects personal freedom?",
+        "questionNe": "व्यक्तिगत स्वतन्त्रता कुन अधिकारले जोगाउँछ?",
+        "options": [
+          {
+            "textEn": "Right to freedom",
+            "textNe": "स्वतन्त्रताको अधिकार"
+          },
+          {
+            "textEn": "Right to property",
+            "textNe": "सम्पत्तिको अधिकार"
+          },
+          {
+            "textEn": "Right to tax",
+            "textNe": "कर अधिकार"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 172,
+        "questionEn": "Who forms the Council of Ministers?",
+        "questionNe": "मन्त्रिपरिषद कसले गठन गर्छ?",
+        "options": [
+          {
+            "textEn": "Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "Speaker",
+            "textNe": "सभामुख"
+          },
+          {
+            "textEn": "Chief Justice",
+            "textNe": "प्रधानन्यायाधीश"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 173,
+        "questionEn": "What is federalism?",
+        "questionNe": "संघीयता के हो?",
+        "options": [
+          {
+            "textEn": "Division of power among levels",
+            "textNe": "तहहरूबीच शक्ति बाँडफाँड"
+          },
+          {
+            "textEn": "Single power",
+            "textNe": "एकल शक्ति"
+          },
+          {
+            "textEn": "Military rule",
+            "textNe": "सैनिक शासन"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 174,
+        "questionEn": "Which organ enforces law?",
+        "questionNe": "कानून कार्यान्वयन गर्ने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Executive",
+            "textNe": "कार्यपालिका"
+          },
+          {
+            "textEn": "Legislature",
+            "textNe": "व्यवस्थापिका"
+          },
+          {
+            "textEn": "Judiciary",
+            "textNe": "न्यायपालिका"
+          },
+          {
+            "textEn": "Media",
+            "textNe": "मिडिया"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-04-29": {
+    "id": "2026-04-29",
+    "title": "Challenge #36",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 175,
+        "questionEn": "Which organ makes law?",
+        "questionNe": "कानून बनाउने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Legislature",
+            "textNe": "व्यवस्थापिका"
+          },
+          {
+            "textEn": "Executive",
+            "textNe": "कार्यपालिका"
+          },
+          {
+            "textEn": "Judiciary",
+            "textNe": "न्यायपालिका"
+          },
+          {
+            "textEn": "Police",
+            "textNe": "प्रहरी"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 176,
+        "questionEn": "Which organ interprets law?",
+        "questionNe": "कानूनको व्याख्या गर्ने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Judiciary",
+            "textNe": "न्यायपालिका"
+          },
+          {
+            "textEn": "Executive",
+            "textNe": "कार्यपालिका"
+          },
+          {
+            "textEn": "Legislature",
+            "textNe": "व्यवस्थापिका"
+          },
+          {
+            "textEn": "Army",
+            "textNe": "सेना"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 177,
+        "questionEn": "Right to clean environment?",
+        "questionNe": "स्वच्छ वातावरणको अधिकार के हो?",
+        "options": [
+          {
+            "textEn": "Fundamental right",
+            "textNe": "मौलिक हक"
+          },
+          {
+            "textEn": "Policy",
+            "textNe": "नीति"
+          },
+          {
+            "textEn": "Optional",
+            "textNe": "ऐच्छिक"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 178,
+        "questionEn": "Who approves budget?",
+        "questionNe": "बजेट कसले पारित गर्छ?",
+        "options": [
+          {
+            "textEn": "Parliament",
+            "textNe": "संसद"
+          },
+          {
+            "textEn": "Court",
+            "textNe": "अदालत"
+          },
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "PM",
+            "textNe": "प्रधानमन्त्री"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 179,
+        "questionEn": "What is citizenship?",
+        "questionNe": "नागरिकता के हो?",
+        "options": [
+          {
+            "textEn": "Legal identity",
+            "textNe": "कानुनी पहिचान"
+          },
+          {
+            "textEn": "Job",
+            "textNe": "जागिर"
+          },
+          {
+            "textEn": "Tax",
+            "textNe": "कर"
+          },
+          {
+            "textEn": "Vote only",
+            "textNe": "मतदान मात्र"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-04-30": {
+    "id": "2026-04-30",
+    "title": "Challenge #37",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 180,
+        "questionEn": "Which election body conducts elections?",
+        "questionNe": "निर्वाचन गर्ने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Election Commission",
+            "textNe": "निर्वाचन आयोग"
+          },
+          {
+            "textEn": "Court",
+            "textNe": "अदालत"
+          },
+          {
+            "textEn": "Parliament",
+            "textNe": "संसद"
+          },
+          {
+            "textEn": "Police",
+            "textNe": "प्रहरी"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 181,
+        "questionEn": "Right to information?",
+        "questionNe": "सूचनाको अधिकार के हो?",
+        "options": [
+          {
+            "textEn": "Access to public info",
+            "textNe": "सार्वजनिक सूचना पाउने अधिकार"
+          },
+          {
+            "textEn": "Secret info",
+            "textNe": "गोप्य सूचना"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          },
+          {
+            "textEn": "Optional",
+            "textNe": "ऐच्छिक"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 182,
+        "questionEn": "Who protects constitution?",
+        "questionNe": "संविधानको संरक्षण कसले गर्छ?",
+        "options": [
+          {
+            "textEn": "Supreme Court",
+            "textNe": "सर्वोच्च अदालत"
+          },
+          {
+            "textEn": "PM",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "Speaker",
+            "textNe": "सभामुख"
+          },
+          {
+            "textEn": "Army",
+            "textNe": "सेना"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 183,
+        "questionEn": "Which body audits government?",
+        "questionNe": "सरकारको लेखा परीक्षण कसले गर्छ?",
+        "options": [
+          {
+            "textEn": "Auditor General",
+            "textNe": "महालेखा परीक्षक"
+          },
+          {
+            "textEn": "Court",
+            "textNe": "अदालत"
+          },
+          {
+            "textEn": "PM",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 184,
+        "questionEn": "What is rule of law?",
+        "questionNe": "कानूनको शासन के हो?",
+        "options": [
+          {
+            "textEn": "Everyone equal before law",
+            "textNe": "सबै कानूनअगाडि समान"
+          },
+          {
+            "textEn": "Only rich rule",
+            "textNe": "धनीको शासन"
+          },
+          {
+            "textEn": "Military rule",
+            "textNe": "सैनिक शासन"
+          },
+          {
+            "textEn": "None",
+            "textNe": "कुनै होइन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  }
+}
