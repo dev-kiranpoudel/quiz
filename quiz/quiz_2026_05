@@ -1,0 +1,388 @@
+{
+  "2026-05-09": {
+    "id": "2026-05-09",
+    "title": "Challenge #46",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 230,
+        "questionEn": "What is the supreme law of Nepal?",
+        "questionNe": "नेपालको सर्वोच्च कानून कुन हो?",
+        "options": [
+          {
+            "textEn": "Constitution",
+            "textNe": "संविधान"
+          },
+          {
+            "textEn": "Act",
+            "textNe": "ऐन"
+          },
+          {
+            "textEn": "Directive",
+            "textNe": "निर्देशन"
+          },
+          {
+            "textEn": "Policy",
+            "textNe": "नीति"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 231,
+        "questionEn": "How many provinces are there in Nepal?",
+        "questionNe": "नेपालमा कति प्रदेश छन्?",
+        "options": [
+          {
+            "textEn": "7",
+            "textNe": "७"
+          },
+          {
+            "textEn": "5",
+            "textNe": "५"
+          },
+          {
+            "textEn": "8",
+            "textNe": "८"
+          },
+          {
+            "textEn": "10",
+            "textNe": "१०"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 232,
+        "questionEn": "Who appoints the Prime Minister?",
+        "questionNe": "प्रधानमन्त्रीलाई कसले नियुक्त गर्छ?",
+        "options": [
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "Chief Justice",
+            "textNe": "प्रधानन्यायाधीश"
+          },
+          {
+            "textEn": "Speaker",
+            "textNe": "सभामुख"
+          },
+          {
+            "textEn": "Army Chief",
+            "textNe": "सेनाप्रमुख"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 233,
+        "questionEn": "Which court is the highest court in Nepal?",
+        "questionNe": "नेपालको सर्वोच्च अदालत कुन हो?",
+        "options": [
+          {
+            "textEn": "Supreme Court",
+            "textNe": "सर्वोच्च अदालत"
+          },
+          {
+            "textEn": "High Court",
+            "textNe": "उच्च अदालत"
+          },
+          {
+            "textEn": "District Court",
+            "textNe": "जिल्ला अदालत"
+          },
+          {
+            "textEn": "Special Court",
+            "textNe": "विशेष अदालत"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 234,
+        "questionEn": "What is the minimum voting age in Nepal?",
+        "questionNe": "नेपालमा मतदान गर्न न्यूनतम उमेर कति हो?",
+        "options": [
+          {
+            "textEn": "18 years",
+            "textNe": "१८ वर्ष"
+          },
+          {
+            "textEn": "16 years",
+            "textNe": "१६ वर्ष"
+          },
+          {
+            "textEn": "20 years",
+            "textNe": "२० वर्ष"
+          },
+          {
+            "textEn": "21 years",
+            "textNe": "२१ वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+
+  "2026-05-10": {
+    "id": "2026-05-10",
+    "title": "Challenge #47",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 235,
+        "questionEn": "What type of state is Nepal?",
+        "questionNe": "नेपाल कस्तो राज्य हो?",
+        "options": [
+          {
+            "textEn": "Federal Democratic Republic",
+            "textNe": "संघीय लोकतान्त्रिक गणतन्त्र"
+          },
+          {
+            "textEn": "Monarchy",
+            "textNe": "राजतन्त्र"
+          },
+          {
+            "textEn": "Military State",
+            "textNe": "सैनिक राज्य"
+          },
+          {
+            "textEn": "Communist State",
+            "textNe": "साम्यवादी राज्य"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 236,
+        "questionEn": "Who is the head of state in Nepal?",
+        "questionNe": "नेपालको राष्ट्र प्रमुख को हो?",
+        "options": [
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "Chief Justice",
+            "textNe": "प्रधानन्यायाधीश"
+          },
+          {
+            "textEn": "Speaker",
+            "textNe": "सभामुख"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 237,
+        "questionEn": "What is the official language of Nepal?",
+        "questionNe": "नेपालको सरकारी भाषा कुन हो?",
+        "options": [
+          {
+            "textEn": "Nepali",
+            "textNe": "नेपाली"
+          },
+          {
+            "textEn": "Hindi",
+            "textNe": "हिन्दी"
+          },
+          {
+            "textEn": "English",
+            "textNe": "अंग्रेजी"
+          },
+          {
+            "textEn": "Maithili",
+            "textNe": "मैथिली"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 238,
+        "questionEn": "Which right protects privacy?",
+        "questionNe": "गोपनीयताको संरक्षण गर्ने अधिकार कुन हो?",
+        "options": [
+          {
+            "textEn": "Right to privacy",
+            "textNe": "गोपनीयताको अधिकार"
+          },
+          {
+            "textEn": "Right to property",
+            "textNe": "सम्पत्तिको अधिकार"
+          },
+          {
+            "textEn": "Right to vote",
+            "textNe": "मतदानको अधिकार"
+          },
+          {
+            "textEn": "Right to tax",
+            "textNe": "कर अधिकार"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 239,
+        "questionEn": "How many members are there in the House of Representatives?",
+        "questionNe": "प्रतिनिधि सभामा कति सदस्य हुन्छन्?",
+        "options": [
+          {
+            "textEn": "275",
+            "textNe": "२७५"
+          },
+          {
+            "textEn": "250",
+            "textNe": "२५०"
+          },
+          {
+            "textEn": "290",
+            "textNe": "२९०"
+          },
+          {
+            "textEn": "300",
+            "textNe": "३००"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+
+  "2026-05-11": {
+    "id": "2026-05-11",
+    "title": "Challenge #48",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 240,
+        "questionEn": "Which body conducts local elections?",
+        "questionNe": "स्थानीय निर्वाचन कसले सञ्चालन गर्छ?",
+        "options": [
+          {
+            "textEn": "Election Commission",
+            "textNe": "निर्वाचन आयोग"
+          },
+          {
+            "textEn": "Supreme Court",
+            "textNe": "सर्वोच्च अदालत"
+          },
+          {
+            "textEn": "Cabinet",
+            "textNe": "मन्त्रिपरिषद"
+          },
+          {
+            "textEn": "Police",
+            "textNe": "प्रहरी"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 241,
+        "questionEn": "Which right guarantees equality?",
+        "questionNe": "समानताको ग्यारेन्टी गर्ने अधिकार कुन हो?",
+        "options": [
+          {
+            "textEn": "Right to equality",
+            "textNe": "समानताको अधिकार"
+          },
+          {
+            "textEn": "Right to tax",
+            "textNe": "कर अधिकार"
+          },
+          {
+            "textEn": "Right to property",
+            "textNe": "सम्पत्तिको अधिकार"
+          },
+          {
+            "textEn": "Right to secrecy",
+            "textNe": "गोप्यताको अधिकार"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 242,
+        "questionEn": "Which organ is responsible for justice?",
+        "questionNe": "न्याय प्रदान गर्ने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Judiciary",
+            "textNe": "न्यायपालिका"
+          },
+          {
+            "textEn": "Executive",
+            "textNe": "कार्यपालिका"
+          },
+          {
+            "textEn": "Legislature",
+            "textNe": "व्यवस्थापिका"
+          },
+          {
+            "textEn": "Media",
+            "textNe": "मिडिया"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 243,
+        "questionEn": "Who presents the national budget in Nepal?",
+        "questionNe": "नेपालमा राष्ट्रिय बजेट कसले प्रस्तुत गर्छ?",
+        "options": [
+          {
+            "textEn": "Finance Minister",
+            "textNe": "अर्थमन्त्री"
+          },
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "Chief Justice",
+            "textNe": "प्रधानन्यायाधीश"
+          },
+          {
+            "textEn": "Speaker",
+            "textNe": "सभामुख"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 244,
+        "questionEn": "Which right guarantees education?",
+        "questionNe": "शिक्षाको ग्यारेन्टी गर्ने अधिकार कुन हो?",
+        "options": [
+          {
+            "textEn": "Right to education",
+            "textNe": "शिक्षाको अधिकार"
+          },
+          {
+            "textEn": "Right to property",
+            "textNe": "सम्पत्तिको अधिकार"
+          },
+          {
+            "textEn": "Right to tax",
+            "textNe": "कर अधिकार"
+          },
+          {
+            "textEn": "Right to privacy",
+            "textNe": "गोपनीयताको अधिकार"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  }
+}
