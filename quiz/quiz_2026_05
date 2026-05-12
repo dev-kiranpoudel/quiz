@@ -384,5 +384,262 @@
         "correctAnswerIndex": 0
       }
     ]
+  },
+  "2026-05-13": {
+    "id": "2026-05-13",
+    "title": "Challenge #54",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 270,
+        "questionEn": "Who is the guardian of the Constitution?",
+        "questionNe": "संविधानको संरक्षक को हो?",
+        "options": [
+          {
+            "textEn": "Supreme Court",
+            "textNe": "सर्वोच्च अदालत"
+          },
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "National Assembly",
+            "textNe": "राष्ट्रिय सभा"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 271,
+        "questionEn": "Which right guarantees religious freedom?",
+        "questionNe": "धार्मिक स्वतन्त्रताको ग्यारेन्टी गर्ने अधिकार कुन हो?",
+        "options": [
+          {
+            "textEn": "Right to Religion",
+            "textNe": "धर्मको अधिकार"
+          },
+          {
+            "textEn": "Right to Property",
+            "textNe": "सम्पत्तिको अधिकार"
+          },
+          {
+            "textEn": "Right to Equality",
+            "textNe": "समानताको अधिकार"
+          },
+          {
+            "textEn": "Right to Information",
+            "textNe": "सूचनाको अधिकार"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 272,
+        "questionEn": "Who appoints ambassadors of Nepal?",
+        "questionNe": "नेपालका राजदूतहरूलाई कसले नियुक्त गर्छ?",
+        "options": [
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "Chief Justice",
+            "textNe": "प्रधानन्यायाधीश"
+          },
+          {
+            "textEn": "Home Minister",
+            "textNe": "गृहमन्त्री"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 273,
+        "questionEn": "What is the term of National Assembly members?",
+        "questionNe": "राष्ट्रिय सभा सदस्यको कार्यकाल कति वर्षको हुन्छ?",
+        "options": [
+          {
+            "textEn": "6 years",
+            "textNe": "६ वर्ष"
+          },
+          {
+            "textEn": "5 years",
+            "textNe": "५ वर्ष"
+          },
+          {
+            "textEn": "4 years",
+            "textNe": "४ वर्ष"
+          },
+          {
+            "textEn": "7 years",
+            "textNe": "७ वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 274,
+        "questionEn": "Which body prepares development plans in Nepal?",
+        "questionNe": "नेपालमा विकास योजना तयार गर्ने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "National Planning Commission",
+            "textNe": "राष्ट्रिय योजना आयोग"
+          },
+          {
+            "textEn": "Election Commission",
+            "textNe": "निर्वाचन आयोग"
+          },
+          {
+            "textEn": "Public Service Commission",
+            "textNe": "लोक सेवा आयोग"
+          },
+          {
+            "textEn": "Supreme Court",
+            "textNe": "सर्वोच्च अदालत"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+
+  "2026-05-14": {
+    "id": "2026-05-14",
+    "title": "Challenge #55",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 275,
+        "questionEn": "Which constitutional body audits government accounts?",
+        "questionNe": "सरकारी खाताको लेखापरीक्षण गर्ने संवैधानिक निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "Office of the Auditor General",
+            "textNe": "महालेखा परीक्षकको कार्यालय"
+          },
+          {
+            "textEn": "Supreme Court",
+            "textNe": "सर्वोच्च अदालत"
+          },
+          {
+            "textEn": "Election Commission",
+            "textNe": "निर्वाचन आयोग"
+          },
+          {
+            "textEn": "National Planning Commission",
+            "textNe": "राष्ट्रिय योजना आयोग"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 276,
+        "questionEn": "Which right guarantees employment?",
+        "questionNe": "रोजगारीको ग्यारेन्टी गर्ने अधिकार कुन हो?",
+        "options": [
+          {
+            "textEn": "Right to Employment",
+            "textNe": "रोजगारीको अधिकार"
+          },
+          {
+            "textEn": "Right to Property",
+            "textNe": "सम्पत्तिको अधिकार"
+          },
+          {
+            "textEn": "Right to Equality",
+            "textNe": "समानताको अधिकार"
+          },
+          {
+            "textEn": "Right to Religion",
+            "textNe": "धर्मको अधिकार"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 277,
+        "questionEn": "How many levels of government are there in Nepal?",
+        "questionNe": "नेपालमा सरकारका कति तह छन्?",
+        "options": [
+          {
+            "textEn": "3",
+            "textNe": "३"
+          },
+          {
+            "textEn": "2",
+            "textNe": "२"
+          },
+          {
+            "textEn": "4",
+            "textNe": "४"
+          },
+          {
+            "textEn": "5",
+            "textNe": "५"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 278,
+        "questionEn": "Which article guarantees Right to Equality?",
+        "questionNe": "समानताको अधिकार कुन धाराले सुनिश्चित गरेको छ?",
+        "options": [
+          {
+            "textEn": "Article 18",
+            "textNe": "धारा १८"
+          },
+          {
+            "textEn": "Article 17",
+            "textNe": "धारा १७"
+          },
+          {
+            "textEn": "Article 16",
+            "textNe": "धारा १६"
+          },
+          {
+            "textEn": "Article 20",
+            "textNe": "धारा २०"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 279,
+        "questionEn": "Who can declare a state of emergency in Nepal?",
+        "questionNe": "नेपालमा संकटकाल कसले घोषणा गर्न सक्छ?",
+        "options": [
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "Chief Justice",
+            "textNe": "प्रधानन्यायाधीश"
+          },
+          {
+            "textEn": "Speaker",
+            "textNe": "सभामुख"
+          },
+          {
+            "textEn": "Chief Minister",
+            "textNe": "मुख्यमन्त्री"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
   }
 }
