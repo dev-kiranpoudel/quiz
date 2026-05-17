@@ -641,5 +641,262 @@
         "correctAnswerIndex": 0
       }
     ]
+  },
+
+  "2026-05-18": {
+    "id": "2026-05-18",
+    "title": "Challenge #56",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 280,
+        "questionEn": "In which year was Nepal's current constitution adopted?",
+        "questionNe": "नेपालको वर्तमान संविधान कहिले स्वीकृत भयो?",
+        "options": [
+          {
+            "textEn": "2015",
+            "textNe": "२०१५"
+          },
+          {
+            "textEn": "2008",
+            "textNe": "२००८"
+          },
+          {
+            "textEn": "2010",
+            "textNe": "२०१०"
+          },
+          {
+            "textEn": "2012",
+            "textNe": "२०१२"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 281,
+        "questionEn": "How many parts does Nepal's Constitution have?",
+        "questionNe": "नेपालको संविधानमा कति भागहरु छन्?",
+        "options": [
+          {
+            "textEn": "3",
+            "textNe": "३"
+          },
+          {
+            "textEn": "2",
+            "textNe": "२"
+          },
+          {
+            "textEn": "4",
+            "textNe": "४"
+          },
+          {
+            "textEn": "5",
+            "textNe": "५"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 282,
+        "questionEn": "Which article of Nepal's Constitution guarantees the right to equality?",
+        "questionNe": "नेपालको संविधानको कुन धाराले समानताको अधिकार सुनिश्चित गरेको छ?",
+        "options": [
+          {
+            "textEn": "Article 18",
+            "textNe": "धारा १८"
+          },
+          {
+            "textEn": "Article 17",
+            "textNe": "धारा १७"
+          },
+          {
+            "textEn": "Article 16",
+            "textNe": "धारा १६"
+          },
+          {
+            "textEn": "Article 20",
+            "textNe": "धारा २०"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 283,
+        "questionEn": "What is the preamble of Nepal's Constitution about?",
+        "questionNe": "नेपालको संविधानको प्रस्तावना किन बारे छ?",
+        "options": [
+          {
+            "textEn": "Establishing a democratic republic and sovereignty",
+            "textNe": "लोकतान्त्रिक गणतन्त्र र सार्वभौमिकता स्थापना गर्न"
+          },
+          {
+            "textEn": "Listing all laws",
+            "textNe": "सबै कानूनहरु सूचीबद्ध गर्न"
+          },
+          {
+            "textEn": "Describing geographical boundaries",
+            "textNe": "भौगोलिक सीमाहरु वर्णन गर्न"
+          },
+          {
+            "textEn": "Establishing the monarchy",
+            "textNe": "राजशाही स्थापना गर्न"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 284,
+        "questionEn": "Which article defines the structure of Nepal as a Federal Democratic Republic?",
+        "questionNe": "कुन धाराले नेपाललाई संघीय लोकतान्त्रिक गणतन्त्र रूपमा परिभाषित गरेको छ?",
+        "options": [
+          {
+            "textEn": "Article 4",
+            "textNe": "धारा ४"
+          },
+          {
+            "textEn": "Article 3",
+            "textNe": "धारा ३"
+          },
+          {
+            "textEn": "Article 5",
+            "textNe": "धारा ५"
+          },
+          {
+            "textEn": "Article 6",
+            "textNe": "धारा ६"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-05-19": {
+    "id": "2026-05-19",
+    "title": "Challenge #57",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 285,
+        "questionEn": "How many levels of government are established by Nepal's Constitution?",
+        "questionNe": "नेपालको संविधानले कति तहको सरकार स्थापना गरेको छ?",
+        "options": [
+          {
+            "textEn": "3 (Federal, Provincial, and Local)",
+            "textNe": "३ (संघीय, प्रादेशिक र स्थानीय)"
+          },
+          {
+            "textEn": "2",
+            "textNe": "२"
+          },
+          {
+            "textEn": "4",
+            "textNe": "४"
+          },
+          {
+            "textEn": "5",
+            "textNe": "५"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 286,
+        "questionEn": "Which article of Nepal's Constitution defines the fundamental rights?",
+        "questionNe": "नेपालको संविधानको कुन धाराले मौलिक अधिकारहरु परिभाषित गरेको छ?",
+        "options": [
+          {
+            "textEn": "Article 16",
+            "textNe": "धारा १६"
+          },
+          {
+            "textEn": "Article 15",
+            "textNe": "धारा १५"
+          },
+          {
+            "textEn": "Article 17",
+            "textNe": "धारा १७"
+          },
+          {
+            "textEn": "Article 18",
+            "textNe": "धारा १८"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 287,
+        "questionEn": "Who is the Head of State in Nepal according to the Constitution?",
+        "questionNe": "नेपालको संविधान अनुसार नेपालको राज्यको प्रमुख कौन हुन्?",
+        "options": [
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "Chief Justice",
+            "textNe": "प्रधानन्यायाधीश"
+          },
+          {
+            "textEn": "King",
+            "textNe": "राजा"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 288,
+        "questionEn": "What is the term of office for Nepal's President according to the Constitution?",
+        "questionNe": "नेपालको संविधान अनुसार राष्ट्रपतिको कार्यकाल कति हुन्छ?",
+        "options": [
+          {
+            "textEn": "6 years",
+            "textNe": "६ वर्ष"
+          },
+          {
+            "textEn": "5 years",
+            "textNe": "५ वर्ष"
+          },
+          {
+            "textEn": "4 years",
+            "textNe": "४ वर्ष"
+          },
+          {
+            "textEn": "7 years",
+            "textNe": "७ वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 289,
+        "questionEn": "According to Nepal's Constitution, who can declare a state of emergency?",
+        "questionNe": "नेपालको संविधान अनुसार कसले आपतकालीन अवस्था घोषणा गर्न सक्छ?",
+        "options": [
+          {
+            "textEn": "President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "Chief Justice",
+            "textNe": "प्रधानन्यायाधीश"
+          },
+          {
+            "textEn": "Speaker of Parliament",
+            "textNe": "संसद सभामुख"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
   }
 }
