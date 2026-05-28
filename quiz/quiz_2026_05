@@ -898,5 +898,133 @@
         "correctAnswerIndex": 0
       }
     ]
+  },
+  "2026-05-29": {
+    "id": "2026-05-29",
+    "title": "Challenge #57",
+    "questionsCount": "5",
+    "duration": "150",
+    "questions": [
+      {
+        "id": 295,
+        "questionEn": "How many members are there in the National Assembly of Nepal?",
+        "questionNe": "नेपालको राष्ट्रिय सभामा कति सदस्य हुन्छन्?",
+        "options": [
+          {
+            "textEn": "45",
+            "textNe": "४५"
+          },
+          {
+            "textEn": "56",
+            "textNe": "५६"
+          },
+          {
+            "textEn": "59",
+            "textNe": "५९"
+          },
+          {
+            "textEn": "62",
+            "textNe": "६२"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 296,
+        "questionEn": "How many local levels (local governments) are there in Nepal?",
+        "questionNe": "नेपालमा कति स्थानीय तहहरू छन्?",
+        "options": [
+          {
+            "textEn": "753",
+            "textNe": "७५३"
+          },
+          {
+            "textEn": "7530",
+            "textNe": "७५३०"
+          },
+          {
+            "textEn": "75300",
+            "textNe": "७५३००"
+          },
+          {
+            "textEn": "75",
+            "textNe": "७५"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 297,
+        "questionEn": "Who elects the President of Nepal?",
+        "questionNe": "नेपालको राष्ट्रपति कसले चयन गर्छ?",
+        "options": [
+          {
+            "textEn": "General public directly",
+            "textNe": "प्रत्यक्ष जनताले"
+          },
+          {
+            "textEn": "Parliament only",
+            "textNe": "केवल संसदले"
+          },
+          {
+            "textEn": "Electoral College",
+            "textNe": "निर्वाचन मण्डल"
+          },
+          {
+            "textEn": "Supreme Court",
+            "textNe": "सर्वोच्च अदालत"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 298,
+        "questionEn": "What is required to amend the Constitution of Nepal?",
+        "questionNe": "नेपालको संविधान संशोधन गर्न के आवश्यक हुन्छ?",
+        "options": [
+          {
+            "textEn": "Simple majority",
+            "textNe": "साधारण बहुमत"
+          },
+          {
+            "textEn": "2/3 majority of Parliament",
+            "textNe": "संसदको २/३ बहुमत"
+          },
+          {
+            "textEn": "President’s approval only",
+            "textNe": "राष्ट्रपतिको मात्र स्वीकृति"
+          },
+          {
+            "textEn": "Supreme Court approval",
+            "textNe": "सर्वोच्च अदालतको स्वीकृति"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 299,
+        "questionEn": "How many members are nominated in the National Assembly?",
+        "questionNe": "राष्ट्रिय सभामा कति सदस्य मनोनीत गरिन्छ?",
+        "options": [
+          {
+            "textEn": "2",
+            "textNe": "२"
+          },
+          {
+            "textEn": "3",
+            "textNe": "३"
+          },
+          {
+            "textEn": "5",
+            "textNe": "५"
+          },
+          {
+            "textEn": "7",
+            "textNe": "७"
+          }
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
   }
 }
