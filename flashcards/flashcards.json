@@ -76,5 +76,455 @@
       "frontNp": "संविधान अनुसार नेपाली सेनाको परमाधिपति को हुन्?",
       "backEn": "The President of Nepal.\n(Article 267)",
       "backNp": "नेपालको राष्ट्रपति।\n(धारा २६७)"
-    }
+    },
+    {
+    "frontEn": "According to Article 1, what is the status of a law that is inconsistent with the Constitution of Nepal?",
+    "frontNp": "नेपालको संविधानको धारा १ अनुसार संविधानसँग बाझिएको कानुनको स्थिति के हुन्छ?",
+    "backEn": "Any law inconsistent with the Constitution shall be void to the extent of such inconsistency.",
+    "backNp": "संविधानसँग बाझिएको कुनै पनि कानुन त्यस्तो बाझिएको हदसम्म अमान्य हुनेछ।"
+  },
+  {
+    "frontEn": "In whom is the sovereignty and state authority of Nepal vested according to the Constitution?",
+    "frontNp": "संविधान अनुसार नेपालको सार्वभौमसत्ता र राज्यसत्ता कसमा निहित हुन्छ?",
+    "backEn": "The Nepalese people.",
+    "backNp": "नेपाली जनता।"
+  },
+  {
+    "frontEn": "Explanation: For the purposes of Article 4, 'secular' means religious and cultural freedoms, including protection of religion and culture handed down from _____.",
+    "frontNp": "धारा ४ का लागि ‘धर्मनिरपेक्ष’ भन्नाले परम्परागत रूपमा प्राप्त भएको धर्म र संस्कृतिको संरक्षणसहित धार्मिक तथा सांस्कृतिक स्वतन्त्रता जनाउँछ। खाली स्थानमा के हुन्छ?",
+    "backEn": "Time immemorial",
+    "backNp": "अनादिकालदेखि"
+  },
+  {
+    "frontEn": "What is the official language of Nepal and what script must be used for it?",
+    "frontNp": "नेपालको आधिकारिक भाषा र त्यसको लिपि के हो?",
+    "backEn": "The Nepali language in the Devanagari script.",
+    "backNp": "नेपाली भाषा देवनागरी लिपिमा।"
+  },
+  {
+    "frontEn": "Which animal is designated as the national animal of Nepal under Article 9?",
+    "frontNp": "धारा ९ अनुसार नेपालको राष्ट्रिय जनावर कुन हो?",
+    "backEn": "The Cow.",
+    "backNp": "गाई।"
+  },
+  {
+    "frontEn": "According to Part-2, Nepal has a provision for a single federal citizenship accompanied by a _____ identity.",
+    "frontNp": "भाग–२ अनुसार नेपालमा एकल संघीय नागरिकताको साथमा _____ पहिचानको व्यवस्था छ।",
+    "backEn": "State",
+    "backNp": "राज्य"
+  },
+  {
+    "frontEn": "What are the requirements for a person born in Nepal to acquire citizenship by descent if their father is not traced?",
+    "frontNp": "बुबा पत्ता नलागेको अवस्थामा नेपालमा जन्मिएको व्यक्तिले वंशजको आधारमा नागरिकता प्राप्त गर्न के शर्त पूरा गर्नुपर्छ?",
+    "backEn": "The person must be born from a woman who is a citizen of Nepal and has resided in Nepal.",
+    "backNp": "नेपालको नागरिक आमाबाट जन्मिएको र नेपालमै बसोबास गरेको हुनुपर्छ।"
+  },
+  {
+    "frontEn": "Under Article 14, non-residential citizenship may be granted to persons who have acquired citizenship of a foreign country, excluding members of which association?",
+    "frontNp": "धारा १४ अनुसार गैरआवासीय नागरिकता दिँदा कुन संघका सदस्यहरूलाई बाहेक गरिन्छ?",
+    "backEn": "The South Asian Association for Regional Cooperation (SAARC).",
+    "backNp": "दक्षिण एसियाली क्षेत्रीय सहयोग संगठन (सार्क)।"
+  },
+  {
+    "frontEn": "Article 16 states that no law shall be made providing for the _____ to anyone.",
+    "frontNp": "धारा १६ अनुसार कसैलाई पनि _____ दिने कानुन बनाउन पाइँदैन।",
+    "backEn": "Death penalty",
+    "backNp": "मृत्युदण्ड"
+  },
+  {
+    "frontEn": "According to the Right to Freedom, under what condition can a person be deprived of their personal liberty?",
+    "frontNp": "स्वतन्त्रताको हक अनुसार कुनै व्यक्तिको व्यक्तिगत स्वतन्त्रता कहिले खोस्न सकिन्छ?",
+    "backEn": "Only in accordance with the law.",
+    "backNp": "कानुनको अधीनमा मात्र।"
+  },
+  {
+    "frontEn": "Article 18(5) specifies that all offspring shall have the equal right to _____ without discrimination on the ground of gender.",
+    "frontNp": "धारा १८(५) अनुसार सबै सन्तानलाई लैङ्गिक भेदभाव बिना _____ मा समान अधिकार हुन्छ।",
+    "backEn": "Ancestral property",
+    "backNp": "पैतृक सम्पत्ति"
+  },
+  {
+    "frontEn": "Under the Right to Communication, can the registration of a digital equipment press be cancelled due to the content of its publications?",
+    "frontNp": "सञ्चारको हक अनुसार प्रकाशनको सामग्रीका कारण डिजिटल सञ्चार माध्यमको दर्ता खारेज गर्न सकिन्छ?",
+    "backEn": "No, means of communication shall not be closed or seized, nor shall registration be cancelled for such reasons.",
+    "backNp": "होइन, सञ्चार माध्यम बन्द वा जफत गर्न तथा त्यस्ता कारणले दर्ता खारेज गर्न पाइँदैन।"
+  },
+  {
+    "frontEn": "Within what time frame must an arrested person be produced before an adjudicating authority, excluding travel time?",
+    "frontNp": "यात्रा समय बाहेक पक्राउ परेका व्यक्तिलाई कति समयभित्र न्यायिक निकायमा उपस्थित गराउनुपर्छ?",
+    "backEn": "Twenty-four hours.",
+    "backNp": "चौबीस घण्टा।"
+  },
+  {
+    "frontEn": "Term: Indigent Party (Right to Justice)",
+    "frontNp": "शब्द: निर्धन पक्ष (न्यायको हक)",
+    "backEn": "A party with low income, as defined by Federal law, who has the right to free legal aid.",
+    "backNp": "संघीय कानुन अनुसार परिभाषित न्यून आय भएको र निःशुल्क कानुनी सहायता पाउने पक्ष।"
+  },
+  {
+    "frontEn": "Article 22 protects arrested or detained persons from physical or mental torture, or cruel, _____ or degrading treatment.",
+    "frontNp": "धारा २२ अनुसार पक्राउ वा थुनामा रहेका व्यक्तिलाई शारीरिक वा मानसिक यातना, वा क्रूर, _____ वा अपमानजनक व्यवहारबाट संरक्षण हुन्छ।",
+    "backEn": "Inhuman",
+    "backNp": "अमानवीय"
+  },
+  {
+    "frontEn": "Under what specific condition is 'preventive detention' constitutionally permitted?",
+    "frontNp": "कुन अवस्थामा ‘पूर्वरोकथाम हिरासत’ संवैधानिक रूपमा अनुमति दिइन्छ?",
+    "backEn": "Existence of an immediate threat to sovereignty, territorial integrity, or public peace and order.",
+    "backNp": "सार्वभौमसत्ता, भौगोलिक अखण्डता वा सार्वजनिक शान्ति तथा सुव्यवस्थामा तत्काल खतरा भएमा।"
+  },
+  {
+    "frontEn": "What is the legal consequence for an act of untouchability or discrimination committed in contravention of Article 24?",
+    "frontNp": "धारा २४ विपरीत छुवाछुत वा भेदभाव गरेमा के कानुनी परिणाम हुन्छ?",
+    "backEn": "It is punishable by law as a severe social offence and entitles the victim to compensation.",
+    "backNp": "यो गम्भीर सामाजिक अपराधको रूपमा दण्डनीय हुन्छ र पीडितले क्षतिपूर्ति पाउने अधिकार हुन्छ।"
+  },
+  {
+    "frontEn": "Under Article 26, what specific religious action is prohibited to ensure the protection of public peace and other religions?",
+    "frontNp": "धारा २६ अनुसार सार्वजनिक शान्ति र अन्य धर्मको संरक्षणका लागि कुन धार्मिक कार्य निषेध गरिएको छ?",
+    "backEn": "Converting another person from one religion to another.",
+    "backNp": "एक धर्मबाट अर्को धर्ममा परिवर्तन गराउनु (धर्म परिवर्तन गराउनु)।"
+  },
+  {
+    "frontEn": "Every citizen has the right to live in a _____ and healthy environment.",
+    "frontNp": "प्रत्येक नागरिकलाई _____ र स्वस्थ वातावरणमा बाँच्ने अधिकार हुन्छ।",
+    "backEn": "Clean",
+    "backNp": "स्वच्छ"
+  },
+  {
+    "frontEn": "Which level of education is every citizen entitled to receive for free from the State?",
+    "frontNp": "राज्यबाट निःशुल्क रूपमा प्रत्येक नागरिकले कुन तहसम्म शिक्षा पाउने अधिकार छ?",
+    "backEn": "Up to the secondary level.",
+    "backNp": "माध्यमिक तहसम्म।"
+  },
+  {
+    "frontEn": "Under Article 33, what is provided for citizens in the event of unemployment?",
+    "frontNp": "धारा ३३ अनुसार बेरोजगारीको अवस्थामा नागरिकलाई के प्रदान गरिन्छ?",
+    "backEn": "Unemployment benefits as provided for in the Federal law.",
+    "backNp": "संघीय कानुन अनुसार बेरोजगारी भत्ता।"
+  },
+  {
+    "frontEn": "According to Article 38, women have the right to participate in all bodies of the State based on the principle of _____.",
+    "frontNp": "धारा ३८ अनुसार महिलालाई राज्यका सबै निकायमा _____ सिद्धान्तका आधारमा सहभागिता गर्ने अधिकार छ।",
+    "backEn": "Proportional inclusion",
+    "backNp": "अनुपातिक समावेशीकरण"
+  },
+  {
+    "frontEn": "In which specific locations is the physical or mental torture of a child prohibited under Article 39?",
+    "frontNp": "धारा ३९ अनुसार बालबालिकामाथि शारीरिक वा मानसिक यातना कहाँ-कहाँ निषेध गरिएको छ?",
+    "backEn": "At home, school, or any other place and situation whatsoever.",
+    "backNp": "घर, विद्यालय वा जुनसुकै स्थान र अवस्थामा पनि।"
+  },
+  {
+    "frontEn": "The Dalit community has the right to provision of free education with _____ from primary to higher education.",
+    "frontNp": "दलित समुदायलाई प्राथमिकदेखि उच्च शिक्षासम्म _____ सहित निःशुल्क शिक्षाको अधिकार छ।",
+    "backEn": "Scholarship",
+    "backNp": "छात्रवृत्ति"
+  },
+  {
+    "frontEn": "Under the Right to Social Justice, which group of Khas Arya citizens has the right to participate in State bodies on the basis of the inclusive principle?",
+    "frontNp": "सामाजिक न्यायको हक अनुसार खस आर्यका कुन समूहलाई समावेशी सिद्धान्तका आधारमा राज्य निकायमा सहभागिता गर्ने अधिकार छ?",
+    "backEn": "Indigent Khas Arya.",
+    "backNp": "निर्धन खस आर्य।"
+  },
+  {
+    "frontEn": "Article 48(c) establishes the duty of every citizen to render _____ as and when the State so requires.",
+    "frontNp": "धारा ४८(ग) अनुसार राज्यले आवश्यक ठानेमा प्रत्येक नागरिकले _____ सेवा गर्नुपर्ने कर्तव्य हुन्छ।",
+    "backEn": "Compulsory service",
+    "backNp": "अनिवार्य सेवा"
+  },
+  {
+    "frontEn": "The directive principles, policies, and obligations set forth in Part-4 serve as the _____ for the governance of the State.",
+    "frontNp": "भाग–४ मा उल्लिखित निर्देशक सिद्धान्त, नीति र दायित्वहरू राज्य सञ्चालनका _____ हुन्।",
+    "backEn": "Guiding principles",
+    "backNp": "मार्गदर्शक सिद्धान्त"
+  },
+  {
+    "frontEn": "The primary economic objective of the State regarding the national economy?",
+    "frontNp": "राष्ट्रिय अर्थतन्त्र सम्बन्धी राज्यको प्रमुख आर्थिक उद्देश्य के हो?",
+    "backEn": "To develop a socialism-oriented independent and prosperous economy.",
+    "backNp": "स्वतन्त्र र समृद्ध समाजवाद उन्मुख अर्थतन्त्रको विकास गर्नु।"
+  },
+  {
+    "frontEn": "Article 55 prevents questions from being raised in any court regarding what specific matter?",
+    "frontNp": "धारा ५५ अनुसार कुन विषयमा कुनै अदालतमा प्रश्न उठाउन पाइँदैन?",
+    "backEn": "Whether any matter contained in the Directive Principles, Policies and Obligations (Part-4) has been implemented or not.",
+    "backNp": "भाग–४ का निर्देशक सिद्धान्त, नीति र दायित्वहरू कार्यान्वयन भए/नभएको विषयमा।"
+  },
+  {
+    "frontEn": "The main structure of the Federal Democratic Republic of Nepal consists of which three levels?",
+    "frontNp": "संघीय लोकतान्त्रिक गणतन्त्र नेपालको मुख्य संरचना कुन तीन तहमा आधारित छ?",
+    "backEn": "Federation, State, and Local level.",
+    "backNp": "संघ, प्रदेश र स्थानीय तह।"
+  },
+  {
+    "frontEn": "Which body exercises the powers of the State in matters not enumerated in the Federal, State, or Local lists (Residual powers)?",
+    "frontNp": "संघीय, प्रदेश वा स्थानीय सूचीमा नपरेका अवशिष्ट अधिकार कुन निकायले प्रयोग गर्छ?",
+    "backEn": "The Federation.",
+    "backNp": "संघ।"
+  },
+  {
+    "frontEn": "The distribution of fiscal equalization grants to the State and Local levels is based on expenditure need and _____.",
+    "frontNp": "प्रदेश र स्थानीय तहलाई वित्तीय समानीकरण अनुदान वितरण गर्दा खर्च आवश्यकता र _____ आधार लिइन्छ।",
+    "backEn": "Revenue capacity",
+    "backNp": "राजस्व क्षमता"
+  },
+  {
+    "frontEn": "What is the primary function and duty of the President of Nepal according to Article 61?",
+    "frontNp": "धारा ६१ अनुसार नेपालको राष्ट्रपतिको मुख्य कर्तव्य के हो?",
+    "backEn": "To promote national unity and to abide by and protect the Constitution.",
+    "backNp": "राष्ट्रिय एकता प्रवर्द्धन गर्नु तथा संविधानको पालना र संरक्षण गर्नु।"
+  },
+  {
+    "frontEn": "How long is the term of office for the President of Nepal?",
+    "frontNp": "नेपालको राष्ट्रपतिको कार्यकाल कति हुन्छ?",
+    "backEn": "Five years.",
+    "backNp": "पाँच वर्ष।"
+  },
+  {
+    "frontEn": "Election to the President and the Vice-president must ensure the representation of different _____ or communities.",
+    "frontNp": "राष्ट्रपति र उपराष्ट्रपति निर्वाचनमा विभिन्न _____ वा समुदायको प्रतिनिधित्व सुनिश्चित गर्नुपर्छ।",
+    "backEn": "Sex",
+    "backNp": "लिङ्ग"
+  },
+  {
+    "frontEn": "Before which official does the President of Nepal take the oath of office and secrecy?",
+    "frontNp": "नेपालका राष्ट्रपतिले पद तथा गोपनीयताको शपथ कसको समक्ष लिन्छन्?",
+    "backEn": "The Chief Justice.",
+    "backNp": "प्रधान न्यायाधीश।"
+  },
+  {
+    "frontEn": "In whom is the executive power of Nepal vested, pursuant to the Constitution and law?",
+    "frontNp": "संविधान र कानुन अनुसार नेपालको कार्यपालिका शक्ति कसमा निहित छ?",
+    "backEn": "The Council of Ministers.",
+    "backNp": "मन्त्रिपरिषद्।"
+  },
+  {
+    "frontEn": "Under Article 76, what is the maximum number of Ministers, including the Prime Minister, that can constitute the Federal Council of Ministers?",
+    "frontNp": "धारा ७६ अनुसार प्रधानमन्त्रीसहित संघीय मन्त्रिपरिषद्मा अधिकतम कति मन्त्री हुन सक्छन्?",
+    "backEn": "Twenty-five.",
+    "backNp": "पच्चीस जना।"
+  },
+  {
+    "frontEn": "What is the maximum duration a non-member of the Federal Parliament can serve as a Minister without obtaining membership?",
+    "frontNp": "संघीय संसदको सदस्य नभएको व्यक्ति कति समयसम्म मन्त्री बन्न सक्छ?",
+    "backEn": "Six months.",
+    "backNp": "छ महिना।"
+  },
+  {
+    "frontEn": "The House of Representatives consists of _____ members elected through the first past the post system and _____ members through the proportional system.",
+    "frontNp": "प्रतिनिधि सभामा प्रत्यक्ष प्रणालीबाट _____ सदस्य र समानुपातिक प्रणालीबाट _____ सदस्य निर्वाचित हुन्छन्।",
+    "backEn": "165; 110",
+    "backNp": "१६५; ११०"
+  },
+  {
+    "frontEn": "What is the minimum percentage of women that each political party must ensure are elected to the Federal Parliament?",
+    "frontNp": "प्रत्येक राजनीतिक दलले संघीय संसदमा कति प्रतिशत महिलाको प्रतिनिधित्व सुनिश्चित गर्नुपर्छ?",
+    "backEn": "One third (33.3%).",
+    "backNp": "एक तिहाइ (३३.३%)।"
+  },
+  {
+    "frontEn": "How many members of the National Assembly are nominated by the President on the recommendation of the Government?",
+    "frontNp": "सरकारको सिफारिसमा राष्ट्रपतिद्वारा राष्ट्रिय सभामा कति सदस्य मनोनीत गरिन्छ?",
+    "backEn": "Three members.",
+    "backNp": "तीन जना।"
+  },
+  {
+    "frontEn": "What is the minimum age requirement for a person to be qualified as a member of the National Assembly?",
+    "frontNp": "राष्ट्रिय सभाको सदस्य हुन न्यूनतम उमेर कति हुनुपर्छ?",
+    "backEn": "Thirty-five years.",
+    "backNp": "पैंतीस वर्ष।"
+  },
+  {
+    "frontEn": "If the office of the Speaker of the House of Representatives is held by a man, the Deputy Speaker must be a _____.",
+    "frontNp": "यदि प्रतिनिधि सभाको सभामुख पुरुष भएमा उपसभामुख ____ हुनुपर्छ।",
+    "backEn": "Woman",
+    "backNp": "महिला"
+  },
+  {
+    "frontEn": "A meeting of either House of the Federal Parliament requires a quorum of _____ of the total number of its members.",
+    "frontNp": "संघीय संसदको कुनै पनि सदनको बैठक बस्न कुल सदस्य संख्याको कति गणपूरक संख्या आवश्यक हुन्छ?",
+    "backEn": "One-fourth",
+    "backNp": "एक चौथाइ"
+  },
+  {
+    "frontEn": "Under Article 100, a motion of no-confidence cannot be tabled against the Prime Minister until _____ years after their appointment.",
+    "frontNp": "धारा १०० अनुसार प्रधानमन्त्री नियुक्त भएको कति वर्षसम्म अविश्वास प्रस्ताव ल्याउन पाइँदैन?",
+    "backEn": "Two",
+    "backNp": "दुई वर्ष"
+  },
+  {
+    "frontEn": "What majority is required in both Houses of the Federal Parliament to pass a motion of impeachment against the President?",
+    "frontNp": "राष्ट्रपतिविरुद्ध महाभियोग पारित गर्न दुवै सदनमा कति बहुमत आवश्यक हुन्छ?",
+    "backEn": "At least a two-thirds majority of the total number of the then members.",
+    "backNp": "तत्कालीन कुल सदस्य संख्याको कम्तीमा दुई तिहाइ बहुमत।"
+  },
+  {
+    "frontEn": "Article 105 restricts the Federal Parliament from discussing judicial acts or cases that are currently _____ in any courts of Nepal.",
+    "frontNp": "धारा १०५ अनुसार संघीय संसदले हाल अदालतमा रहेको कुन विषयमा छलफल गर्न पाइँदैन?",
+    "backEn": "Sub judice",
+    "backNp": "विचाराधीन (सब जुडिस)"
+  },
+  {
+    "frontEn": "Which house of the Federal Parliament has the exclusive right to introduce a Money Bill?",
+    "frontNp": "कुन सदनलाई मात्र धन विधेयक प्रस्तुत गर्ने अधिकार छ?",
+    "backEn": "The House of Representatives.",
+    "backNp": "प्रतिनिधि सभा।"
+  },
+  {
+    "frontEn": "Within how many days must the President give assent to a Bill that has been reconsidered and passed again by both Houses?",
+    "frontNp": "दुवै सदनले पुनः पारित गरेको विधेयकमा राष्ट्रपतिले कति दिनभित्र स्वीकृति दिनुपर्छ?",
+    "backEn": "Fifteen days.",
+    "backNp": "पन्ध्र दिन।"
+  },
+  {
+    "frontEn": "On which specific date of each year must the Minister for Finance lay the annual estimate (budget) before the Federal Parliament?",
+    "frontNp": "अर्थमन्त्रीले वार्षिक बजेट प्रत्येक वर्ष कुन मितिमा संघीय संसदमा प्रस्तुत गर्नुपर्छ?",
+    "backEn": "The 15th day of Jesta.",
+    "backNp": "जेष्ठ १५ गते।"
+  },
+  {
+    "frontEn": "Which court in Nepal has the final authority to interpret the Constitution and the laws?",
+    "frontNp": "नेपालमा संविधान र कानुनको अन्तिम व्याख्या गर्ने अधिकार कुन अदालतलाई छ?",
+    "backEn": "The Supreme Court.",
+    "backNp": "सर्वोच्च अदालत।"
+  },
+  {
+    "frontEn": "What is the term of office for the Chief Justice of Nepal?",
+    "frontNp": "नेपालका प्रधानन्यायाधीशको कार्यकाल कति हुन्छ?",
+    "backEn": "Six years.",
+    "backNp": "छ वर्ष।"
+  },
+  {
+    "frontEn": "Article 131(b) states that a Judge of the Supreme Court shall vacate their office upon attaining the age of _____ years.",
+    "frontNp": "धारा १३१(ख) अनुसार सर्वोच्च अदालतका न्यायाधीशले कति वर्ष उमेर पुगेपछि पद छोड्नुपर्छ?",
+    "backEn": "Sixty-five",
+    "backNp": "६५ वर्ष"
+  },
+  {
+    "frontEn": "The Constitutional Bench of the Supreme Court consists of the Chief Justice and _____ other Judges designated by the Chief Justice.",
+    "frontNp": "सर्वोच्च अदालतको संवैधानिक इजलासमा प्रधानन्यायाधीश र प्रधानन्यायाधीशले तोकेका _____ न्यायाधीश हुन्छन्।",
+    "backEn": "Four",
+    "backNp": "चार जना"
+  },
+  {
+    "frontEn": "What is the minimum number of years an advocate must have practised to be qualified for appointment as a Judge of the High Court?",
+    "frontNp": "उच्च अदालतको न्यायाधीश हुन वकिलले कम्तीमा कति वर्ष अभ्यास गरेको हुनुपर्छ?",
+    "backEn": "Ten years.",
+    "backNp": "दश वर्ष।"
+  },
+  {
+    "frontEn": "Who serves as the Chairperson of the Judicial Council?",
+    "frontNp": "न्याय परिषद्को अध्यक्ष को हुन्छ?",
+    "backEn": "The Chief Justice.",
+    "backNp": "प्रधान न्यायाधीश।"
+  },
+  {
+    "frontEn": "The Judicial Service Commission is chaired by the Chief Justice and includes the Federal Minister for Law and Justice, the Attorney General, and the Chairperson of the _____.",
+    "frontNp": "न्याय सेवा आयोगको अध्यक्ष प्रधान न्यायाधीश हुन्छन् र यसमा कानून तथा न्याय मन्त्री, महान्यायाधिवक्ता र _____ का अध्यक्ष सदस्य हुन्छन्।",
+    "backEn": "Public Service Commission",
+    "backNp": "लोक सेवा आयोग"
+  },
+  {
+    "frontEn": "Who appoints the Attorney General of Nepal?",
+    "frontNp": "नेपालका महान्यायाधिवक्ता कसले नियुक्त गर्छ?",
+    "backEn": "The President, on recommendation of the Prime Minister.",
+    "backNp": "प्रधानमन्त्रीको सिफारिसमा राष्ट्रपतिले।"
+  },
+  {
+    "frontEn": "The Chief of State (Province Head) is appointed by the President as a representative of the _____.",
+    "frontNp": "प्रदेश प्रमुख राष्ट्रपतिद्वारा _____ को प्रतिनिधिको रूपमा नियुक्त गरिन्छ।",
+    "backEn": "Government of Nepal.",
+    "backNp": "नेपाल सरकार।"
+  },
+  {
+    "frontEn": "What is the term of office for a Chief of State?",
+    "frontNp": "प्रदेश प्रमुखको कार्यकाल कति हुन्छ?",
+    "backEn": "Five years.",
+    "backNp": "पाँच वर्ष।"
+  },
+  {
+    "frontEn": "The number of members in a State Council of Ministers shall not exceed _____ percent of the total number of members of that State Assembly.",
+    "frontNp": "प्रदेश मन्त्रिपरिषद्मा सदस्य संख्या प्रदेश सभाको कुल सदस्य संख्याको कति प्रतिशतभन्दा बढी हुन पाइँदैन?",
+    "backEn": "Twenty",
+    "backNp": "बीस प्रतिशत"
+  },
+  {
+    "frontEn": "What percentage of the members of a State Assembly are elected through the proportional electoral system?",
+    "frontNp": "प्रदेश सभामा कति प्रतिशत सदस्य समानुपातिक प्रणालीबाट निर्वाचित हुन्छन्?",
+    "backEn": "Forty percent.",
+    "backNp": "चालीस प्रतिशत।"
+  },
+  {
+    "frontEn": "The term of a State Assembly is five years, unless dissolved earlier pursuant to the _____.",
+    "frontNp": "प्रदेश सभाको कार्यकाल पाँच वर्ष हुन्छ, तर _____ अनुसार पहिले विघटन हुन सक्छ।",
+    "backEn": "Constitution.",
+    "backNp": "संविधान।"
+  },
+  {
+    "frontEn": "Who coordinates the Judicial Committee at the Local level in a Municipality?",
+    "frontNp": "नगरपालिकामा न्यायिक समितिको समन्वय कसले गर्छ?",
+    "backEn": "The Deputy Mayor.",
+    "backNp": "उपमेयर।"
+  },
+  {
+    "frontEn": "How many members constitute the District Coordination Committee, including the Chief and Deputy Chief?",
+    "frontNp": "जिल्ला समन्वय समितिमा प्रमुख र उपप्रमुखसहित कति सदस्य हुन्छन्?",
+    "backEn": "A maximum of nine members.",
+    "backNp": "अधिकतम नौ जना।"
+  },
+  {
+    "frontEn": "The legislative powers of the Local Level are vested in the Village Assembly and the _____.",
+    "frontNp": "स्थानीय तहको विधायिकी अधिकार गाउँ सभा र _____ मा निहित हुन्छ।",
+    "backEn": "Municipal Assembly.",
+    "backNp": "नगर सभा।"
+  },
+  {
+    "frontEn": "Which body is formed to settle political disputes arising between the Federation and a State, or between States?",
+    "frontNp": "संघ र प्रदेश वा प्रदेश–प्रदेशबीचको राजनीतिक विवाद समाधान गर्न कुन निकाय गठन गरिन्छ?",
+    "backEn": "The Inter-State Council.",
+    "backNp": "अन्तर–प्रदेश परिषद्।"
+  },
+  {
+    "frontEn": "What is the term of office for the Chief Commissioner of the Commission for the Investigation of Abuse of Authority (CIAA)?",
+    "frontNp": "अख्तियार दुरुपयोग अनुसन्धान आयोगका प्रमुख आयुक्तको कार्यकाल कति हुन्छ?",
+    "backEn": "Six years.",
+    "backNp": "छ वर्ष।"
+  },
+  {
+    "frontEn": "Which official is responsible for auditing the accounts of the Supreme Court, Federal Parliament, and Nepal Army?",
+    "frontNp": "सर्वोच्च अदालत, संघीय संसद र नेपाली सेनाको लेखापरीक्षण गर्ने अधिकारी को हो?",
+    "backEn": "The Auditor General.",
+    "backNp": "महालेखा परीक्षक।"
+  },
+  {
+    "frontEn": "What is the minimum age required to be appointed as the Chairperson of the Public Service Commission?",
+    "frontNp": "लोक सेवा आयोगको अध्यक्ष हुन न्यूनतम उमेर कति हुनुपर्छ?",
+    "backEn": "Forty-five years.",
+    "backNp": "पैंतालीस वर्ष।"
+  },
+  {
+    "frontEn": "The National Human Rights Commission consists of a Chairperson and _____ other members.",
+    "frontNp": "राष्ट्रिय मानव अधिकार आयोगमा अध्यक्ष र _____ अन्य सदस्य हुन्छन्।",
+    "backEn": "Four",
+    "backNp": "चार जना"
+  },
+  {
+    "frontEn": "Which Commission is responsible for making recommendations about equalization grants to be provided to State and Local Governments?",
+    "frontNp": "प्रदेश र स्थानीय तहलाई समानीकरण अनुदान सिफारिस गर्ने आयोग कुन हो?",
+    "backEn": "The National Natural Resources and Fiscal Commission.",
+    "backNp": "राष्ट्रिय प्राकृतिक स्रोत तथा वित्त आयोग।"
+  },
+  {
+    "frontEn": "One of the functions of the National Women Commission is to monitor the implementation of international _____ concerning women's rights.",
+    "frontNp": "राष्ट्रिय महिला आयोगको एउटा कार्य महिलाको अधिकारसम्बन्धी अन्तर्राष्ट्रिय _____ को कार्यान्वयन अनुगमन गर्नु हो।",
+    "backEn": "Treaties",
+    "backNp": "सन्धिहरू"
+  },
+  {
+    "frontEn": "According to the National Flag of Nepal, which emblem is visible in the lower triangular part?",
+    "frontNp": "नेपालको राष्ट्रिय झण्डाअनुसार तल्लो त्रिकोणीय भागमा कुन प्रतीक हुन्छ?",
+    "backEn": "A white emblem of a twelve rayed sun.",
+    "backNp": "बाह्र किरण भएको सेतो सूर्यको प्रतीक।"
+  }
 ]
