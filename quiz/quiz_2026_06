@@ -1,0 +1,258 @@
+{
+  "2026-06-01": {
+    "id": "2026-06-01",
+    "title": "Challenge #98",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 300,
+        "questionEn": "According to Article 1 of the Constitution, what is the status of a law that is inconsistent with the Constitution of Nepal?",
+        "questionNe": "संविधानको धारा १ अनुसार नेपालको संविधानसँग बाझिएको कानुनको स्थिति के हुन्छ?",
+        "options": [
+          {
+            "textEn": "The law shall be void to the extent of such inconsistency.",
+            "textNe": "त्यस्तो बाझिएको हदसम्म कानुन अमान्य हुनेछ."
+          },
+          {
+            "textEn": "The law remains in force if it pertains to local level governance.",
+            "textNe": "यदि कानुन स्थानीय तहको शासनसँग सम्बन्धित छ भने त्यो लागू रहन्छ।"
+          },
+          {
+            "textEn": "The law is referred to the President for final approval or rejection.",
+            "textNe": "कानुनलाई अन्तिम स्वीकृति वा अस्वीकृतिको लागि राष्ट्रपतिसमक्ष पठाइन्छ।"
+          },
+          {
+            "textEn": "The law remains valid until a new amendment is passed.",
+            "textNe": "नयाँ संशोधन नआएसम्म कानुन वैध रहन्छ."
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 301,
+        "questionEn": "In the context of the State of Nepal, how is the term 'secular' specifically explained in Article 4?",
+        "questionNe": "नेपालको सन्दर्भमा धारा ४ मा ‘धर्मनिरपेक्ष’ शब्दलाई कसरी व्याख्या गरिएको छ?",
+        "options": [
+          {
+            "textEn": "Religious and cultural freedoms, including the protection of religion and culture handed down from time immemorial.",
+            "textNe": "प्राचीन कालदेखि हस्तान्तरण हुँदै आएका धर्म र संस्कृतिको संरक्षणसहित धार्मिक तथा सांस्कृतिक स्वतन्त्रता।"
+          },
+          {
+            "textEn": "A prohibition on the public display of religious symbols in government buildings.",
+            "textNe": "सरकारी भवनहरूमा धार्मिक चिन्हहरूको सार्वजनिक प्रदर्शनमा प्रतिबन्ध।"
+          },
+          {
+            "textEn": "The establishment of a single state-sanctioned religion.",
+            "textNe": "एक मात्र राज्य-मान्यता प्राप्त धर्म स्थापना गर्नु।"
+          },
+          {
+            "textEn": "The complete separation of state and all religious practices.",
+            "textNe": "राज्य र सबै धार्मिक अभ्यासहरू बीच पूर्ण पृथकीकरण."
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 302,
+        "questionEn": "Which of the following is a requirement for a person to obtain citizenship of Nepal by descent according to Article 11(2)?",
+        "questionNe": "नेपालको धारा ११(२) अनुसार वंशजको आधारमा नागरिकता प्राप्त गर्न के आवश्यक हुन्छ?",
+        "options": [
+          {
+            "textEn": "The person's father or mother was a citizen of Nepal at the time of the person's birth.",
+            "textNe": "व्यक्तिको जन्मको समयमा उसका बुबा वा आमा नेपाली नागरिक हुनुपर्छ।"
+          },
+          {
+            "textEn": "The person must have resided in Nepal for at least fifteen years continuously.",
+            "textNe": "व्यक्तिले कम्तीमा १५ वर्ष निरन्तर नेपालमा बसोबास गरेको हुनुपर्छ।"
+          },
+          {
+            "textEn": "The person must have been born on Nepalese soil regardless of parental nationality.",
+            "textNe": "अभिभावकको नागरिकता जे भए पनि नेपालमै जन्मिएको हुनुपर्छ।"
+          },
+          {
+            "textEn": "The person must be married to a Nepalese citizen for at least five years.",
+            "textNe": "व्यक्ति कम्तीमा ५ वर्ष नेपाली नागरिकसँग विवाह गरेको हुनुपर्छ."
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 303,
+        "questionEn": "Under Article 16, which restriction is placed on the making of laws regarding the 'Right to live with dignity'?",
+        "questionNe": "धारा १६ अनुसार ‘मर्यादापूर्वक बाँच्ने अधिकार’ सम्बन्धी कानुन निर्माणमा के प्रतिबन्ध छ?",
+        "options": [
+          {
+            "textEn": "No law shall be made providing for the death penalty.",
+            "textNe": "मृत्युदण्डको व्यवस्था गर्ने कुनै कानुन बनाउन पाइने छैन।"
+          },
+          {
+            "textEn": "Laws providing for the death penalty must be approved by a national referendum.",
+            "textNe": "मृत्युदण्डसम्बन्धी कानुन राष्ट्रिय जनमतसंग्रहबाट अनुमोदन हुनुपर्छ।"
+          },
+          {
+            "textEn": "The death penalty can only be administered by the Supreme Court.",
+            "textNe": "मृत्युदण्ड केवल सर्वोच्च अदालतले मात्र दिन सक्छ।"
+          },
+          {
+            "textEn": "Laws may only allow the death penalty for cases of high treason.",
+            "textNe": "मृत्युदण्ड केवल देशद्रोहको अवस्थामा मात्र अनुमति छ."
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 304,
+        "questionEn": "According to Article 18, what is the 'indigent' status defined as for the purposes of the Right to Equality and Part 4?",
+        "questionNe": "धारा १८ अनुसार ‘गरिब/असहाय (indigent)’ को परिभाषा के हो?",
+        "options": [
+          {
+            "textEn": "A person who earns income less than that specified by Federal law.",
+            "textNe": "संघीय कानुनले तोकेकोभन्दा कम आय भएको व्यक्ति।"
+          },
+          {
+            "textEn": "A person who has been unemployed for more than twelve consecutive months.",
+            "textNe": "१२ महिनाभन्दा बढी लगातार बेरोजगार रहेको व्यक्ति।"
+          },
+          {
+            "textEn": "A person who belongs to a marginalized community on the verge of extinction.",
+            "textNe": "लोपोन्मुख तथा सीमान्तकृत समुदायमा पर्ने व्यक्ति।"
+          },
+          {
+            "textEn": "A person who does not own any landed property.",
+            "textNe": "जसको कुनै पनि जग्गा सम्पत्ति छैन।"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-06-02": {
+    "id": "2026-06-02",
+    "title": "Challenge #99",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 305,
+        "questionEn": "What restriction does Article 26(3) place on the exercise of the 'Right to freedom of religion'?",
+        "questionNe": "धारा २६(३) अनुसार धार्मिक स्वतन्त्रताको प्रयोगमा के प्रतिबन्ध छ?",
+        "options": [
+          {
+            "textEn": "No person shall convert another person from one religion to another.",
+            "textNe": "कसैले पनि अर्को व्यक्तिलाई एक धर्मबाट अर्को धर्ममा परिवर्तन गर्न पाइँदैन।"
+          },
+          {
+            "textEn": "Only religions handed down from ancient times can be practiced.",
+            "textNe": "प्राचीन कालदेखि आएका धर्म मात्र पालन गर्न पाइन्छ।"
+          },
+          {
+            "textEn": "Religious sites can only be operated by the State government.",
+            "textNe": "धार्मिक स्थलहरू राज्य सरकारद्वारा मात्र सञ्चालन गर्न पाइन्छ।"
+          },
+          {
+            "textEn": "No person shall be allowed to practice religion in public spaces.",
+            "textNe": "सार्वजनिक स्थानमा धर्म अभ्यास गर्न पाइँदैन।"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 306,
+        "questionEn": "Article 31(2) mandates that the State must provide free education up to which level for every citizen?",
+        "questionNe": "धारा ३१(२) अनुसार राज्यले प्रत्येक नागरिकलाई कति तहसम्म निःशुल्क शिक्षा प्रदान गर्नुपर्छ?",
+        "options": [
+          {
+            "textEn": "Secondary level",
+            "textNe": "माध्यमिक तह"
+          },
+          {
+            "textEn": "Higher secondary level (Class 12)",
+            "textNe": "उच्च माध्यमिक तह (कक्षा १२)"
+          },
+          {
+            "textEn": "Primary level",
+            "textNe": "प्राथमिक तह"
+          },
+          {
+            "textEn": "University level",
+            "textNe": "विश्वविद्यालय तह"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 307,
+        "questionEn": "Under the 'Rights of women' (Article 38), which principle is specified for women's participation in all bodies of the State?",
+        "questionNe": "महिलाको हक (धारा ३८) अनुसार राज्यका सबै निकायहरूमा महिलाको सहभागिताको सिद्धान्त के हो?",
+        "options": [
+          {
+            "textEn": "Principle of proportional inclusion",
+            "textNe": "अनुपातिक समावेशीकरणको सिद्धान्त"
+          },
+          {
+            "textEn": "Equal representation by numbers",
+            "textNe": "संख्याको आधारमा बराबर प्रतिनिधित्व"
+          },
+          {
+            "textEn": "A fixed quota of 50 percent in the executive branch",
+            "textNe": "कार्यकारी निकायमा ५० प्रतिशत स्थिर कोटा"
+          },
+          {
+            "textEn": "Participation based on educational merit alone",
+            "textNe": "केवल शैक्षिक योग्यताको आधारमा सहभागिता"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 308,
+        "questionEn": "Which body is responsible for monitoring and evaluating whether the Directive Principles, Policies, and Obligations of the State are being implemented?",
+        "questionNe": "राज्यका निर्देशक सिद्धान्त, नीति र दायित्वहरूको कार्यान्वयन अनुगमन गर्ने निकाय कुन हो?",
+        "options": [
+          {
+            "textEn": "A committee in the Federal Parliament",
+            "textNe": "संघीय संसदको एक समिति"
+          },
+          {
+            "textEn": "The National Human Rights Commission",
+            "textNe": "राष्ट्रिय मानव अधिकार आयोग"
+          },
+          {
+            "textEn": "The Council of Ministers directly",
+            "textNe": "मन्त्रिपरिषद् स्वयं"
+          },
+          {
+            "textEn": "The Supreme Court of Nepal",
+            "textNe": "नेपालको सर्वोच्च अदालत"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 309,
+        "questionEn": "Article 58 grants the 'Residual powers' of the state to which level of government?",
+        "questionNe": "धारा ५८ अनुसार राज्यका ‘अवशिष्ट अधिकार’ कुन तहको सरकारलाई दिइएको छ?",
+        "options": [
+          {
+            "textEn": "The Federation",
+            "textNe": "संघीय सरकार"
+          },
+          {
+            "textEn": "Shared equally between the Federation and the States",
+            "textNe": "संघ र प्रदेशबीच समान रूपमा बाँडिएको"
+          },
+          {
+            "textEn": "The State (Provincial) level",
+            "textNe": "प्रदेश सरकार"
+          },
+          {
+            "textEn": "The Local level",
+            "textNe": "स्थानीय तह"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  }
+}
