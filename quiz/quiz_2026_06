@@ -254,5 +254,261 @@
         "correctAnswerIndex": 0
       }
     ]
+  },
+  "2026-06-03": {
+    "id": "2026-06-03",
+    "title": "Challenge #100",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 310,
+        "questionEn": "To be eligible for the office of the President, Vice-President, or Prime Minister, what type of citizenship must the individual possess?",
+        "questionNe": "राष्ट्रपति, उपराष्ट्रपति वा प्रधानमन्त्रीको पदका लागि योग्य हुन व्यक्तिले कस्तो प्रकारको नागरिकता राख्नुपर्छ?",
+        "options": [
+          {
+            "textEn": "Citizenship by descent",
+            "textNe": "वंशज नागरिकता"
+          },
+          {
+            "textEn": "Honorary citizenship",
+            "textNe": "मानार्थ नागरिकता"
+          },
+          {
+            "textEn": "Citizenship by birth",
+            "textNe": "जन्मसिद्ध नागरिकता"
+          },
+          {
+            "textEn": "Naturalised citizenship",
+            "textNe": "अंगीकृत नागरिकता"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 311,
+        "questionEn": "According to Article 76, who is appointed as the Prime Minister by the President?",
+        "questionNe": "अनुच्छेद ७६ अनुसार, राष्ट्रपतिद्वारा प्रधानमन्त्रीको रूपमा कसलाई नियुक्त गरिन्छ?",
+        "options": [
+          {
+            "textEn": "The leader of the parliamentary party commanding a majority in the House of Representatives.",
+            "textNe": "प्रतिनिधि सभामा बहुमत प्राप्त गर्ने संसदीय दलको नेता।"
+          },
+          {
+            "textEn": "A person nominated by a two-thirds majority of the Constitutional Council.",
+            "textNe": "संवैधानिक परिषद्को दुई तिहाइ बहुमतद्वारा मनोनीत व्यक्ति।"
+          },
+          {
+            "textEn": "The Chairperson of the National Assembly.",
+            "textNe": "राष्ट्रिय सभाका अध्यक्ष।"
+          },
+          {
+            "textEn": "The individual who receives the highest number of votes in a direct national election.",
+            "textNe": "प्रत्यक्ष राष्ट्रिय निर्वाचनमा सबैभन्दा बढी मत प्राप्त गर्ने व्यक्ति।"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 312,
+        "questionEn": "What is the total number of members in the House of Representatives as per Article 84?",
+        "questionNe": "अनुच्छेद ८४ अनुसार प्रतिनिधि सभामा कुल सदस्य संख्या कति हो?",
+        "options": [
+          {
+            "textEn": "275",
+            "textNe": "२७५"
+          },
+          {
+            "textEn": "601",
+            "textNe": "६०१"
+          },
+          {
+            "textEn": "59",
+            "textNe": "५९"
+          },
+          {
+            "textEn": "330",
+            "textNe": "३३०"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 313,
+        "questionEn": "A motion of impeachment against the Chief Justice or a Judge of the Supreme Court requires what majority to be passed in the House of Representatives?",
+        "questionNe": "प्रधानन्यायाधीश वा सर्वोच्च अदालतका न्यायाधीश विरुद्धको महाभियोग प्रस्ताव प्रतिनिधि सभामा पारित हुन कति बहुमत आवश्यक हुन्छ?",
+        "options": [
+          {
+            "textEn": "Two-thirds majority of the total number of the then members.",
+            "textNe": "प्रतिनिधि सभाका तत्काल कायम रहेका कुल सदस्यहरूको दुई तिहाइ बहुमत।"
+          },
+          {
+            "textEn": "Simple majority of members present and voting.",
+            "textNe": "उपस्थित र मतदान गर्ने सदस्यहरूको साधारण बहुमत।"
+          },
+          {
+            "textEn": "Absolute majority of the National Assembly.",
+            "textNe": "राष्ट्रिय सभाको पूर्ण बहुमत।"
+          },
+          {
+            "textEn": "Three-fourths majority of both Houses in a joint sitting.",
+            "textNe": "संयुक्त बैठकमा दुवै सदनको तीन चौथाइ बहुमत।"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 314,
+        "questionEn": "Which court has the final authority to interpret the Constitution and laws of Nepal?",
+        "questionNe": "नेपालको संविधान र कानुनको अन्तिम व्याख्या गर्ने अधिकार कुन अदालतसँग हुन्छ?",
+        "options": [
+          {
+            "textEn": "Supreme Court of Nepal",
+            "textNe": "नेपालको सर्वोच्च अदालत"
+          },
+          {
+            "textEn": "The Federal Parliament",
+            "textNe": "संघीय संसद"
+          },
+          {
+            "textEn": "The High Court",
+            "textNe": "उच्च अदालत"
+          },
+          {
+            "textEn": "The Constitutional Bench within the High Court",
+            "textNe": "उच्च अदालतभित्रको संवैधानिक इजलास"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-06-04": {
+    "id": "2026-06-04",
+    "title": "Challenge #101",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 315,
+        "questionEn": "The Constitutional Council, responsible for recommending the appointment of the Chief Justice, is chaired by whom?",
+        "questionNe": "मुख्य न्यायाधीशको नियुक्तिको सिफारिस गर्ने संवैधानिक परिषद्को अध्यक्षता कसले गर्दछ?",
+        "options": [
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "The Chief Justice of Nepal",
+            "textNe": "नेपालका प्रधानन्यायाधीश"
+          },
+          {
+            "textEn": "The Speaker of the House of Representatives",
+            "textNe": "प्रतिनिधि सभाका सभामुख"
+          },
+          {
+            "textEn": "The President of Nepal",
+            "textNe": "नेपालका राष्ट्रपति"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 316,
+        "questionEn": "Under Article 273, the President may declare a state of emergency if a grave situation arises from which of the following?",
+        "questionNe": "अनुच्छेद २७३ अनुसार गम्भीर परिस्थितिमा राष्ट्रपतिले कुन अवस्थाबाट संकटकाल घोषणा गर्न सक्नुहुन्छ?",
+        "options": [
+          {
+            "textEn": "War, external aggression, armed rebellion, or extreme economic disarray.",
+            "textNe": "युद्ध, बाह्य आक्रमण, सशस्त्र विद्रोह, वा अत्यधिक आर्थिक अव्यवस्था।"
+          },
+          {
+            "textEn": "A request by at least three political parties in the opposition.",
+            "textNe": "विपक्षमा रहेका कम्तीमा तीन राजनीतिक दलहरूको अनुरोध।"
+          },
+          {
+            "textEn": "A simple majority vote of no confidence in the Parliament.",
+            "textNe": "संसदमा अविश्वास प्रस्तावको साधारण बहुमत मत।"
+          },
+          {
+            "textEn": "A failure to pass the annual budget within the specified timeframe.",
+            "textNe": "निर्धारित समयमा वार्षिक बजेट पारित गर्न असफल हुनु।"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 317,
+        "questionEn": "Which part of the Constitution is explicitly prohibited from being amended according to Article 274?",
+        "questionNe": "अनुच्छेद २७४ अनुसार संविधानको कुन भाग संशोधन गर्न स्पष्ट रूपमा निषेध गरिएको छ?",
+        "options": [
+          {
+            "textEn": "Provisions that affect the sovereignty, independence, and territorial integrity of Nepal under Article 274.",
+            "textNe": "अनुच्छेद २७४ अनुसार नेपालको सार्वभौमसत्ता, स्वतन्त्रता र भौगोलिक अखण्डतामा असर पार्ने प्रावधानहरू।"
+          },
+          {
+            "textEn": "The list of Federal Powers in Schedule-5.",
+            "textNe": "अनुसूची–५ मा रहेको संघीय अधिकारहरूको सूची।"
+          },
+          {
+            "textEn": "The preamble of the Constitution.",
+            "textNe": "संविधानको प्रस्तावना।"
+          },
+          {
+            "textEn": "The provisions relating to the National Anthem.",
+            "textNe": "राष्ट्रिय गानसम्बन्धी प्रावधानहरू।"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 318,
+        "questionEn": "Which of the following describes the 'residual power' of the Federation according to Schedule-5?",
+        "questionNe": "अनुसूची–५ अनुसार संघीय सरकारको ‘अवशिष्ट अधिकार’ कुन हो?",
+        "options": [
+          {
+            "textEn": "Any matter not enumerated in the Lists of Federal, State, and Local Powers or in the Concurrent List.",
+            "textNe": "संघीय, प्रदेश र स्थानीय तहका सूची वा साझा सूचीमा उल्लेख नभएका सबै विषयहरू।"
+          },
+          {
+            "textEn": "The protection and use of local languages.",
+            "textNe": "स्थानीय भाषाहरूको संरक्षण र प्रयोग।"
+          },
+          {
+            "textEn": "The power to tax agricultural income.",
+            "textNe": "कृषि आम्दानीमा कर लगाउने अधिकार।"
+          },
+          {
+            "textEn": "The management of basic and secondary education.",
+            "textNe": "आधारभूत र माध्यमिक शिक्षाको व्यवस्थापन।"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 319,
+        "questionEn": "What is the term of office for a member of the National Assembly?",
+        "questionNe": "राष्ट्रिय सभाका सदस्यको कार्यकाल कति हुन्छ?",
+        "options": [
+          {
+            "textEn": "Six years",
+            "textNe": "छ वर्ष"
+          },
+          {
+            "textEn": "Four years",
+            "textNe": "चार वर्ष"
+          },
+          {
+            "textEn": "Five years",
+            "textNe": "पाँच वर्ष"
+          },
+          {
+            "textEn": "Permanently, until they reach the age of seventy-five.",
+            "textNe": "पचहत्तर वर्ष उमेर नपुगेसम्म स्थायी रूपमा"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
   }
 }
