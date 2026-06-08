@@ -510,5 +510,2821 @@
         "correctAnswerIndex": 0
       }
     ]
+  },
+  "2026-06-09": {
+    "id": "2026-06-09",
+    "title": "Challenge #106",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 340,
+        "questionEn": "Which schedule lists concurrent powers of Federation and State?",
+        "questionNe": "संघ र प्रदेशको समवर्ती अधिकार कुन अनुसूचीमा छ?",
+        "options": [
+          {
+            "textEn": "Schedule 7",
+            "textNe": "अनुसूची ७"
+          },
+          {
+            "textEn": "Schedule 5",
+            "textNe": "अनुसूची ५"
+          },
+          {
+            "textEn": "Schedule 6",
+            "textNe": "अनुसूची ६"
+          },
+          {
+            "textEn": "Schedule 8",
+            "textNe": "अनुसूची ८"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 341,
+        "questionEn": "What is the national bird of Nepal?",
+        "questionNe": "नेपालको राष्ट्रिय चरा कुन हो?",
+        "options": [
+          {
+            "textEn": "Lophophorus (Danphe)",
+            "textNe": "डाँफे"
+          },
+          {
+            "textEn": "Peacock",
+            "textNe": "मयूर"
+          },
+          {
+            "textEn": "Eagle",
+            "textNe": "चील"
+          },
+          {
+            "textEn": "Parrot",
+            "textNe": "सुगा"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 342,
+        "questionEn": "How many members does the National Women Commission have?",
+        "questionNe": "राष्ट्रिय महिला आयोगमा जम्मा कति सदस्य हुन्छन्?",
+        "options": [
+          {
+            "textEn": "Five (Chairperson + four members)",
+            "textNe": "पाँच (अध्यक्ष + चार सदस्य)"
+          },
+          {
+            "textEn": "Three",
+            "textNe": "तीन"
+          },
+          {
+            "textEn": "Seven",
+            "textNe": "सात"
+          },
+          {
+            "textEn": "Six",
+            "textNe": "छ"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 343,
+        "questionEn": "What does the preamble of the Constitution say about the system of governance?",
+        "questionNe": "संविधानको प्रस्तावना शासन व्यवस्थाबारे के भन्छ?",
+        "options": [
+          {
+            "textEn": "Federal, democratic, republican system of governance",
+            "textNe": "संघीय, लोकतान्त्रिक, गणतान्त्रिक शासन प्रणाली"
+          },
+          {
+            "textEn": "Parliamentary monarchy",
+            "textNe": "संसदीय राजतन्त्र"
+          },
+          {
+            "textEn": "Presidential system",
+            "textNe": "राष्ट्रपतीय प्रणाली"
+          },
+          {
+            "textEn": "Unitary socialist system",
+            "textNe": "एकात्मक समाजवादी प्रणाली"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 344,
+        "questionEn": "How many members of the National Assembly are nominated by the President?",
+        "questionNe": "राष्ट्रिय सभामा राष्ट्रपतिद्वारा मनोनीत सदस्य कतिजना हुन्छन्?",
+        "options": [
+          {
+            "textEn": "Three",
+            "textNe": "तीन"
+          },
+          {
+            "textEn": "Five",
+            "textNe": "पाँच"
+          },
+          {
+            "textEn": "Seven",
+            "textNe": "सात"
+          },
+          {
+            "textEn": "Two",
+            "textNe": "दुई"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-06-10": {
+    "id": "2026-06-10",
+    "title": "Challenge #107",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 345,
+        "questionEn": "Who elects the President?",
+        "questionNe": "राष्ट्रपति कसले निर्वाचन गर्छ?",
+        "options": [
+          {
+            "textEn": "An electoral college of members of Federal Parliament and State Assemblies",
+            "textNe": "संघीय संसद र प्रदेश सभाका सदस्यहरू भएको निर्वाचक मण्डल"
+          },
+          {
+            "textEn": "Only the members of the House of Representatives",
+            "textNe": "प्रतिनिधि सभाका सदस्यले मात्र"
+          },
+          {
+            "textEn": "Only the members of the National Assembly",
+            "textNe": "राष्ट्रिय सभाका सदस्यले मात्र"
+          },
+          {
+            "textEn": "The general public by direct vote",
+            "textNe": "आम जनताको प्रत्यक्ष मतद्वारा"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 346,
+        "questionEn": "Who chairs the Judicial Council?",
+        "questionNe": "न्यायपरिषद्‌को अध्यक्षता को गर्छ?",
+        "options": [
+          {
+            "textEn": "The Chief Justice",
+            "textNe": "प्रधान न्यायाधीश"
+          },
+          {
+            "textEn": "The Minister for Law and Justice",
+            "textNe": "कानुन तथा न्यायमन्त्री"
+          },
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "The Attorney General",
+            "textNe": "महान्यायाधिवक्ता"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 347,
+        "questionEn": "Who confers titles, honours and decorations on behalf of the state?",
+        "questionNe": "राज्यको तर्फबाट विभूषण र उपाधि प्रदान को गर्छ?",
+        "options": [
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "The Speaker",
+            "textNe": "सभामुख"
+          },
+          {
+            "textEn": "The Chief Justice",
+            "textNe": "प्रधान न्यायाधीश"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 348,
+        "questionEn": "How many members does the Public Service Commission have?",
+        "questionNe": "लोक सेवा आयोगमा जम्मा कति सदस्य हुन्छन्?",
+        "options": [
+          {
+            "textEn": "Five (Chairperson + four members)",
+            "textNe": "पाँच (अध्यक्ष + चार सदस्य)"
+          },
+          {
+            "textEn": "Three",
+            "textNe": "तीन"
+          },
+          {
+            "textEn": "Seven",
+            "textNe": "सात"
+          },
+          {
+            "textEn": "Six",
+            "textNe": "छ"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 349,
+        "questionEn": "What is the term of office of the President?",
+        "questionNe": "राष्ट्रपतिको कार्यकाल कति वर्षको हुन्छ?",
+        "options": [
+          {
+            "textEn": "Five years",
+            "textNe": "पाँच वर्ष"
+          },
+          {
+            "textEn": "Six years",
+            "textNe": "छ वर्ष"
+          },
+          {
+            "textEn": "Four years",
+            "textNe": "चार वर्ष"
+          },
+          {
+            "textEn": "Three years",
+            "textNe": "तीन वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-06-11": {
+    "id": "2026-06-11",
+    "title": "Challenge #108",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 350,
+        "questionEn": "What is the official language of Nepal?",
+        "questionNe": "नेपालको राजकाजको भाषा कुन हो?",
+        "options": [
+          {
+            "textEn": "Nepali in Devnagari script",
+            "textNe": "देवनागरी लिपिमा नेपाली भाषा"
+          },
+          {
+            "textEn": "Hindi",
+            "textNe": "हिन्दी"
+          },
+          {
+            "textEn": "Maithili",
+            "textNe": "मैथिली"
+          },
+          {
+            "textEn": "Sanskrit",
+            "textNe": "संस्कृत"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 351,
+        "questionEn": "How are the Chairperson and Vice-Chairperson of the Village Executive elected?",
+        "questionNe": "गाउँ कार्यपालिकाका अध्यक्ष र उपाध्यक्ष कसरी निर्वाचित हुन्छन्?",
+        "options": [
+          {
+            "textEn": "Directly by voters through first-past-the-post system",
+            "textNe": "मतदाताहरूद्वारा प्रत्यक्ष निर्वाचन प्रणालीबाट"
+          },
+          {
+            "textEn": "By members of the Village Assembly",
+            "textNe": "गाउँ सभाका सदस्यहरूबाट"
+          },
+          {
+            "textEn": "By the Chief of State",
+            "textNe": "प्रदेश प्रमुखबाट"
+          },
+          {
+            "textEn": "By the District Coordination Committee",
+            "textNe": "जिल्ला समन्वय समितिबाट"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 352,
+        "questionEn": "Before whom does the Vice-President take oath?",
+        "questionNe": "उपराष्ट्रपतिले कसको सामु शपथ लिन्छ?",
+        "options": [
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "The Chief Justice",
+            "textNe": "प्रधान न्यायाधीश"
+          },
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "The Speaker",
+            "textNe": "सभामुख"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 353,
+        "questionEn": "What is the term of office of the Auditor General?",
+        "questionNe": "महालेखापरीक्षकको कार्यकाल कति वर्षको हुन्छ?",
+        "options": [
+          {
+            "textEn": "Six years",
+            "textNe": "छ वर्ष"
+          },
+          {
+            "textEn": "Five years",
+            "textNe": "पाँच वर्ष"
+          },
+          {
+            "textEn": "Four years",
+            "textNe": "चार वर्ष"
+          },
+          {
+            "textEn": "Three years",
+            "textNe": "तीन वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 354,
+        "questionEn": "How many levels does the state structure of Nepal have?",
+        "questionNe": "नेपालको राज्य संरचनामा कति तहका सरकार छन्?",
+        "options": [
+          {
+            "textEn": "Three",
+            "textNe": "तीन"
+          },
+          {
+            "textEn": "Two",
+            "textNe": "दुई"
+          },
+          {
+            "textEn": "Four",
+            "textNe": "चार"
+          },
+          {
+            "textEn": "Five",
+            "textNe": "पाँच"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-06-12": {
+    "id": "2026-06-12",
+    "title": "Challenge #109",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 355,
+        "questionEn": "Which article guarantees freedom of opinion and expression?",
+        "questionNe": "विचार र अभिव्यक्तिको स्वतन्त्रता कुन धाराले प्रत्याभूत गर्छ?",
+        "options": [
+          {
+            "textEn": "Article 17",
+            "textNe": "धारा १७"
+          },
+          {
+            "textEn": "Article 19",
+            "textNe": "धारा १९"
+          },
+          {
+            "textEn": "Article 18",
+            "textNe": "धारा १८"
+          },
+          {
+            "textEn": "Article 21",
+            "textNe": "धारा २१"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 356,
+        "questionEn": "Which article states that all offspring shall have equal right to ancestral property without gender discrimination?",
+        "questionNe": "कुन धाराले लैङ्गिक भेदभावबिना सबै सन्तानलाई पैतृक सम्पत्तिमा समान अधिकार हुन्छ भन्छ?",
+        "options": [
+          {
+            "textEn": "Article 18(5)",
+            "textNe": "धारा १८(५)"
+          },
+          {
+            "textEn": "Article 38(1)",
+            "textNe": "धारा ३८(१)"
+          },
+          {
+            "textEn": "Article 25(1)",
+            "textNe": "धारा २५(१)"
+          },
+          {
+            "textEn": "Article 40(7)",
+            "textNe": "धारा ४०(७)"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 357,
+        "questionEn": "What is the term of office of the Chief Justice?",
+        "questionNe": "प्रधान न्यायाधीशको कार्यकाल कति वर्षको हुन्छ?",
+        "options": [
+          {
+            "textEn": "Six years",
+            "textNe": "छ वर्ष"
+          },
+          {
+            "textEn": "Five years",
+            "textNe": "पाँच वर्ष"
+          },
+          {
+            "textEn": "Four years",
+            "textNe": "चार वर्ष"
+          },
+          {
+            "textEn": "Until retirement age of 65",
+            "textNe": "६५ वर्षसम्म"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 358,
+        "questionEn": "Which article guarantees the Right to Equality?",
+        "questionNe": "समानताको अधिकार कुन धाराले प्रत्याभूत गर्छ?",
+        "options": [
+          {
+            "textEn": "Article 18",
+            "textNe": "धारा १८"
+          },
+          {
+            "textEn": "Article 16",
+            "textNe": "धारा १६"
+          },
+          {
+            "textEn": "Article 20",
+            "textNe": "धारा २०"
+          },
+          {
+            "textEn": "Article 22",
+            "textNe": "धारा २२"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 359,
+        "questionEn": "Which article specifies that all languages spoken as mother tongues in Nepal are languages of the nation?",
+        "questionNe": "नेपालमा मातृभाषाका रूपमा बोलिने सबै भाषाहरू राष्ट्रभाषा हुन् भनेर कुन धाराले भन्छ?",
+        "options": [
+          {
+            "textEn": "Article 6",
+            "textNe": "धारा ६"
+          },
+          {
+            "textEn": "Article 7",
+            "textNe": "धारा ७"
+          },
+          {
+            "textEn": "Article 5",
+            "textNe": "धारा ५"
+          },
+          {
+            "textEn": "Article 8",
+            "textNe": "धारा ८"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-06-13": {
+    "id": "2026-06-13",
+    "title": "Challenge #110",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 360,
+        "questionEn": "How many members does the National Human Rights Commission have?",
+        "questionNe": "राष्ट्रिय मानव अधिकार आयोगमा जम्मा कति सदस्य हुन्छन्?",
+        "options": [
+          {
+            "textEn": "Five (Chairperson + four members)",
+            "textNe": "पाँच (अध्यक्ष + चार सदस्य)"
+          },
+          {
+            "textEn": "Three",
+            "textNe": "तीन"
+          },
+          {
+            "textEn": "Seven",
+            "textNe": "सात"
+          },
+          {
+            "textEn": "Six",
+            "textNe": "छ"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 361,
+        "questionEn": "Who is the head of state of Nepal?",
+        "questionNe": "नेपालको राज्यप्रमुख को हो?",
+        "options": [
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "The Chief Justice",
+            "textNe": "प्रधान न्यायाधीश"
+          },
+          {
+            "textEn": "The Speaker",
+            "textNe": "सभामुख"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 362,
+        "questionEn": "Within how many days must a state of emergency declaration be presented to Parliament for approval?",
+        "questionNe": "आपतकाल घोषणा संसदमा स्वीकृतिका लागि कति दिनभित्र पेस गर्नुपर्छ?",
+        "options": [
+          {
+            "textEn": "One month",
+            "textNe": "एक महिना"
+          },
+          {
+            "textEn": "Two weeks",
+            "textNe": "दुई हप्ता"
+          },
+          {
+            "textEn": "Two months",
+            "textNe": "दुई महिना"
+          },
+          {
+            "textEn": "Three months",
+            "textNe": "तीन महिना"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 363,
+        "questionEn": "Before whom does the President take oath of office?",
+        "questionNe": "राष्ट्रपतिले कसको सामु शपथ लिन्छ?",
+        "options": [
+          {
+            "textEn": "Chief Justice",
+            "textNe": "प्रधान न्यायाधीश"
+          },
+          {
+            "textEn": "Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "Speaker of the House of Representatives",
+            "textNe": "प्रतिनिधि सभाका सभामुख"
+          },
+          {
+            "textEn": "Chairperson of the National Assembly",
+            "textNe": "राष्ट्रिय सभाका अध्यक्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 364,
+        "questionEn": "What is the supreme law of Nepal?",
+        "questionNe": "नेपालको सर्वोच्च कानुन कुन हो?",
+        "options": [
+          {
+            "textEn": "The Constitution of Nepal",
+            "textNe": "नेपालको संविधान"
+          },
+          {
+            "textEn": "The Civil Code",
+            "textNe": "मुलुकी देवानी संहिता"
+          },
+          {
+            "textEn": "The Criminal Code",
+            "textNe": "मुलुकी फौजदारी संहिता"
+          },
+          {
+            "textEn": "Parliamentary Rules",
+            "textNe": "संसदीय नियमावली"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-06-14": {
+    "id": "2026-06-14",
+    "title": "Challenge #111",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 365,
+        "questionEn": "How many times can a person be elected Mayor?",
+        "questionNe": "एक व्यक्ति कति पटकसम्म नगरपालिकाको प्रमुखमा निर्वाचित हुन सक्छ?",
+        "options": [
+          {
+            "textEn": "Twice",
+            "textNe": "दुई पटक"
+          },
+          {
+            "textEn": "Once",
+            "textNe": "एक पटक"
+          },
+          {
+            "textEn": "Three times",
+            "textNe": "तीन पटक"
+          },
+          {
+            "textEn": "Unlimited times",
+            "textNe": "असीमित पटक"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 366,
+        "questionEn": "What majority is required in both Houses to pass a motion of impeachment against the President?",
+        "questionNe": "राष्ट्रपतिविरुद्ध महाभियोग पारित गर्न दुवै सदनमा कति बहुमत चाहिन्छ?",
+        "options": [
+          {
+            "textEn": "Two-thirds majority of total members",
+            "textNe": "कुल सदस्यको दुई तिहाइ बहुमत"
+          },
+          {
+            "textEn": "Simple majority",
+            "textNe": "साधारण बहुमत"
+          },
+          {
+            "textEn": "Three-fourths majority",
+            "textNe": "तीन चौथाइ बहुमत"
+          },
+          {
+            "textEn": "Unanimous decision",
+            "textNe": "सर्वसम्मति"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 367,
+        "questionEn": "What is the minimum age to become a member of the National Assembly?",
+        "questionNe": "राष्ट्रिय सभाको सदस्य हुन न्यूनतम उमेर कति हुनुपर्छ?",
+        "options": [
+          {
+            "textEn": "35 years",
+            "textNe": "३५ वर्ष"
+          },
+          {
+            "textEn": "25 years",
+            "textNe": "२५ वर्ष"
+          },
+          {
+            "textEn": "40 years",
+            "textNe": "४० वर्ष"
+          },
+          {
+            "textEn": "30 years",
+            "textNe": "३० वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 368,
+        "questionEn": "What is the term of office of the Chief Commissioner of the CIAA?",
+        "questionNe": "अख्तियार दुरुपयोग अनुसन्धान आयोगका प्रमुख आयुक्तको कार्यकाल कति हो?",
+        "options": [
+          {
+            "textEn": "Six years",
+            "textNe": "छ वर्ष"
+          },
+          {
+            "textEn": "Five years",
+            "textNe": "पाँच वर्ष"
+          },
+          {
+            "textEn": "Four years",
+            "textNe": "चार वर्ष"
+          },
+          {
+            "textEn": "Three years",
+            "textNe": "तीन वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 369,
+        "questionEn": "Within how many days of election results must the President summon a Federal Parliament session?",
+        "questionNe": "निर्वाचनको अन्तिम नतिजा घोषणा भएको कति दिनभित्र राष्ट्रपतिले संघीय संसदको अधिवेशन बोलाउनुपर्छ?",
+        "options": [
+          {
+            "textEn": "Thirty days",
+            "textNe": "तीस दिन"
+          },
+          {
+            "textEn": "Fifteen days",
+            "textNe": "पन्ध्र दिन"
+          },
+          {
+            "textEn": "Twenty days",
+            "textNe": "बीस दिन"
+          },
+          {
+            "textEn": "Forty-five days",
+            "textNe": "पैंतालीस दिन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-06-15": {
+    "id": "2026-06-15",
+    "title": "Challenge #112",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 370,
+        "questionEn": "What is required for a political party to be registered with the Election Commission?",
+        "questionNe": "राजनीतिक दल निर्वाचन आयोगमा दर्ता हुन के आवश्यक छ?",
+        "options": [
+          {
+            "textEn": "Democratic constitution, periodic internal elections and inclusive representation",
+            "textNe": "लोकतान्त्रिक विधान, आवधिक आन्तरिक निर्वाचन र समावेशी प्रतिनिधित्व"
+          },
+          {
+            "textEn": "Only party manifesto",
+            "textNe": "दलको घोषणापत्र मात्र"
+          },
+          {
+            "textEn": "Minimum 1,000 members",
+            "textNe": "न्यूनतम १,००० सदस्य"
+          },
+          {
+            "textEn": "Only a party flag and name",
+            "textNe": "दलको झण्डा र नाम मात्र"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 371,
+        "questionEn": "What does Article 42 guarantee?",
+        "questionNe": "धारा ४२ ले के प्रत्याभूत गर्छ?",
+        "options": [
+          {
+            "textEn": "Right to social justice",
+            "textNe": "सामाजिक न्यायको अधिकार"
+          },
+          {
+            "textEn": "Right to social security",
+            "textNe": "सामाजिक सुरक्षाको अधिकार"
+          },
+          {
+            "textEn": "Right to property",
+            "textNe": "सम्पत्तिको अधिकार"
+          },
+          {
+            "textEn": "Right to language",
+            "textNe": "भाषाको अधिकार"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 372,
+        "questionEn": "What is the retirement age of Supreme Court Judges?",
+        "questionNe": "सर्वोच्च अदालतका न्यायाधीशको अवकाश उमेर कति हो?",
+        "options": [
+          {
+            "textEn": "65 years",
+            "textNe": "६५ वर्ष"
+          },
+          {
+            "textEn": "60 years",
+            "textNe": "६० वर्ष"
+          },
+          {
+            "textEn": "63 years",
+            "textNe": "६३ वर्ष"
+          },
+          {
+            "textEn": "70 years",
+            "textNe": "७० वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 373,
+        "questionEn": "What is the maximum period for which a state of emergency can be extended after initial approval?",
+        "questionNe": "प्रारम्भिक अनुमोदनपछि आपतकाल थप कति समयसम्म थप्न सकिन्छ?",
+        "options": [
+          {
+            "textEn": "Three months at a time",
+            "textNe": "एक पटकमा तीन महिना"
+          },
+          {
+            "textEn": "Six months",
+            "textNe": "छ महिना"
+          },
+          {
+            "textEn": "One year",
+            "textNe": "एक वर्ष"
+          },
+          {
+            "textEn": "Two months",
+            "textNe": "दुई महिना"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 374,
+        "questionEn": "Which law did the Constitution of Nepal 2015 repeal?",
+        "questionNe": "नेपालको संविधान, २०७२ ले कुन कानुन खारेज गर्यो?",
+        "options": [
+          {
+            "textEn": "The Interim Constitution of Nepal 2007",
+            "textNe": "नेपालको अन्तरिम संविधान, २०६३"
+          },
+          {
+            "textEn": "The Constitution of Nepal 1990",
+            "textNe": "नेपाल अधिराज्यको संविधान, २०४७"
+          },
+          {
+            "textEn": "The Constitution of Nepal 1962",
+            "textNe": "नेपालको संविधान, २०१९"
+          },
+          {
+            "textEn": "The Government of Nepal Act 1948",
+            "textNe": "नेपाल सरकार वैधानिक कानुन, १९४८"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-06-16": {
+    "id": "2026-06-16",
+    "title": "Challenge #113",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 375,
+        "questionEn": "Does the Constitution of Nepal allow the death penalty?",
+        "questionNe": "नेपालको संविधानले मृत्युदण्डको व्यवस्था गर्छ?",
+        "options": [
+          {
+            "textEn": "No, no law shall provide for the death penalty",
+            "textNe": "होइन, कुनै पनि कानुनले मृत्युदण्डको व्यवस्था गर्न पाउँदैन"
+          },
+          {
+            "textEn": "Yes, for serious crimes",
+            "textNe": "हो, गम्भीर अपराधमा"
+          },
+          {
+            "textEn": "Yes, for treason only",
+            "textNe": "हो, देशद्रोहमा मात्र"
+          },
+          {
+            "textEn": "It is left to Parliament to decide",
+            "textNe": "यो संसदले निर्णय गर्ने विषय हो"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 376,
+        "questionEn": "What does the Constitution say about Nepal's foreign policy?",
+        "questionNe": "संविधानले नेपालको परराष्ट्र नीतिबारे के भन्छ?",
+        "options": [
+          {
+            "textEn": "Based on the UN Charter, non-alignment, Panchsheel and international law",
+            "textNe": "संयुक्त राष्ट्रसंघको बडापत्र, असंलग्नता, पञ्चशील र अन्तर्राष्ट्रिय कानुनमा आधारित"
+          },
+          {
+            "textEn": "Based on bilateral treaties only",
+            "textNe": "द्विपक्षीय सन्धिमा मात्र आधारित"
+          },
+          {
+            "textEn": "Based on SAARC principles",
+            "textNe": "सार्कका सिद्धान्तमा आधारित"
+          },
+          {
+            "textEn": "Based on India-Nepal Treaty",
+            "textNe": "भारत-नेपाल सन्धिमा आधारित"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 377,
+        "questionEn": "What does Article 23 protect against?",
+        "questionNe": "धारा २३ ले के विरुद्ध संरक्षण दिन्छ?",
+        "options": [
+          {
+            "textEn": "Preventive detention",
+            "textNe": "निवारक नजरबन्द"
+          },
+          {
+            "textEn": "Physical torture",
+            "textNe": "शारीरिक यातना"
+          },
+          {
+            "textEn": "Exile",
+            "textNe": "निर्वासन"
+          },
+          {
+            "textEn": "Discrimination",
+            "textNe": "भेदभाव"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 378,
+        "questionEn": "What does \"secular\" mean in the context of Nepal's Constitution?",
+        "questionNe": "नेपालको संविधानमा \"धर्मनिरपेक्ष\" को अर्थ के हो?",
+        "options": [
+          {
+            "textEn": "Religious and cultural freedom including protection of religion handed down from time immemorial",
+            "textNe": "अनादिकालदेखि चलिआएको धर्म, संस्कृतिको संरक्षणसहित धार्मिक तथा सांस्कृतिक स्वतन्त्रता"
+          },
+          {
+            "textEn": "Absence of all religion",
+            "textNe": "कुनै धर्म नहुनु"
+          },
+          {
+            "textEn": "State promotion of all religions equally",
+            "textNe": "राज्यले सबै धर्मलाई समान रूपमा प्रवर्द्धन गर्नु"
+          },
+          {
+            "textEn": "Prohibition of religious activities",
+            "textNe": "धार्मिक कार्यकलापमा प्रतिबन्ध लगाउनु"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 379,
+        "questionEn": "What does Article 4 declare about Nepal?",
+        "questionNe": "धारा ४ ले नेपालबारे के घोषणा गर्छ?",
+        "options": [
+          {
+            "textEn": "Nepal is an independent, indivisible, sovereign, secular, inclusive, democratic, socialism-oriented, federal democratic republican state",
+            "textNe": "नेपाल स्वतन्त्र, अविभाज्य, सार्वभौमसत्तासम्पन्न, धर्मनिरपेक्ष, समावेशी, लोकतान्त्रिक, समाजवादउन्मुख, संघीय लोकतान्त्रिक गणतन्त्रात्मक राज्य हो"
+          },
+          {
+            "textEn": "Nepal is a Hindu state",
+            "textNe": "नेपाल हिन्दू राज्य हो"
+          },
+          {
+            "textEn": "Nepal is a monarchy",
+            "textNe": "नेपाल राजतन्त्र हो"
+          },
+          {
+            "textEn": "Nepal is a unitary state",
+            "textNe": "नेपाल एकात्मक राज्य हो"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-06-17": {
+    "id": "2026-06-17",
+    "title": "Challenge #114",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 380,
+        "questionEn": "What special provision does the Constitution make for Dalit students?",
+        "questionNe": "संविधानले दलित विद्यार्थीहरूका लागि कस्तो विशेष व्यवस्था गरेको छ?",
+        "options": [
+          {
+            "textEn": "Free education with scholarship from primary to higher education",
+            "textNe": "प्राथमिकदेखि उच्च शिक्षासम्म छात्रवृत्तिसहित निःशुल्क शिक्षा"
+          },
+          {
+            "textEn": "Free primary education only",
+            "textNe": "प्राथमिक शिक्षा मात्र निःशुल्क"
+          },
+          {
+            "textEn": "Reservation in government jobs only",
+            "textNe": "सरकारी जागिरमा आरक्षण मात्र"
+          },
+          {
+            "textEn": "Monthly allowance",
+            "textNe": "मासिक भत्ता"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 381,
+        "questionEn": "What is the District Coordination Committee?",
+        "questionNe": "जिल्ला समन्वय समिति के हो?",
+        "options": [
+          {
+            "textEn": "A body to coordinate between Village Bodies and Municipalities within a district",
+            "textNe": "जिल्लाभित्रका गाउँपालिका र नगरपालिकाबीच समन्वय गर्ने निकाय"
+          },
+          {
+            "textEn": "A court at district level",
+            "textNe": "जिल्ला स्तरको अदालत"
+          },
+          {
+            "textEn": "An executive body of the district",
+            "textNe": "जिल्लाको कार्यकारी निकाय"
+          },
+          {
+            "textEn": "A security body",
+            "textNe": "सुरक्षा निकाय"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 382,
+        "questionEn": "Which article guarantees the Right to Housing?",
+        "questionNe": "आवासको अधिकार कुन धाराले प्रत्याभूत गर्छ?",
+        "options": [
+          {
+            "textEn": "Article 37",
+            "textNe": "धारा ३७"
+          },
+          {
+            "textEn": "Article 36",
+            "textNe": "धारा ३६"
+          },
+          {
+            "textEn": "Article 38",
+            "textNe": "धारा ३८"
+          },
+          {
+            "textEn": "Article 39",
+            "textNe": "धारा ३९"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 383,
+        "questionEn": "How is a Bill finally enacted into law?",
+        "questionNe": "विधेयक अन्ततः कानुन कसरी बन्छ?",
+        "options": [
+          {
+            "textEn": "After the President gives assent",
+            "textNe": "राष्ट्रपतिले स्वीकृति दिएपछि"
+          },
+          {
+            "textEn": "After Parliament passes it",
+            "textNe": "संसदले पारित गरेपछि"
+          },
+          {
+            "textEn": "After the Supreme Court validates it",
+            "textNe": "सर्वोच्च अदालतले मान्यता दिएपछि"
+          },
+          {
+            "textEn": "After the Prime Minister signs it",
+            "textNe": "प्रधानमन्त्रीले हस्ताक्षर गरेपछि"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 384,
+        "questionEn": "To whom must the President submit an annual report on state of emergency actions?",
+        "questionNe": "राष्ट्रपतिले आपतकालसम्बन्धी वार्षिक प्रतिवेदन कसलाई बुझाउनुपर्छ?",
+        "options": [
+          {
+            "textEn": "To the Federal Parliament through the Prime Minister",
+            "textNe": "प्रधानमन्त्रीमार्फत संघीय संसदमा"
+          },
+          {
+            "textEn": "To the Supreme Court",
+            "textNe": "सर्वोच्च अदालतमा"
+          },
+          {
+            "textEn": "To the Constitutional Council",
+            "textNe": "संवैधानिक परिषद्‌मा"
+          },
+          {
+            "textEn": "To the National Human Rights Commission",
+            "textNe": "राष्ट्रिय मानव अधिकार आयोगमा"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-06-18": {
+    "id": "2026-06-18",
+    "title": "Challenge #115",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 385,
+        "questionEn": "What is guaranteed under Article 19 of the Constitution?",
+        "questionNe": "संविधानको धारा १९ ले के प्रत्याभूत गर्छ?",
+        "options": [
+          {
+            "textEn": "Right to communication (press freedom)",
+            "textNe": "सञ्चारको अधिकार (प्रेस स्वतन्त्रता)"
+          },
+          {
+            "textEn": "Right to privacy",
+            "textNe": "गोपनीयताको अधिकार"
+          },
+          {
+            "textEn": "Right against torture",
+            "textNe": "यातनाविरुद्धको अधिकार"
+          },
+          {
+            "textEn": "Right to housing",
+            "textNe": "आवासको अधिकार"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 386,
+        "questionEn": "What does Article 1 of the Constitution state?",
+        "questionNe": "संविधानको धारा १ ले के भन्छ?",
+        "options": [
+          {
+            "textEn": "The Constitution is the fundamental law of Nepal",
+            "textNe": "संविधान नेपालको मूल कानुन हो"
+          },
+          {
+            "textEn": "Nepal is a secular state",
+            "textNe": "नेपाल धर्मनिरपेक्ष राज्य हो"
+          },
+          {
+            "textEn": "Sovereignty is vested in the people",
+            "textNe": "सार्वभौमसत्ता जनतामा निहित छ"
+          },
+          {
+            "textEn": "Nepal is an independent nation",
+            "textNe": "नेपाल एक स्वतन्त्र राष्ट्र हो"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 387,
+        "questionEn": "Which article deals with the right to food sovereignty?",
+        "questionNe": "खाद्य सम्प्रभुताको अधिकार कुन धारामा छ?",
+        "options": [
+          {
+            "textEn": "Article 36",
+            "textNe": "धारा ३६"
+          },
+          {
+            "textEn": "Article 35",
+            "textNe": "धारा ३५"
+          },
+          {
+            "textEn": "Article 37",
+            "textNe": "धारा ३७"
+          },
+          {
+            "textEn": "Article 34",
+            "textNe": "धारा ३४"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 388,
+        "questionEn": "What happens if no candidate secures a majority in the first round of Presidential election?",
+        "questionNe": "राष्ट्रपति निर्वाचनको पहिलो दौरमा कसैले बहुमत नपाएमा के हुन्छ?",
+        "options": [
+          {
+            "textEn": "Voting is held between the two candidates with the highest votes",
+            "textNe": "सबभन्दा बढी मत पाएका दुई उम्मेदवारबीच मतदान हुन्छ"
+          },
+          {
+            "textEn": "A new election is called immediately",
+            "textNe": "तुरुन्त नयाँ निर्वाचन हुन्छ"
+          },
+          {
+            "textEn": "The candidate with the most votes wins",
+            "textNe": "सबभन्दा बढी मत पाएको उम्मेदवार विजयी हुन्छ"
+          },
+          {
+            "textEn": "Parliament selects the President",
+            "textNe": "संसदले राष्ट्रपति छान्छ"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 389,
+        "questionEn": "How many Judges can the Supreme Court have in addition to the Chief Justice?",
+        "questionNe": "प्रधान न्यायाधीशबाहेक सर्वोच्च अदालतमा बढीमा कति न्यायाधीश हुन सक्छन्?",
+        "options": [
+          {
+            "textEn": "Twenty",
+            "textNe": "बीस"
+          },
+          {
+            "textEn": "Fifteen",
+            "textNe": "पन्ध्र"
+          },
+          {
+            "textEn": "Twenty-five",
+            "textNe": "पच्चीस"
+          },
+          {
+            "textEn": "Thirty",
+            "textNe": "तीस"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-06-19": {
+    "id": "2026-06-19",
+    "title": "Challenge #116",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 390,
+        "questionEn": "Who can receive non-resident Nepali citizenship?",
+        "questionNe": "गैरआवासीय नेपाली नागरिकता कसले प्राप्त गर्न सक्छ?",
+        "options": [
+          {
+            "textEn": "A person of Nepali origin who has acquired foreign citizenship in a non-SAARC country",
+            "textNe": "गैर-सार्क मुलुकको नागरिकता लिएको नेपाली मूलको व्यक्ति"
+          },
+          {
+            "textEn": "Any foreigner living in Nepal",
+            "textNe": "नेपालमा बस्ने जुनसुकै विदेशी"
+          },
+          {
+            "textEn": "Any Nepali living abroad",
+            "textNe": "विदेशमा बस्ने जुनसुकै नेपाली"
+          },
+          {
+            "textEn": "Only investors in Nepal",
+            "textNe": "नेपालमा लगानी गर्नेहरूले मात्र"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 391,
+        "questionEn": "What is the Supreme Court of Nepal?",
+        "questionNe": "नेपालको सर्वोच्च अदालत के हो?",
+        "options": [
+          {
+            "textEn": "The highest court and court of record",
+            "textNe": "सर्वोच्च अदालत र अभिलेख अदालत"
+          },
+          {
+            "textEn": "Only an appellate court",
+            "textNe": "केवल पुनरावेदन अदालत"
+          },
+          {
+            "textEn": "A specialised court for constitutional matters",
+            "textNe": "संवैधानिक विषयका लागि विशेष अदालत"
+          },
+          {
+            "textEn": "A High Court",
+            "textNe": "उच्च अदालत"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 392,
+        "questionEn": "What is the Commission for the Investigation of Abuse of Authority?",
+        "questionNe": "अख्तियार दुरुपयोग अनुसन्धान आयोग के हो?",
+        "options": [
+          {
+            "textEn": "A constitutional body to investigate corruption by public officials",
+            "textNe": "सार्वजनिक पदाधिकारीहरूको भ्रष्टाचारको अनुसन्धान गर्ने संवैधानिक निकाय"
+          },
+          {
+            "textEn": "A court for criminal cases",
+            "textNe": "फौजदारी मुद्दाको अदालत"
+          },
+          {
+            "textEn": "A parliamentary committee",
+            "textNe": "संसदीय समिति"
+          },
+          {
+            "textEn": "A ministry under the government",
+            "textNe": "सरकारअन्तर्गतको मन्त्रालय"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 393,
+        "questionEn": "Can the sovereignty vested in the people be amended under the Constitution?",
+        "questionNe": "संविधानमा जनतामा निहित सार्वभौमसत्तामा संशोधन गर्न सकिन्छ?",
+        "options": [
+          {
+            "textEn": "No, it cannot be amended",
+            "textNe": "होइन, यसमा संशोधन गर्न सकिँदैन"
+          },
+          {
+            "textEn": "Yes, with a three-fourths majority",
+            "textNe": "हो, तीन चौथाइ बहुमतले"
+          },
+          {
+            "textEn": "Yes, through a referendum",
+            "textNe": "हो, जनमत संग्रहमार्फत"
+          },
+          {
+            "textEn": "Yes, with a two-thirds majority",
+            "textNe": "हो, दुई तिहाइ बहुमतले"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 394,
+        "questionEn": "How many times can a person be elected as President?",
+        "questionNe": "एक व्यक्ति कति पटकसम्म राष्ट्रपतिमा निर्वाचित हुन सक्छ?",
+        "options": [
+          {
+            "textEn": "Twice",
+            "textNe": "दुई पटक"
+          },
+          {
+            "textEn": "Once",
+            "textNe": "एक पटक"
+          },
+          {
+            "textEn": "Three times",
+            "textNe": "तीन पटक"
+          },
+          {
+            "textEn": "Unlimited times",
+            "textNe": "असीमित पटक"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-06-20": {
+    "id": "2026-06-20",
+    "title": "Challenge #117",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 395,
+        "questionEn": "What is the capital of Nepal according to the Constitution?",
+        "questionNe": "संविधान अनुसार नेपालको राजधानी कहाँ छ?",
+        "options": [
+          {
+            "textEn": "Kathmandu",
+            "textNe": "काठमाडौं"
+          },
+          {
+            "textEn": "Pokhara",
+            "textNe": "पोखरा"
+          },
+          {
+            "textEn": "Biratnagar",
+            "textNe": "विराटनगर"
+          },
+          {
+            "textEn": "Lalitpur",
+            "textNe": "ललितपुर"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 396,
+        "questionEn": "Who has the authority to grant pardons in Nepal?",
+        "questionNe": "नेपालमा माफी दिने अधिकार कसलाई छ?",
+        "options": [
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "The Chief Justice",
+            "textNe": "प्रधान न्यायाधीश"
+          },
+          {
+            "textEn": "The Supreme Court",
+            "textNe": "सर्वोच्च अदालत"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 397,
+        "questionEn": "What majority in the House of Representatives is required to pass a vote of no-confidence?",
+        "questionNe": "प्रतिनिधि सभामा अविश्वासको मत पारित हुन कति बहुमत चाहिन्छ?",
+        "options": [
+          {
+            "textEn": "Majority of total number of then members",
+            "textNe": "तत्कालीन सदस्य संख्याको बहुमत"
+          },
+          {
+            "textEn": "Two-thirds majority",
+            "textNe": "दुई तिहाइ बहुमत"
+          },
+          {
+            "textEn": "Three-fourths majority",
+            "textNe": "तीन चौथाइ बहुमत"
+          },
+          {
+            "textEn": "Simple majority of members present",
+            "textNe": "उपस्थित सदस्यको साधारण बहुमत"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 398,
+        "questionEn": "How does the Speaker of the State Assembly certify a Money Bill?",
+        "questionNe": "प्रदेश सभाका सभामुखले आर्थिक विधेयक प्रमाणित गर्छन् भन्ने व्यवस्था कहाँ छ?",
+        "options": [
+          {
+            "textEn": "Article 201",
+            "textNe": "धारा २०१"
+          },
+          {
+            "textEn": "Article 199",
+            "textNe": "धारा १९९"
+          },
+          {
+            "textEn": "Article 197",
+            "textNe": "धारा १९७"
+          },
+          {
+            "textEn": "Article 203",
+            "textNe": "धारा २०३"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 399,
+        "questionEn": "What does the residual power clause in Article 58 state?",
+        "questionNe": "धारा ५८ को अवशिष्ट अधिकारसम्बन्धी व्यवस्थाले के भन्छ?",
+        "options": [
+          {
+            "textEn": "The Federation has power on matters not enumerated in any list",
+            "textNe": "कुनै सूचीमा उल्लेख नभएका विषयमा संघलाई अधिकार छ"
+          },
+          {
+            "textEn": "States have residual power",
+            "textNe": "प्रदेशहरूलाई अवशिष्ट अधिकार छ"
+          },
+          {
+            "textEn": "Local levels have residual power",
+            "textNe": "स्थानीय तहलाई अवशिष्ट अधिकार छ"
+          },
+          {
+            "textEn": "Residual power is shared equally",
+            "textNe": "अवशिष्ट अधिकार समान रूपमा बाँडिन्छ"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-06-21": {
+    "id": "2026-06-21",
+    "title": "Challenge #118",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 400,
+        "questionEn": "How many members of the House of Representatives are elected through proportional representation?",
+        "questionNe": "प्रतिनिधि सभामा समानुपातिक निर्वाचन प्रणालीबाट कति सदस्य निर्वाचित हुन्छन्?",
+        "options": [
+          {
+            "textEn": "110",
+            "textNe": "११०"
+          },
+          {
+            "textEn": "165",
+            "textNe": "१६५"
+          },
+          {
+            "textEn": "100",
+            "textNe": "१००"
+          },
+          {
+            "textEn": "75",
+            "textNe": "७५"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 401,
+        "questionEn": "Under Article 20, within how many hours must an arrested person be produced before a court?",
+        "questionNe": "धारा २० अनुसार, गिरफ्तार भएको व्यक्तिलाई कति घण्टाभित्र अदालतसमक्ष उपस्थित गराउनु पर्छ?",
+        "options": [
+          {
+            "textEn": "Twenty-four hours",
+            "textNe": "चौबीस घण्टा"
+          },
+          {
+            "textEn": "Forty-eight hours",
+            "textNe": "अड्तालीस घण्टा"
+          },
+          {
+            "textEn": "Twelve hours",
+            "textNe": "बाह्र घण्टा"
+          },
+          {
+            "textEn": "Seventy-two hours",
+            "textNe": "बहत्तर घण्टा"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 402,
+        "questionEn": "What is the term of office of the Chief of State?",
+        "questionNe": "प्रदेश प्रमुखको कार्यकाल कति वर्षको हुन्छ?",
+        "options": [
+          {
+            "textEn": "Five years",
+            "textNe": "पाँच वर्ष"
+          },
+          {
+            "textEn": "Six years",
+            "textNe": "छ वर्ष"
+          },
+          {
+            "textEn": "Four years",
+            "textNe": "चार वर्ष"
+          },
+          {
+            "textEn": "Three years",
+            "textNe": "तीन वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 403,
+        "questionEn": "What is the constitutional basis for the right to social security?",
+        "questionNe": "सामाजिक सुरक्षाको अधिकारको संवैधानिक आधार के हो?",
+        "options": [
+          {
+            "textEn": "Article 43",
+            "textNe": "धारा ४३"
+          },
+          {
+            "textEn": "Article 42",
+            "textNe": "धारा ४२"
+          },
+          {
+            "textEn": "Article 44",
+            "textNe": "धारा ४४"
+          },
+          {
+            "textEn": "Article 41",
+            "textNe": "धारा ४१"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 404,
+        "questionEn": "How long after the first session of Federal Parliament do inconsistent existing laws become void?",
+        "questionNe": "संघीय संसदको पहिलो अधिवेशनपछि कति समयपछि संविधानसँग असंगत कानुनहरू स्वतः अमान्य हुन्छन्?",
+        "options": [
+          {
+            "textEn": "One year",
+            "textNe": "एक वर्ष"
+          },
+          {
+            "textEn": "Six months",
+            "textNe": "छ महिना"
+          },
+          {
+            "textEn": "Two years",
+            "textNe": "दुई वर्ष"
+          },
+          {
+            "textEn": "Three months",
+            "textNe": "तीन महिना"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-06-22": {
+    "id": "2026-06-22",
+    "title": "Challenge #119",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 405,
+        "questionEn": "Under Article 45, what right is guaranteed to every citizen?",
+        "questionNe": "धारा ४५ अन्तर्गत हरेक नागरिकलाई कुन अधिकार प्रत्याभूत छ?",
+        "options": [
+          {
+            "textEn": "Right against exile",
+            "textNe": "निर्वासनविरुद्धको अधिकार"
+          },
+          {
+            "textEn": "Right to vote",
+            "textNe": "मतदानको अधिकार"
+          },
+          {
+            "textEn": "Right to assembly",
+            "textNe": "भेला हुने अधिकार"
+          },
+          {
+            "textEn": "Right to petition",
+            "textNe": "उजुरी गर्ने अधिकार"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 406,
+        "questionEn": "What is the maximum number of Ministers in the Council of Ministers including the Prime Minister?",
+        "questionNe": "प्रधानमन्त्रीसहित मन्त्रिपरिषद्‌मा बढीमा कति मन्त्री हुन सक्छन्?",
+        "options": [
+          {
+            "textEn": "Twenty-five",
+            "textNe": "पच्चीस"
+          },
+          {
+            "textEn": "Twenty",
+            "textNe": "बीस"
+          },
+          {
+            "textEn": "Thirty",
+            "textNe": "तीस"
+          },
+          {
+            "textEn": "Fifteen",
+            "textNe": "पन्ध्र"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 407,
+        "questionEn": "In the event that both the President and Vice-President offices are vacant, who performs Presidential functions?",
+        "questionNe": "राष्ट्रपति र उपराष्ट्रपति दुवैको पद रिक्त भएमा राष्ट्रपतिको काम को गर्छ?",
+        "options": [
+          {
+            "textEn": "Speaker of the House of Representatives",
+            "textNe": "प्रतिनिधि सभाका सभामुख"
+          },
+          {
+            "textEn": "The Chief Justice",
+            "textNe": "प्रधान न्यायाधीश"
+          },
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "The Chairperson of the National Assembly",
+            "textNe": "राष्ट्रिय सभाका अध्यक्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 408,
+        "questionEn": "Which schedule lists the powers of the Federation?",
+        "questionNe": "संघका अधिकारहरू कुन अनुसूचीमा सूचीकृत छन्?",
+        "options": [
+          {
+            "textEn": "Schedule 5",
+            "textNe": "अनुसूची ५"
+          },
+          {
+            "textEn": "Schedule 6",
+            "textNe": "अनुसूची ६"
+          },
+          {
+            "textEn": "Schedule 7",
+            "textNe": "अनुसूची ७"
+          },
+          {
+            "textEn": "Schedule 8",
+            "textNe": "अनुसूची ८"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 409,
+        "questionEn": "How is a person granted citizenship of Nepal by descent?",
+        "questionNe": "वंशजको आधारमा नेपालको नागरिकता कसरी प्राप्त हुन्छ?",
+        "options": [
+          {
+            "textEn": "If father or mother was a citizen of Nepal at birth",
+            "textNe": "जन्म हुँदा बाबु वा आमा नेपालको नागरिक भएमा"
+          },
+          {
+            "textEn": "If born in Nepal only",
+            "textNe": "नेपालमा जन्मेको मात्रैले"
+          },
+          {
+            "textEn": "By residing in Nepal for 5 years",
+            "textNe": "नेपालमा ५ वर्ष बसोबास गरेर"
+          },
+          {
+            "textEn": "By applying to the government",
+            "textNe": "सरकारमा आवेदन दिएर"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-06-23": {
+    "id": "2026-06-23",
+    "title": "Challenge #120",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 410,
+        "questionEn": "What is the retirement age of High Court Judges?",
+        "questionNe": "उच्च अदालतका न्यायाधीशको अवकाश उमेर कति हो?",
+        "options": [
+          {
+            "textEn": "63 years",
+            "textNe": "६३ वर्ष"
+          },
+          {
+            "textEn": "65 years",
+            "textNe": "६५ वर्ष"
+          },
+          {
+            "textEn": "60 years",
+            "textNe": "६० वर्ष"
+          },
+          {
+            "textEn": "58 years",
+            "textNe": "५८ वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 411,
+        "questionEn": "Who presides over the National Assembly?",
+        "questionNe": "राष्ट्रिय सभाको अध्यक्षता को गर्छ?",
+        "options": [
+          {
+            "textEn": "Chairperson of the National Assembly",
+            "textNe": "राष्ट्रिय सभाका अध्यक्ष"
+          },
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "The Speaker of the House of Representatives",
+            "textNe": "प्रतिनिधि सभाका सभामुख"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 412,
+        "questionEn": "What is the Judicial Council?",
+        "questionNe": "न्यायपरिषद् के हो?",
+        "options": [
+          {
+            "textEn": "A body to make recommendations on appointment, transfer and disciplinary action of judges",
+            "textNe": "न्यायाधीशहरूको नियुक्ति, सरुवा र विभागीय कारबाहीमा सिफारिस गर्ने निकाय"
+          },
+          {
+            "textEn": "A court for judging constitutional matters",
+            "textNe": "संवैधानिक विषय निर्णय गर्ने अदालत"
+          },
+          {
+            "textEn": "A parliamentary committee on judiciary",
+            "textNe": "न्यायपालिकासम्बन्धी संसदीय समिति"
+          },
+          {
+            "textEn": "A ministry under the government",
+            "textNe": "सरकारअन्तर्गतको मन्त्रालय"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 413,
+        "questionEn": "For how many days after a parliamentary meeting does an Ordinance remain in effect unless passed by Parliament?",
+        "questionNe": "संसदको बैठक सुरु भएको कति दिनपछि अध्यादेश संसदले पारित नगरे स्वतः निष्क्रिय हुन्छ?",
+        "options": [
+          {
+            "textEn": "Sixty days",
+            "textNe": "साठी दिन"
+          },
+          {
+            "textEn": "Thirty days",
+            "textNe": "तीस दिन"
+          },
+          {
+            "textEn": "Ninety days",
+            "textNe": "नब्बे दिन"
+          },
+          {
+            "textEn": "One year",
+            "textNe": "एक वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 414,
+        "questionEn": "The Prime Minister and Ministers are collectively responsible to which body?",
+        "questionNe": "प्रधानमन्त्री र मन्त्रीहरू सामूहिक रूपमा कुन निकायप्रति उत्तरदायी हुन्छन्?",
+        "options": [
+          {
+            "textEn": "Federal Parliament",
+            "textNe": "संघीय संसद"
+          },
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "The Supreme Court",
+            "textNe": "सर्वोच्च अदालत"
+          },
+          {
+            "textEn": "The Election Commission",
+            "textNe": "निर्वाचन आयोग"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-06-24": {
+    "id": "2026-06-24",
+    "title": "Challenge #121",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 415,
+        "questionEn": "Which schedule lists the powers of the States?",
+        "questionNe": "प्रदेशका अधिकारहरू कुन अनुसूचीमा सूचीकृत छन्?",
+        "options": [
+          {
+            "textEn": "Schedule 6",
+            "textNe": "अनुसूची ६"
+          },
+          {
+            "textEn": "Schedule 5",
+            "textNe": "अनुसूची ५"
+          },
+          {
+            "textEn": "Schedule 7",
+            "textNe": "अनुसूची ७"
+          },
+          {
+            "textEn": "Schedule 9",
+            "textNe": "अनुसूची ९"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 416,
+        "questionEn": "Who is the chief legal advisor to the Government of Nepal?",
+        "questionNe": "नेपाल सरकारको प्रमुख कानुनी सल्लाहकार को हो?",
+        "options": [
+          {
+            "textEn": "The Attorney General",
+            "textNe": "महान्यायाधिवक्ता"
+          },
+          {
+            "textEn": "The Chief Justice",
+            "textNe": "प्रधान न्यायाधीश"
+          },
+          {
+            "textEn": "The Minister for Law and Justice",
+            "textNe": "कानुन तथा न्यायमन्त्री"
+          },
+          {
+            "textEn": "The Constitutional Council Chairperson",
+            "textNe": "संवैधानिक परिषद् अध्यक्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 417,
+        "questionEn": "Who appoints the Attorney General?",
+        "questionNe": "महान्यायाधिवक्ता को नियुक्त गर्छ?",
+        "options": [
+          {
+            "textEn": "The President on recommendation of the Prime Minister",
+            "textNe": "प्रधानमन्त्रीको सिफारिसमा राष्ट्रपतिले"
+          },
+          {
+            "textEn": "The Prime Minister directly",
+            "textNe": "प्रधानमन्त्रीले प्रत्यक्ष रूपमा"
+          },
+          {
+            "textEn": "The Chief Justice",
+            "textNe": "प्रधान न्यायाधीशले"
+          },
+          {
+            "textEn": "The Federal Parliament",
+            "textNe": "संघीय संसदले"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 418,
+        "questionEn": "What right does Article 40 specifically provide for?",
+        "questionNe": "धारा ४० ले विशेष रूपमा कसलाई अधिकार दिन्छ?",
+        "options": [
+          {
+            "textEn": "Dalit community",
+            "textNe": "दलित समुदाय"
+          },
+          {
+            "textEn": "Indigenous nationalities",
+            "textNe": "आदिवासी जनजाति"
+          },
+          {
+            "textEn": "Persons with disabilities",
+            "textNe": "अपाङ्गता भएका व्यक्ति"
+          },
+          {
+            "textEn": "Women",
+            "textNe": "महिला"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 419,
+        "questionEn": "What is the minimum age requirement to become President?",
+        "questionNe": "राष्ट्रपति हुन न्यूनतम उमेर कति हुनु पर्छ?",
+        "options": [
+          {
+            "textEn": "45 years",
+            "textNe": "४५ वर्ष"
+          },
+          {
+            "textEn": "35 years",
+            "textNe": "३५ वर्ष"
+          },
+          {
+            "textEn": "40 years",
+            "textNe": "४० वर्ष"
+          },
+          {
+            "textEn": "50 years",
+            "textNe": "५० वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-06-25": {
+    "id": "2026-06-25",
+    "title": "Challenge #122",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 420,
+        "questionEn": "Which article deals with the Constitutional Council?",
+        "questionNe": "संवैधानिक परिषद्‌को व्यवस्था कुन धारामा छ?",
+        "options": [
+          {
+            "textEn": "Article 284",
+            "textNe": "धारा २८४"
+          },
+          {
+            "textEn": "Article 266",
+            "textNe": "धारा २६६"
+          },
+          {
+            "textEn": "Article 280",
+            "textNe": "धारा २८०"
+          },
+          {
+            "textEn": "Article 290",
+            "textNe": "धारा २९०"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 421,
+        "questionEn": "How many members does the House of Representatives have in total?",
+        "questionNe": "प्रतिनिधि सभामा जम्मा कति सदस्य हुन्छन्?",
+        "options": [
+          {
+            "textEn": "275",
+            "textNe": "२७५"
+          },
+          {
+            "textEn": "205",
+            "textNe": "२०५"
+          },
+          {
+            "textEn": "165",
+            "textNe": "१६५"
+          },
+          {
+            "textEn": "300",
+            "textNe": "३००"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 422,
+        "questionEn": "What is the Inter-State Council?",
+        "questionNe": "अन्तर-प्रदेश परिषद् के हो?",
+        "options": [
+          {
+            "textEn": "A body to settle political disputes between the Federation and States or between States",
+            "textNe": "संघ र प्रदेशबीच वा प्रदेशहरूबीच उत्पन्न राजनीतिक विवाद समाधान गर्ने निकाय"
+          },
+          {
+            "textEn": "A court for inter-state legal disputes",
+            "textNe": "अन्तर-प्रदेश कानुनी विवादका लागि अदालत"
+          },
+          {
+            "textEn": "A joint legislative body",
+            "textNe": "संयुक्त व्यवस्थापकीय निकाय"
+          },
+          {
+            "textEn": "An economic planning body",
+            "textNe": "आर्थिक योजना निकाय"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 423,
+        "questionEn": "How many members does the National Dalit Commission have?",
+        "questionNe": "राष्ट्रिय दलित आयोगमा जम्मा कति सदस्य हुन्छन्?",
+        "options": [
+          {
+            "textEn": "Five (Chairperson + four members)",
+            "textNe": "पाँच (अध्यक्ष + चार सदस्य)"
+          },
+          {
+            "textEn": "Three",
+            "textNe": "तीन"
+          },
+          {
+            "textEn": "Seven",
+            "textNe": "सात"
+          },
+          {
+            "textEn": "Six",
+            "textNe": "छ"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 424,
+        "questionEn": "What is the minimum voting age for elections in Nepal?",
+        "questionNe": "नेपालमा निर्वाचनमा मतदान गर्न न्यूनतम उमेर कति हुनुपर्छ?",
+        "options": [
+          {
+            "textEn": "18 years",
+            "textNe": "१८ वर्ष"
+          },
+          {
+            "textEn": "21 years",
+            "textNe": "२१ वर्ष"
+          },
+          {
+            "textEn": "25 years",
+            "textNe": "२५ वर्ष"
+          },
+          {
+            "textEn": "16 years",
+            "textNe": "१६ वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-06-26": {
+    "id": "2026-06-26",
+    "title": "Challenge #123",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 425,
+        "questionEn": "Who appoints the Chief Justice of Nepal?",
+        "questionNe": "नेपालको प्रधान न्यायाधीश को नियुक्त गर्छ?",
+        "options": [
+          {
+            "textEn": "The President on recommendation of the Constitutional Council",
+            "textNe": "संवैधानिक परिषद्‌को सिफारिसमा राष्ट्रपतिले"
+          },
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "The Judicial Council",
+            "textNe": "न्यायपरिषद्‌"
+          },
+          {
+            "textEn": "The Federal Parliament",
+            "textNe": "संघीय संसद"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 426,
+        "questionEn": "Where must a Money Bill be introduced?",
+        "questionNe": "आर्थिक विधेयक कुन सदनमा पेस गरिन्छ?",
+        "options": [
+          {
+            "textEn": "House of Representatives only",
+            "textNe": "प्रतिनिधि सभामा मात्र"
+          },
+          {
+            "textEn": "National Assembly only",
+            "textNe": "राष्ट्रिय सभामा मात्र"
+          },
+          {
+            "textEn": "Either House",
+            "textNe": "कुनै पनि सदनमा"
+          },
+          {
+            "textEn": "Joint sitting of both Houses",
+            "textNe": "दुवै सदनको संयुक्त बैठकमा"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 427,
+        "questionEn": "What colour is the national colour of Nepal?",
+        "questionNe": "नेपालको राष्ट्रिय रङ कुन हो?",
+        "options": [
+          {
+            "textEn": "Crimson",
+            "textNe": "गाढा रातो (क्रिमसन)"
+          },
+          {
+            "textEn": "Blue",
+            "textNe": "नीलो"
+          },
+          {
+            "textEn": "Green",
+            "textNe": "हरियो"
+          },
+          {
+            "textEn": "Saffron",
+            "textNe": "केसरी"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 428,
+        "questionEn": "What majority is required in Parliament to approve a state of emergency?",
+        "questionNe": "आपतकाल अनुमोदन गर्न संसदमा कति बहुमत चाहिन्छ?",
+        "options": [
+          {
+            "textEn": "Two-thirds majority of total members of both Houses",
+            "textNe": "दुवै सदनका कुल सदस्यको दुई तिहाइ बहुमत"
+          },
+          {
+            "textEn": "Simple majority",
+            "textNe": "साधारण बहुमत"
+          },
+          {
+            "textEn": "Three-fourths majority",
+            "textNe": "तीन चौथाइ बहुमत"
+          },
+          {
+            "textEn": "Unanimous decision",
+            "textNe": "सर्वसम्मत निर्णय"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 429,
+        "questionEn": "Which article guarantees the rights of children?",
+        "questionNe": "बालबालिकाको अधिकार कुन धारामा छ?",
+        "options": [
+          {
+            "textEn": "Article 39",
+            "textNe": "धारा ३९"
+          },
+          {
+            "textEn": "Article 38",
+            "textNe": "धारा ३८"
+          },
+          {
+            "textEn": "Article 40",
+            "textNe": "धारा ४०"
+          },
+          {
+            "textEn": "Article 41",
+            "textNe": "धारा ४१"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-06-27": {
+    "id": "2026-06-27",
+    "title": "Challenge #124",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 430,
+        "questionEn": "At least how many women must be in each State's delegation to the National Assembly?",
+        "questionNe": "राष्ट्रिय सभामा प्रत्येक प्रदेशको प्रतिनिधित्वमा कम्तीमा कतिजना महिला हुनुपर्छ?",
+        "options": [
+          {
+            "textEn": "Three",
+            "textNe": "तीन"
+          },
+          {
+            "textEn": "Two",
+            "textNe": "दुई"
+          },
+          {
+            "textEn": "One",
+            "textNe": "एक"
+          },
+          {
+            "textEn": "Four",
+            "textNe": "चार"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 431,
+        "questionEn": "How many members does the Election Commission have?",
+        "questionNe": "निर्वाचन आयोगमा जम्मा कति सदस्य हुन्छन्?",
+        "options": [
+          {
+            "textEn": "Five (Chief Election Commissioner + four Commissioners)",
+            "textNe": "पाँच (प्रमुख निर्वाचन आयुक्त + चार आयुक्त)"
+          },
+          {
+            "textEn": "Three",
+            "textNe": "तीन"
+          },
+          {
+            "textEn": "Seven",
+            "textNe": "सात"
+          },
+          {
+            "textEn": "Six",
+            "textNe": "छ"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 432,
+        "questionEn": "Who is the representative of the Government of Nepal in each State?",
+        "questionNe": "प्रत्येक प्रदेशमा नेपाल सरकारको प्रतिनिधि को हुन्छ?",
+        "options": [
+          {
+            "textEn": "Chief of State (Province Governor)",
+            "textNe": "प्रदेश प्रमुख"
+          },
+          {
+            "textEn": "Chief Minister",
+            "textNe": "मुख्यमन्त्री"
+          },
+          {
+            "textEn": "State Assembly Speaker",
+            "textNe": "प्रदेश सभाका सभामुख"
+          },
+          {
+            "textEn": "State Minister of Home Affairs",
+            "textNe": "प्रदेश गृहमन्त्री"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 433,
+        "questionEn": "What is the national flower of Nepal?",
+        "questionNe": "नेपालको राष्ट्रिय फूल कुन हो?",
+        "options": [
+          {
+            "textEn": "Rhododendron Arboreum (Laligurans)",
+            "textNe": "लालीगुराँस"
+          },
+          {
+            "textEn": "Lotus",
+            "textNe": "कमल"
+          },
+          {
+            "textEn": "Jasmine",
+            "textNe": "जस्मिन"
+          },
+          {
+            "textEn": "Marigold",
+            "textNe": "सयपत्री"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 434,
+        "questionEn": "What types of writs can the Supreme Court issue?",
+        "questionNe": "सर्वोच्च अदालतले कस्ता आदेश जारी गर्न सक्छ?",
+        "options": [
+          {
+            "textEn": "Habeas corpus, mandamus, certiorari, prohibition and quo warranto",
+            "textNe": "बन्दी प्रत्यक्षीकरण, परमादेश, उत्प्रेषण, प्रतिषेध र अधिकारपृच्छा"
+          },
+          {
+            "textEn": "Only habeas corpus",
+            "textNe": "बन्दी प्रत्यक्षीकरण मात्र"
+          },
+          {
+            "textEn": "Only mandamus",
+            "textNe": "परमादेश मात्र"
+          },
+          {
+            "textEn": "All types of criminal orders",
+            "textNe": "सबै प्रकारका फौजदारी आदेश"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-06-28": {
+    "id": "2026-06-28",
+    "title": "Challenge #125",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 435,
+        "questionEn": "What percentage of the House of Representatives members can table a vote of no-confidence against the Prime Minister?",
+        "questionNe": "प्रतिनिधि सभाका कति प्रतिशत सदस्यहरूले प्रधानमन्त्रीविरुद्ध अविश्वासको प्रस्ताव ल्याउन सक्छन्?",
+        "options": [
+          {
+            "textEn": "One-fourth",
+            "textNe": "एक चौथाइ"
+          },
+          {
+            "textEn": "One-third",
+            "textNe": "एक तिहाइ"
+          },
+          {
+            "textEn": "Half",
+            "textNe": "आधा"
+          },
+          {
+            "textEn": "Two-thirds",
+            "textNe": "दुई तिहाइ"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 436,
+        "questionEn": "How many members of the House of Representatives are elected through the first-past-the-post system?",
+        "questionNe": "प्रतिनिधि सभामा प्रत्यक्ष निर्वाचन प्रणालीबाट कति सदस्य निर्वाचित हुन्छन्?",
+        "options": [
+          {
+            "textEn": "165",
+            "textNe": "१६५"
+          },
+          {
+            "textEn": "110",
+            "textNe": "११०"
+          },
+          {
+            "textEn": "150",
+            "textNe": "१५०"
+          },
+          {
+            "textEn": "100",
+            "textNe": "१००"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 437,
+        "questionEn": "What is the minimum age to vote in Nepal?",
+        "questionNe": "नेपालमा मतदान गर्न न्यूनतम उमेर कति हुनुपर्छ?",
+        "options": [
+          {
+            "textEn": "18 years",
+            "textNe": "१८ वर्ष"
+          },
+          {
+            "textEn": "21 years",
+            "textNe": "२१ वर्ष"
+          },
+          {
+            "textEn": "16 years",
+            "textNe": "१६ वर्ष"
+          },
+          {
+            "textEn": "25 years",
+            "textNe": "२५ वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 438,
+        "questionEn": "For a motion of impeachment against the President, what fraction of House members must initiate it?",
+        "questionNe": "राष्ट्रपतिविरुद्ध महाभियोग प्रस्ताव ल्याउन प्रतिनिधि सभाका कति सदस्यको समर्थन चाहिन्छ?",
+        "options": [
+          {
+            "textEn": "One-fourth of total members",
+            "textNe": "कुल सदस्यको एक चौथाइ"
+          },
+          {
+            "textEn": "One-third of total members",
+            "textNe": "कुल सदस्यको एक तिहाइ"
+          },
+          {
+            "textEn": "Half of total members",
+            "textNe": "कुल सदस्यको आधा"
+          },
+          {
+            "textEn": "Two-thirds of total members",
+            "textNe": "कुल सदस्यको दुई तिहाइ"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 439,
+        "questionEn": "What does Article 5 define as basic elements of national interest?",
+        "questionNe": "धारा ५ ले राष्ट्रिय हितका मूल तत्त्वहरू के भन्छ?",
+        "options": [
+          {
+            "textEn": "Freedom, sovereignty, territorial integrity, nationality, independence, dignity, border security and economic wellbeing",
+            "textNe": "स्वतन्त्रता, सार्वभौमसत्ता, भू-अखण्डता, राष्ट्रियता, स्वाधीनता, मर्यादा, सीमा सुरक्षा र आर्थिक समृद्धि"
+          },
+          {
+            "textEn": "Political stability only",
+            "textNe": "राजनीतिक स्थिरता मात्र"
+          },
+          {
+            "textEn": "Development and poverty reduction only",
+            "textNe": "विकास र गरिबी न्यूनीकरण मात्र"
+          },
+          {
+            "textEn": "International relations only",
+            "textNe": "अन्तर्राष्ट्रिय सम्बन्ध मात्र"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-06-29": {
+    "id": "2026-06-29",
+    "title": "Challenge #126",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 440,
+        "questionEn": "How is the Constitution of Nepal amended?",
+        "questionNe": "नेपालको संविधान कसरी संशोधन गरिन्छ?",
+        "options": [
+          {
+            "textEn": "By a two-thirds majority of total members of both Houses of Federal Parliament",
+            "textNe": "संघीय संसदका दुवै सदनका कुल सदस्यको दुई तिहाइ बहुमतबाट"
+          },
+          {
+            "textEn": "By a simple majority of Parliament",
+            "textNe": "संसदको साधारण बहुमतबाट"
+          },
+          {
+            "textEn": "By a national referendum only",
+            "textNe": "राष्ट्रिय जनमत संग्रहबाट मात्र"
+          },
+          {
+            "textEn": "By the President's decree",
+            "textNe": "राष्ट्रपतिको आदेशबाट"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 441,
+        "questionEn": "How many States does Nepal have?",
+        "questionNe": "नेपालमा कतिवटा प्रदेश छन्?",
+        "options": [
+          {
+            "textEn": "Seven",
+            "textNe": "सात"
+          },
+          {
+            "textEn": "Five",
+            "textNe": "पाँच"
+          },
+          {
+            "textEn": "Six",
+            "textNe": "छ"
+          },
+          {
+            "textEn": "Eight",
+            "textNe": "आठ"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 442,
+        "questionEn": "What minimum proportion of members elected from each party to the Federal Parliament must be women?",
+        "questionNe": "संघीय संसदमा प्रत्येक दलका निर्वाचित सदस्यमध्ये कम्तीमा कति महिला हुनुपर्छ?",
+        "options": [
+          {
+            "textEn": "One-third",
+            "textNe": "एक तिहाइ"
+          },
+          {
+            "textEn": "One-fourth",
+            "textNe": "एक चौथाइ"
+          },
+          {
+            "textEn": "One-half",
+            "textNe": "आधा"
+          },
+          {
+            "textEn": "One-fifth",
+            "textNe": "एक पाँचौं"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 443,
+        "questionEn": "What is the quorum for a meeting of either House of Federal Parliament?",
+        "questionNe": "संघीय संसदको कुनै पनि सदनको बैठक बस्न कति सदस्यको गणपूरक संख्या चाहिन्छ?",
+        "options": [
+          {
+            "textEn": "One-fourth of total members",
+            "textNe": "कुल सदस्य संख्याको एक चौथाइ"
+          },
+          {
+            "textEn": "One-third of total members",
+            "textNe": "कुल सदस्य संख्याको एक तिहाइ"
+          },
+          {
+            "textEn": "Half of total members",
+            "textNe": "कुल सदस्य संख्याको आधा"
+          },
+          {
+            "textEn": "Two-thirds of total members",
+            "textNe": "कुल सदस्य संख्याको दुई तिहाइ"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 444,
+        "questionEn": "What is the Auditor General's role?",
+        "questionNe": "महालेखापरीक्षकको भूमिका के हो?",
+        "options": [
+          {
+            "textEn": "To audit accounts of all Federal and State government offices",
+            "textNe": "संघ र प्रदेशका सबै सरकारी कार्यालयहरूको लेखापरीक्षण गर्ने"
+          },
+          {
+            "textEn": "To advise the government on economic policy",
+            "textNe": "सरकारलाई आर्थिक नीतिमा सल्लाह दिने"
+          },
+          {
+            "textEn": "To investigate corruption cases",
+            "textNe": "भ्रष्टाचार मुद्दाको अनुसन्धान गर्ने"
+          },
+          {
+            "textEn": "To collect government revenue",
+            "textNe": "सरकारी राजस्व उठाउने"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-06-30": {
+    "id": "2026-06-30",
+    "title": "Challenge #127",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 445,
+        "questionEn": "What is the minimum age to become Chief of State (Province Governor)?",
+        "questionNe": "प्रदेश प्रमुख हुन न्यूनतम उमेर कति हुनुपर्छ?",
+        "options": [
+          {
+            "textEn": "35 years",
+            "textNe": "३५ वर्ष"
+          },
+          {
+            "textEn": "25 years",
+            "textNe": "२५ वर्ष"
+          },
+          {
+            "textEn": "45 years",
+            "textNe": "४५ वर्ष"
+          },
+          {
+            "textEn": "40 years",
+            "textNe": "४० वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 446,
+        "questionEn": "What is the minimum age to become a member of the Village Executive (Chairperson/Vice-Chairperson)?",
+        "questionNe": "गाउँ कार्यपालिकाको अध्यक्ष/उपाध्यक्ष हुन न्यूनतम उमेर कति हुनुपर्छ?",
+        "options": [
+          {
+            "textEn": "21 years",
+            "textNe": "२१ वर्ष"
+          },
+          {
+            "textEn": "18 years",
+            "textNe": "१८ वर्ष"
+          },
+          {
+            "textEn": "25 years",
+            "textNe": "२५ वर्ष"
+          },
+          {
+            "textEn": "30 years",
+            "textNe": "३० वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 447,
+        "questionEn": "Who chairs the Constitutional Council?",
+        "questionNe": "संवैधानिक परिषद्‌को अध्यक्षता को गर्छ?",
+        "options": [
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "The Chief Justice",
+            "textNe": "प्रधान न्यायाधीश"
+          },
+          {
+            "textEn": "The Speaker",
+            "textNe": "सभामुख"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 448,
+        "questionEn": "What is the minimum age to become a member of the House of Representatives?",
+        "questionNe": "प्रतिनिधि सभाको सदस्य हुन न्यूनतम उमेर कति हुनुपर्छ?",
+        "options": [
+          {
+            "textEn": "25 years",
+            "textNe": "२५ वर्ष"
+          },
+          {
+            "textEn": "35 years",
+            "textNe": "३५ वर्ष"
+          },
+          {
+            "textEn": "30 years",
+            "textNe": "३० वर्ष"
+          },
+          {
+            "textEn": "21 years",
+            "textNe": "२१ वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 449,
+        "questionEn": "Who is the supreme commander-in-chief of the Nepal Army?",
+        "questionNe": "नेपाली सेनाको प्रधान सेनापति को हुन्छ?",
+        "options": [
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "The Minister of Defence",
+            "textNe": "रक्षामन्त्री"
+          },
+          {
+            "textEn": "The Commander-in-Chief",
+            "textNe": "रथी"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
   }
 }
