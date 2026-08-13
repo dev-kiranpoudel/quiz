@@ -1,0 +1,642 @@
+{
+  "2026-08-14": {
+    "id": "2026-08-14",
+    "title": "Challenge #172",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 670,
+        "questionEn": "Article 308 of the Constitution of Nepal (2015) explicitly repeals which previous document?",
+        "questionNe": "नेपालको संविधान (२०७२) को धारा ३०८ ले स्पष्ट रूपमा कुन अघिल्लो दस्तावेज खारेज गरेको छ?",
+        "options": [
+          {
+            "textEn": "The Interim Constitution of Nepal, 2007",
+            "textNe": "नेपालको अन्तरिम संविधान, २०६३"
+          },
+          {
+            "textEn": "The Constitution of the Kingdom of Nepal, 1990",
+            "textNe": "नेपाल अधिराज्यको संविधान, २०४७"
+          },
+          {
+            "textEn": "The Treaty of Sugauli",
+            "textNe": "सुगौली सन्धि"
+          },
+          {
+            "textEn": "The Muluki Ain",
+            "textNe": "मुलुकी ऐन"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 671,
+        "questionEn": "How many members are there in the House of Representatives in total?",
+        "questionNe": "प्रतिनिधि सभामा जम्मा कति सदस्य हुन्छन्?",
+        "options": [
+          {
+            "textEn": "275 members",
+            "textNe": "२७५ सदस्य"
+          },
+          {
+            "textEn": "334 members",
+            "textNe": "३३४ सदस्य"
+          },
+          {
+            "textEn": "165 members",
+            "textNe": "१६५ सदस्य"
+          },
+          {
+            "textEn": "601 members",
+            "textNe": "६०१ सदस्य"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 672,
+        "questionEn": "Which Schedule of the Constitution lists the 'State Power' (powers belonging to the States)?",
+        "questionNe": "संविधानको कुन अनुसूचीमा ‘प्रदेशको अधिकार’ अर्थात् प्रदेशमा निहित अधिकारहरूको सूची उल्लेख गरिएको छ?",
+        "options": [
+          {
+            "textEn": "Schedule-6",
+            "textNe": "अनुसूची–६"
+          },
+          {
+            "textEn": "Schedule-8",
+            "textNe": "अनुसूची–८"
+          },
+          {
+            "textEn": "Schedule-7",
+            "textNe": "अनुसूची–७"
+          },
+          {
+            "textEn": "Schedule-5",
+            "textNe": "अनुसूची–५"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 673,
+        "questionEn": "What is the term of office for the members of the National Assembly?",
+        "questionNe": "राष्ट्रिय सभाका सदस्यहरूको पदावधि कति वर्षको हुन्छ?",
+        "options": [
+          {
+            "textEn": "6 years",
+            "textNe": "६ वर्ष"
+          },
+          {
+            "textEn": "5 years",
+            "textNe": "५ वर्ष"
+          },
+          {
+            "textEn": "Permanent tenure until age 65",
+            "textNe": "६५ वर्षको उमेरसम्म स्थायी पदावधि"
+          },
+          {
+            "textEn": "4 years",
+            "textNe": "४ वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 674,
+        "questionEn": "According to Article 1 of the Constitution of Nepal, what is the legal status of any law that is inconsistent with the Constitution?",
+        "questionNe": "नेपालको संविधानको धारा १ अनुसार संविधानसँग बाझिएको कुनै पनि कानूनको कानूनी हैसियत के हुन्छ?",
+        "options": [
+          {
+            "textEn": "It shall be void to the extent of such inconsistency.",
+            "textNe": "त्यस्तो कानून संविधानसँग बाझिएको हदसम्म अमान्य हुनेछ।"
+          },
+          {
+            "textEn": "It shall be amended by the Supreme Court immediately.",
+            "textNe": "त्यस्तो कानूनलाई सर्वोच्च अदालतले तुरुन्त संशोधन गर्नेछ।"
+          },
+          {
+            "textEn": "It is referred to the President for a final decision.",
+            "textNe": "त्यस्तो कानूनलाई अन्तिम निर्णयका लागि राष्ट्रपतिसमक्ष पठाइनेछ।"
+          },
+          {
+            "textEn": "It remains valid until the Federal Parliament repeals it.",
+            "textNe": "संघीय संसदले खारेज नगरेसम्म त्यस्तो कानून लागू रहनेछ।"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-08-15": {
+    "id": "2026-08-15",
+    "title": "Challenge #173",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 675,
+        "questionEn": "What is the maximum number of Judges in the Supreme Court, excluding the Chief Justice?",
+        "questionNe": "प्रधानन्यायाधीश बाहेक सर्वोच्च अदालतमा बढीमा कति जना न्यायाधीश रहन सक्छन्?",
+        "options": [
+          {
+            "textEn": "20 Judges",
+            "textNe": "२० जना न्यायाधीश"
+          },
+          {
+            "textEn": "11 Judges",
+            "textNe": "११ जना न्यायाधीश"
+          },
+          {
+            "textEn": "25 Judges",
+            "textNe": "२५ जना न्यायाधीश"
+          },
+          {
+            "textEn": "15 Judges",
+            "textNe": "१५ जना न्यायाधीश"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 676,
+        "questionEn": "According to Article 153, who serves as the Chairperson of the Judicial Council?",
+        "questionNe": "धारा १५३ अनुसार न्याय परिषद्को अध्यक्ष को हुन्छ?",
+        "options": [
+          {
+            "textEn": "The Chief Justice",
+            "textNe": "प्रधानन्यायाधीश"
+          },
+          {
+            "textEn": "The Federal Minister for Law and Justice",
+            "textNe": "संघीय कानून तथा न्याय मन्त्री"
+          },
+          {
+            "textEn": "The Attorney General",
+            "textNe": "महान्यायाधिवक्ता"
+          },
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 677,
+        "questionEn": "Under Article 11, a person whose father or mother was a citizen of Nepal at the time of their birth shall be a citizen of Nepal by which method?",
+        "questionNe": "धारा ११ अनुसार जन्मको समयमा बाबु वा आमामध्ये कुनै एक जना नेपालको नागरिक भएमा त्यस्तो व्यक्तिले कुन आधारमा नेपालको नागरिकता प्राप्त गर्नेछ?",
+        "options": [
+          {
+            "textEn": "Descent",
+            "textNe": "वंशजको आधारमा"
+          },
+          {
+            "textEn": "Naturalisation",
+            "textNe": "अङ्गीकृत नागरिकताको आधारमा"
+          },
+          {
+            "textEn": "Honorary Grant",
+            "textNe": "सम्मानार्थ नागरिकताको आधारमा"
+          },
+          {
+            "textEn": "Birth",
+            "textNe": "जन्मको आधारमा"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 678,
+        "questionEn": "Who appoints the leader of the parliamentary party commanding a majority in the House of Representatives as the Prime Minister?",
+        "questionNe": "प्रतिनिधि सभामा बहुमत प्राप्त संसदीय दलको नेतालाई प्रधानमन्त्रीको पदमा कसले नियुक्त गर्छ?",
+        "options": [
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपतिले"
+          },
+          {
+            "textEn": "The Speaker of the House of Representatives",
+            "textNe": "प्रतिनिधि सभाका सभामुखले"
+          },
+          {
+            "textEn": "The Chief Justice",
+            "textNe": "प्रधानन्यायाधीशले"
+          },
+          {
+            "textEn": "The Constitutional Council",
+            "textNe": "संवैधानिक परिषद्ले"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 679,
+        "questionEn": "In the structure of the State of Nepal, which level has the power over matters not enumerated in any specific list (Residual Power)?",
+        "questionNe": "नेपालको राज्य संरचनामा कुनै पनि निश्चित सूचीमा उल्लेख नभएका विषयमाथि अवशिष्ट अधिकार कुन तहमा निहित हुन्छ?",
+        "options": [
+          {
+            "textEn": "The Federation",
+            "textNe": "संघमा"
+          },
+          {
+            "textEn": "The Constitutional Council",
+            "textNe": "संवैधानिक परिषद्मा"
+          },
+          {
+            "textEn": "The State level",
+            "textNe": "प्रदेश तहमा"
+          },
+          {
+            "textEn": "The Local level",
+            "textNe": "स्थानीय तहमा"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-08-16": {
+    "id": "2026-08-16",
+    "title": "Challenge #174",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 680,
+        "questionEn": "What is the status of the 'Directive Principles, Policies and Obligations of the State' in a court of law?",
+        "questionNe": "‘राज्यका निर्देशक सिद्धान्त, नीति तथा दायित्व’ को अदालतमा के कस्तो हैसियत हुन्छ?",
+        "options": [
+          {
+            "textEn": "No question can be raised in any court as to whether they have been implemented.",
+            "textNe": "तिनको कार्यान्वयन भए वा नभएको विषयमा कुनै अदालतमा प्रश्न उठाउन सकिने छैन।"
+          },
+          {
+            "textEn": "They override fundamental rights in cases of conflict.",
+            "textNe": "बाझिएको अवस्थामा तिनले मौलिक हकमाथि प्राथमिकता पाउँछन्।"
+          },
+          {
+            "textEn": "The Supreme Court can issue a writ of mandamus to implement them.",
+            "textNe": "सर्वोच्च अदालतले तिनको कार्यान्वयनका लागि परमादेश जारी गर्न सक्छ।"
+          },
+          {
+            "textEn": "They are fully justiciable and enforceable by the High Court.",
+            "textNe": "तिनीहरू पूर्ण रूपमा न्यायिक रूपमा लागू गर्न सकिने तथा उच्च अदालतबाट कार्यान्वयनयोग्य हुन्छन्।"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 681,
+        "questionEn": "Which body is responsible for making recommendations for the appointment of the Chief Justice of Nepal?",
+        "questionNe": "नेपालको प्रधानन्यायाधीशको नियुक्तिका लागि सिफारिस गर्ने जिम्मेवारी कुन निकायको हो?",
+        "options": [
+          {
+            "textEn": "Constitutional Council",
+            "textNe": "संवैधानिक परिषद्"
+          },
+          {
+            "textEn": "Federal Parliament",
+            "textNe": "संघीय संसद्"
+          },
+          {
+            "textEn": "Public Service Commission",
+            "textNe": "लोक सेवा आयोग"
+          },
+          {
+            "textEn": "Judicial Council",
+            "textNe": "न्याय परिषद्"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 682,
+        "questionEn": "Who has the final authority to interpret the Constitution and laws of Nepal?",
+        "questionNe": "नेपालको संविधान तथा कानूनको अन्तिम व्याख्या गर्ने अधिकार कसलाई हुन्छ?",
+        "options": [
+          {
+            "textEn": "The Supreme Court",
+            "textNe": "सर्वोच्च अदालतलाई"
+          },
+          {
+            "textEn": "The Federal Parliament",
+            "textNe": "संघीय संसदलाई"
+          },
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपतिलाई"
+          },
+          {
+            "textEn": "The Attorney General",
+            "textNe": "महान्यायाधिवक्तालाई"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 683,
+        "questionEn": "Which constitutional body has the primary duty to conduct examinations for the selection of suitable candidates for the Civil Service?",
+        "questionNe": "निजामती सेवाका लागि उपयुक्त उम्मेदवार छनोट गर्न परीक्षा सञ्चालन गर्ने प्रमुख जिम्मेवारी कुन संवैधानिक निकायको हो?",
+        "options": [
+          {
+            "textEn": "Public Service Commission",
+            "textNe": "लोक सेवा आयोग"
+          },
+          {
+            "textEn": "Election Commission",
+            "textNe": "निर्वाचन आयोग"
+          },
+          {
+            "textEn": "National Human Rights Commission",
+            "textNe": "राष्ट्रिय मानव अधिकार आयोग"
+          },
+          {
+            "textEn": "CIAA",
+            "textNe": "अख्तियार दुरुपयोग अनुसन्धान आयोग"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 684,
+        "questionEn": "Article 16 guarantees the right to live with dignity. Which specific prohibition is mentioned in clause (2) of this Article?",
+        "questionNe": "धारा १६ ले सम्मानपूर्वक बाँच्न पाउने हक सुनिश्चित गरेको छ। यस धाराको उपधारा (२) मा कुन विशेष कुरालाई निषेध गरिएको छ?",
+        "options": [
+          {
+            "textEn": "No law shall be made providing for the death penalty.",
+            "textNe": "मृत्युदण्डको सजाय दिने गरी कुनै कानून बनाइने छैन।"
+          },
+          {
+            "textEn": "No citizen shall be exiled from the country.",
+            "textNe": "कुनै पनि नागरिकलाई देश निकाला गरिने छैन।"
+          },
+          {
+            "textEn": "No person shall be subjected to torture.",
+            "textNe": "कुनै पनि व्यक्तिलाई यातना दिइने छैन।"
+          },
+          {
+            "textEn": "No person shall be held in slavery.",
+            "textNe": "कुनै पनि व्यक्तिलाई दासत्वमा राखिने छैन।"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-08-17": {
+    "id": "2026-08-17",
+    "title": "Challenge #175",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 685,
+        "questionEn": "The Constitutional Bench of the Supreme Court consists of the Chief Justice and how many other Judges?",
+        "questionNe": "सर्वोच्च अदालतको संवैधानिक इजलासमा प्रधानन्यायाधीशसहित अन्य कति जना न्यायाधीश हुन्छन्?",
+        "options": [
+          {
+            "textEn": "Four Judges",
+            "textNe": "चार जना न्यायाधीश"
+          },
+          {
+            "textEn": "Two Judges",
+            "textNe": "दुई जना न्यायाधीश"
+          },
+          {
+            "textEn": "Ten Judges",
+            "textNe": "दस जना न्यायाधीश"
+          },
+          {
+            "textEn": "Five Judges",
+            "textNe": "पाँच जना न्यायाधीश"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 686,
+        "questionEn": "Which of the following is defined as the official language of Nepal under Article 7?",
+        "questionNe": "धारा ७ अन्तर्गत निम्नमध्ये कुनलाई नेपालको सरकारी कामकाजको भाषा भनेर परिभाषित गरिएको छ?",
+        "options": [
+          {
+            "textEn": "Nepali in the Devanagari script.",
+            "textNe": "देवनागरी लिपिमा नेपाली भाषा।"
+          },
+          {
+            "textEn": "Sanskrit in the Devanagari script.",
+            "textNe": "देवनागरी लिपिमा संस्कृत भाषा।"
+          },
+          {
+            "textEn": "All languages spoken as mother tongues in Nepal.",
+            "textNe": "नेपालमा मातृभाषाका रूपमा बोलिने सबै भाषाहरू।"
+          },
+          {
+            "textEn": "English and Nepali as co-official languages.",
+            "textNe": "अंग्रेजी र नेपालीलाई समान रूपमा सरकारी कामकाजका भाषा।"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 687,
+        "questionEn": "Regarding the 'Right to Education' (Article 31), every citizen has the right to get compulsory and free education up to which level?",
+        "questionNe": "‘शिक्षाको हक’ (धारा ३१) अन्तर्गत प्रत्येक नागरिकलाई कुन तहसम्म अनिवार्य तथा निःशुल्क शिक्षा प्राप्त गर्ने हक हुन्छ?",
+        "options": [
+          {
+            "textEn": "Basic level",
+            "textNe": "आधारभूत तह"
+          },
+          {
+            "textEn": "Secondary level",
+            "textNe": "माध्यमिक तह"
+          },
+          {
+            "textEn": "Primary level",
+            "textNe": "प्राथमिक तह"
+          },
+          {
+            "textEn": "Higher education",
+            "textNe": "उच्च शिक्षा"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 688,
+        "questionEn": "Under Article 110, which type of Bill must only be introduced in the House of Representatives?",
+        "questionNe": "धारा ११० अनुसार कुन प्रकारको विधेयक प्रतिनिधि सभामा मात्र पेश गर्नुपर्ने हुन्छ?",
+        "options": [
+          {
+            "textEn": "Money Bill",
+            "textNe": "विनियोजन विधेयक"
+          },
+          {
+            "textEn": "Constitution Amendment Bill",
+            "textNe": "संविधान संशोधन विधेयक"
+          },
+          {
+            "textEn": "Security Bill",
+            "textNe": "सुरक्षा सम्बन्धी विधेयक"
+          },
+          {
+            "textEn": "Bill relating to the National Anthem",
+            "textNe": "राष्ट्रिय गानसम्बन्धी विधेयक"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 689,
+        "questionEn": "Who serves as the Chairperson of the National Security Council?",
+        "questionNe": "राष्ट्रिय सुरक्षा परिषद्को अध्यक्ष को हुन्छ?",
+        "options": [
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "The Minister for Defence",
+            "textNe": "रक्षा मन्त्री"
+          },
+          {
+            "textEn": "The Commander-in-Chief of the Nepal Army",
+            "textNe": "नेपाली सेनाका प्रधानसेनापति"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-08-18": {
+    "id": "2026-08-18",
+    "title": "Challenge #176",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 690,
+        "questionEn": "Which article of the Constitution protects the 'Right to Privacy'?",
+        "questionNe": "नेपालको संविधानको कुन धाराले ‘गोपनीयताको हक’ संरक्षण गरेको छ?",
+        "options": [
+          {
+            "textEn": "Article 28",
+            "textNe": "धारा २८"
+          },
+          {
+            "textEn": "Article 18",
+            "textNe": "धारा १८"
+          },
+          {
+            "textEn": "Article 38",
+            "textNe": "धारा ३८"
+          },
+          {
+            "textEn": "Article 48",
+            "textNe": "धारा ४८"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 691,
+        "questionEn": "In the absence of the Speaker of the House of Representatives, who chairs the meetings of the House?",
+        "questionNe": "प्रतिनिधि सभाका सभामुखको अनुपस्थितिमा सभाको बैठकको अध्यक्षता कसले गर्छ?",
+        "options": [
+          {
+            "textEn": "The Deputy Speaker",
+            "textNe": "उपसभामुखले"
+          },
+          {
+            "textEn": "The Chairperson of the National Assembly",
+            "textNe": "राष्ट्रिय सभाका अध्यक्षले"
+          },
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्रीले"
+          },
+          {
+            "textEn": "The Senior-most member by age",
+            "textNe": "उमेरका आधारमा ज्येष्ठ सदस्यले"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 692,
+        "questionEn": "What is the minimum age required to be eligible for the office of the President of Nepal?",
+        "questionNe": "नेपालको राष्ट्रपतिको पदका लागि योग्य हुन आवश्यक न्यूनतम उमेर कति हो?",
+        "options": [
+          {
+            "textEn": "45 years",
+            "textNe": "४५ वर्ष"
+          },
+          {
+            "textEn": "50 years",
+            "textNe": "५० वर्ष"
+          },
+          {
+            "textEn": "25 years",
+            "textNe": "२५ वर्ष"
+          },
+          {
+            "textEn": "35 years",
+            "textNe": "३५ वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 693,
+        "questionEn": "Under 'Transitional Provisions' (Article 297), how is the President elected if the office falls vacant before the first regular election under the new Constitution?",
+        "questionNe": "‘संक्रमणकालीन व्यवस्था’ (धारा २९७) अन्तर्गत नयाँ संविधानबमोजिम पहिलो नियमित निर्वाचन हुनुअघि राष्ट्रपतिको पद रिक्त भएमा राष्ट्रपति कसरी निर्वाचित गरिन्छ?",
+        "options": [
+          {
+            "textEn": "By the Legislature-Parliament",
+            "textNe": "व्यवस्थापिका–संसद्बाट"
+          },
+          {
+            "textEn": "By the Supreme Court",
+            "textNe": "सर्वोच्च अदालतबाट"
+          },
+          {
+            "textEn": "By a popular referendum",
+            "textNe": "जनमतसंग्रहबाट"
+          },
+          {
+            "textEn": "Automatically the senior-most Minister takes over.",
+            "textNe": "स्वतः ज्येष्ठ मन्त्रीले पद सम्हाल्नेछन्।"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 694,
+        "questionEn": "According to Article 217, who coordinates the three-member judicial committee in a Municipality?",
+        "questionNe": "धारा २१७ अनुसार नगरपालिकामा गठन हुने तीन सदस्यीय न्यायिक समितिको संयोजक को हुन्छ?",
+        "options": [
+          {
+            "textEn": "The Deputy Mayor",
+            "textNe": "उपप्रमुख"
+          },
+          {
+            "textEn": "A retired District Judge",
+            "textNe": "अवकाशप्राप्त जिल्ला न्यायाधीश"
+          },
+          {
+            "textEn": "The Mayor",
+            "textNe": "प्रमुख"
+          },
+          {
+            "textEn": "The Chief Attorney of the State",
+            "textNe": "प्रदेशका मुख्य न्यायाधिवक्ता"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  }
+}
