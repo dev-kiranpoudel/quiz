@@ -638,5 +638,1669 @@
         "correctAnswerIndex": 0
       }
     ]
+  },
+  "2026-08-19": {
+    "id": "2026-08-19",
+    "title": "Challenge #177",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 695,
+        "questionEn": "Which of the following is a requirement for a person to be a citizen of Nepal by descent at the time of commencement?",
+        "questionNe": "संविधान प्रारम्भ हुँदाका बखत वंशजको आधारमा नेपालको नागरिक हुनका लागि निम्नमध्ये कुन कुरा आवश्यक हुन्छ?",
+        "options": [
+          {
+            "textEn": "The person's father or mother was a citizen of Nepal at the time of his or her birth",
+            "textNe": "व्यक्तिको जन्म हुँदाका बखत निजको बाबु वा आमा नेपालको नागरिक भएको।"
+          },
+          {
+            "textEn": "The person has lived in Nepal for at least twenty years",
+            "textNe": "व्यक्तिले कम्तीमा बीस वर्ष नेपालमा बसोबास गरेको।"
+          },
+          {
+            "textEn": "The person has a work permit from the Government of Nepal",
+            "textNe": "व्यक्तिसँग नेपाल सरकारबाट जारी गरिएको कार्य अनुमति भएको।"
+          },
+          {
+            "textEn": "The person was born in a foreign country to foreign parents",
+            "textNe": "व्यक्ति विदेशी बाबुआमाबाट विदेशमा जन्मिएको।"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 696,
+        "questionEn": "According to Article 131, at what age does a Supreme Court Judge reach compulsory retirement?",
+        "questionNe": "धारा १३१ अनुसार सर्वोच्च अदालतका न्यायाधीशले कुन उमेरमा अनिवार्य अवकाश प्राप्त गर्छन्?",
+        "options": [
+          {
+            "textEn": "Sixty-five years",
+            "textNe": "पैंसट्ठी वर्ष"
+          },
+          {
+            "textEn": "Seventy years",
+            "textNe": "सत्तरी वर्ष"
+          },
+          {
+            "textEn": "Sixty-three years",
+            "textNe": "त्रिसट्ठी वर्ष"
+          },
+          {
+            "textEn": "Sixty years",
+            "textNe": "साठी वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 697,
+        "questionEn": "What is the minimum age required to become a member of the House of Representatives according to Article 87?",
+        "questionNe": "धारा ८७ अनुसार प्रतिनिधि सभाको सदस्य बन्न आवश्यक न्यूनतम उमेर कति हो?",
+        "options": [
+          {
+            "textEn": "Twenty-five years",
+            "textNe": "पच्चीस वर्ष"
+          },
+          {
+            "textEn": "Eighteen years",
+            "textNe": "अठार वर्ष"
+          },
+          {
+            "textEn": "Thirty-five years",
+            "textNe": "पैंतीस वर्ष"
+          },
+          {
+            "textEn": "Forty-five years",
+            "textNe": "पैंतालीस वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 698,
+        "questionEn": "According to Article 110, where must a 'Money Bill' be introduced?",
+        "questionNe": "धारा ११० अनुसार ‘विनियोजन विधेयक’ कहाँ पेश गर्नुपर्छ?",
+        "options": [
+          {
+            "textEn": "The House of Representatives only",
+            "textNe": "प्रतिनिधि सभामा मात्र"
+          },
+          {
+            "textEn": "The Supreme Court",
+            "textNe": "सर्वोच्च अदालतमा"
+          },
+          {
+            "textEn": "Either House of the Federal Parliament",
+            "textNe": "संघीय संसद्को कुनै पनि सदनमा"
+          },
+          {
+            "textEn": "The National Assembly only",
+            "textNe": "राष्ट्रिय सभामा मात्र"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 699,
+        "questionEn": "What is the maximum number of judges in the Supreme Court, excluding the Chief Justice, under Article 129?",
+        "questionNe": "धारा १२९ अनुसार प्रधानन्यायाधीश बाहेक सर्वोच्च अदालतमा बढीमा कति जना न्यायाधीश रहन सक्छन्?",
+        "options": [
+          {
+            "textEn": "Twenty",
+            "textNe": "बीस जना"
+          },
+          {
+            "textEn": "Eleven",
+            "textNe": "एघार जना"
+          },
+          {
+            "textEn": "Seven",
+            "textNe": "सात जना"
+          },
+          {
+            "textEn": "Fifty",
+            "textNe": "पचास जना"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-08-20": {
+    "id": "2026-08-20",
+    "title": "Challenge #178",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 700,
+        "questionEn": "In whom is the sovereignty and state authority of Nepal vested under Article 2?",
+        "questionNe": "धारा २ अनुसार नेपालको सार्वभौमसत्ता र राजकीयसत्ता कसमा निहित रहेको छ?",
+        "options": [
+          {
+            "textEn": "The Nepalese people",
+            "textNe": "नेपाली जनतामा"
+          },
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपतिमा"
+          },
+          {
+            "textEn": "The Federal Parliament",
+            "textNe": "संघीय संसदमा"
+          },
+          {
+            "textEn": "The Council of Ministers",
+            "textNe": "मन्त्रिपरिषद्मा"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 701,
+        "questionEn": "Which animal is designated as the national animal of Nepal under Article 9?",
+        "questionNe": "धारा ९ अनुसार नेपालको राष्ट्रिय जनावर कुन हो?",
+        "options": [
+          {
+            "textEn": "Cow",
+            "textNe": "गाई"
+          },
+          {
+            "textEn": "Rhino",
+            "textNe": "गैंडा"
+          },
+          {
+            "textEn": "Elephant",
+            "textNe": "हात्ती"
+          },
+          {
+            "textEn": "Snow Leopard",
+            "textNe": "हिउँ चितुवा"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 702,
+        "questionEn": "How many total members serve in the House of Representatives under Article 84?",
+        "questionNe": "धारा ८४ अनुसार प्रतिनिधि सभामा जम्मा कति सदस्य हुन्छन्?",
+        "options": [
+          {
+            "textEn": "Two hundred and seventy-five",
+            "textNe": "दुई सय पचहत्तर"
+          },
+          {
+            "textEn": "Six hundred and one",
+            "textNe": "छ सय एक"
+          },
+          {
+            "textEn": "Fifty-nine",
+            "textNe": "उनन्साठी"
+          },
+          {
+            "textEn": "One hundred and sixty-five",
+            "textNe": "एक सय पैँसट्ठी"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 703,
+        "questionEn": "Under Article 75, in which body is the executive power of Nepal vested?",
+        "questionNe": "धारा ७५ अनुसार नेपालको कार्यकारिणी अधिकार कुन निकायमा निहित हुन्छ?",
+        "options": [
+          {
+            "textEn": "Council of Ministers",
+            "textNe": "मन्त्रिपरिषद्मा"
+          },
+          {
+            "textEn": "The Election Commission",
+            "textNe": "निर्वाचन आयोगमा"
+          },
+          {
+            "textEn": "The Supreme Court",
+            "textNe": "सर्वोच्च अदालतमा"
+          },
+          {
+            "textEn": "The Speaker of the House",
+            "textNe": "सभामुखमा"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 704,
+        "questionEn": "According to Article 1, what is the status of the Constitution in Nepal?",
+        "questionNe": "धारा १ अनुसार नेपालको संविधानको हैसियत के हो?",
+        "options": [
+          {
+            "textEn": "The fundamental law",
+            "textNe": "मूल कानून"
+          },
+          {
+            "textEn": "A temporary administrative decree",
+            "textNe": "अस्थायी प्रशासनिक आदेश"
+          },
+          {
+            "textEn": "A secondary legal document",
+            "textNe": "द्वितीयक कानूनी दस्तावेज"
+          },
+          {
+            "textEn": "A set of optional guidelines",
+            "textNe": "वैकल्पिक दिशानिर्देशहरूको संग्रह"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-08-21": {
+    "id": "2026-08-21",
+    "title": "Challenge #179",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 705,
+        "questionEn": "What is the maximum number of Ministers, including the Prime Minister, that can be in the Federal Council of Ministers according to Article 76?",
+        "questionNe": "धारा ७६ अनुसार प्रधानमन्त्रीसहित संघीय मन्त्रिपरिषद्मा बढीमा कति जना मन्त्री रहन सक्छन्?",
+        "options": [
+          {
+            "textEn": "Twenty-five",
+            "textNe": "पच्चीस जना"
+          },
+          {
+            "textEn": "Fifteen",
+            "textNe": "पन्ध्र जना"
+          },
+          {
+            "textEn": "Thirty-five",
+            "textNe": "पैंतीस जना"
+          },
+          {
+            "textEn": "Fifty",
+            "textNe": "पचास जना"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 706,
+        "questionEn": "Under the Right to Live with Dignity (Article 16), what type of punishment is explicitly forbidden?",
+        "questionNe": "सम्मानपूर्वक बाँच्न पाउने हक (धारा १६) अन्तर्गत कुन प्रकारको सजाय स्पष्ट रूपमा निषेध गरिएको छ?",
+        "options": [
+          {
+            "textEn": "The death penalty",
+            "textNe": "मृत्युदण्ड"
+          },
+          {
+            "textEn": "Solitary confinement",
+            "textNe": "एकान्त कारावास"
+          },
+          {
+            "textEn": "Community service",
+            "textNe": "सामुदायिक सेवा"
+          },
+          {
+            "textEn": "Life imprisonment",
+            "textNe": "आजीवन कारावास"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 707,
+        "questionEn": "The Federal Legislature of Nepal consists of two Houses. What are their names according to Article 83?",
+        "questionNe": "धारा ८३ अनुसार नेपालको संघीय व्यवस्थापिका दुई सदनबाट बनेको छ। ती दुई सदनका नाम के हुन्?",
+        "options": [
+          {
+            "textEn": "House of Representatives and National Assembly",
+            "textNe": "प्रतिनिधि सभा र राष्ट्रिय सभा"
+          },
+          {
+            "textEn": "Senate and House of Commons",
+            "textNe": "सिनेट र हाउस अफ कमन्स"
+          },
+          {
+            "textEn": "Legislative Assembly and State Council",
+            "textNe": "विधान सभा र राज्य परिषद्"
+          },
+          {
+            "textEn": "Village Assembly and Municipal Assembly",
+            "textNe": "गाउँ सभा र नगर सभा"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 708,
+        "questionEn": "What is the official language of Nepal as stated in Article 7?",
+        "questionNe": "धारा ७ मा उल्लेख भएअनुसार नेपालको सरकारी कामकाजको भाषा कुन हो?",
+        "options": [
+          {
+            "textEn": "Nepali in the Devnagari script",
+            "textNe": "देवनागरी लिपिमा नेपाली भाषा"
+          },
+          {
+            "textEn": "All languages spoken as mother tongues",
+            "textNe": "मातृभाषाका रूपमा बोलिने सबै भाषाहरू"
+          },
+          {
+            "textEn": "English and Nepali",
+            "textNe": "अंग्रेजी र नेपाली"
+          },
+          {
+            "textEn": "Sanskrit",
+            "textNe": "संस्कृत"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 709,
+        "questionEn": "What is the primary duty of the President of Nepal according to Article 61?",
+        "questionNe": "धारा ६१ अनुसार नेपालको राष्ट्रपतिको प्रमुख कर्तव्य के हो?",
+        "options": [
+          {
+            "textEn": "To abide by and protect the Constitution",
+            "textNe": "संविधानको पालना र संरक्षण गर्नु"
+          },
+          {
+            "textEn": "To lead the ruling political party",
+            "textNe": "सत्तारूढ राजनीतिक दलको नेतृत्व गर्नु"
+          },
+          {
+            "textEn": "To serve as the head of government",
+            "textNe": "सरकार प्रमुखको रूपमा कार्य गर्नु"
+          },
+          {
+            "textEn": "To draft new legislation",
+            "textNe": "नयाँ कानूनको मस्यौदा तयार गर्नु"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-08-22": {
+    "id": "2026-08-22",
+    "title": "Challenge #180",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 710,
+        "questionEn": "Under Article 38, what right is granted to spouses regarding property and family affairs?",
+        "questionNe": "धारा ३८ अनुसार सम्पत्ति तथा पारिवारिक मामिलामा पति र पत्नीलाई कस्तो हक प्रदान गरिएको छ?",
+        "options": [
+          {
+            "textEn": "Equal right",
+            "textNe": "समान हक"
+          },
+          {
+            "textEn": "Rights based only on religious tradition",
+            "textNe": "धार्मिक परम्परामा मात्र आधारित हक"
+          },
+          {
+            "textEn": "Priority to the wife",
+            "textNe": "पत्नीलाई प्राथमिकता"
+          },
+          {
+            "textEn": "Priority to the husband",
+            "textNe": "पतीलाई प्राथमिकता"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 711,
+        "questionEn": "What is the primary role of the Attorney General of Nepal under Article 158?",
+        "questionNe": "धारा १५८ अनुसार नेपालको महान्यायाधिवक्ताको प्रमुख भूमिका के हो?",
+        "options": [
+          {
+            "textEn": "Chief legal advisor to the Government of Nepal",
+            "textNe": "नेपाल सरकारको प्रमुख कानूनी सल्लाहकार"
+          },
+          {
+            "textEn": "Draftsperson of the national budget",
+            "textNe": "राष्ट्रिय बजेटको मस्यौदाकार"
+          },
+          {
+            "textEn": "Overseer of all criminal investigations",
+            "textNe": "सबै फौजदारी अनुसन्धानको निरीक्षक"
+          },
+          {
+            "textEn": "Head of the Supreme Court",
+            "textNe": "सर्वोच्च अदालतको प्रमुख"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 712,
+        "questionEn": "What does the term 'secular' mean in the context of the State of Nepal according to Article 4?",
+        "questionNe": "धारा ४ अनुसार नेपालको राज्यको सन्दर्भमा ‘धर्मनिरपेक्ष’ भन्नाले के बुझिन्छ?",
+        "options": [
+          {
+            "textEn": "Religious and cultural freedoms, including the protection of traditional religion and culture",
+            "textNe": "धार्मिक तथा सांस्कृतिक स्वतन्त्रता, जसमा परम्परागत धर्म तथा संस्कृतिको संरक्षणसमेत पर्दछ।"
+          },
+          {
+            "textEn": "The prohibition of religious practice in public spaces",
+            "textNe": "सार्वजनिक स्थानमा धार्मिक अभ्यास गर्न निषेध"
+          },
+          {
+            "textEn": "The establishment of a single state religion",
+            "textNe": "एउटा मात्र राज्य धर्मको स्थापना"
+          },
+          {
+            "textEn": "The total separation of religion from all state activities",
+            "textNe": "राज्यका सबै गतिविधिबाट धर्मको पूर्ण अलगाव"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 713,
+        "questionEn": "According to Article 45, what is prohibited regarding citizens of Nepal?",
+        "questionNe": "धारा ४५ अनुसार नेपालको नागरिकका सम्बन्धमा कुन कुरा निषेध गरिएको छ?",
+        "options": [
+          {
+            "textEn": "Exile",
+            "textNe": "देश निकाला"
+          },
+          {
+            "textEn": "Migration to other countries",
+            "textNe": "अन्य देशमा बसाइँसराइ"
+          },
+          {
+            "textEn": "Internal travel",
+            "textNe": "आन्तरिक यात्रा"
+          },
+          {
+            "textEn": "Taxation",
+            "textNe": "कर लगाउने कार्य"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 714,
+        "questionEn": "Who serves as the Chairperson of the Judicial Council according to Article 153?",
+        "questionNe": "धारा १५३ अनुसार न्याय परिषद्को अध्यक्ष को हुन्छ?",
+        "options": [
+          {
+            "textEn": "The Chief Justice",
+            "textNe": "प्रधानन्यायाधीश"
+          },
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "The Federal Minister for Law and Justice",
+            "textNe": "संघीय कानून तथा न्याय मन्त्री"
+          },
+          {
+            "textEn": "The Attorney General",
+            "textNe": "महान्यायाधिवक्ता"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-08-23": {
+    "id": "2026-08-23",
+    "title": "Challenge #181",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 715,
+        "questionEn": "Article 33 guarantees every citizen the right to which of the following?",
+        "questionNe": "धारा ३३ ले प्रत्येक नागरिकलाई निम्नमध्ये कुन हक सुनिश्चित गरेको छ?",
+        "options": [
+          {
+            "textEn": "Employment",
+            "textNe": "रोजगारी"
+          },
+          {
+            "textEn": "Permanent government jobs for every graduate",
+            "textNe": "प्रत्येक स्नातकका लागि स्थायी सरकारी रोजगारी"
+          },
+          {
+            "textEn": "Free housing for all workers",
+            "textNe": "सबै श्रमिकका लागि निःशुल्क आवास"
+          },
+          {
+            "textEn": "A guaranteed high salary",
+            "textNe": "सुनिश्चित उच्च तलब"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 716,
+        "questionEn": "Which of the following is true regarding the Speaker and Deputy Speaker of the House of Representatives according to Article 91?",
+        "questionNe": "धारा ९१ अनुसार प्रतिनिधि सभाका सभामुख र उपसभामुखका सम्बन्धमा निम्नमध्ये कुन सही हो?",
+        "options": [
+          {
+            "textEn": "They must be from different political parties and one must be a woman",
+            "textNe": "उनीहरू फरक–फरक राजनीतिक दलको हुनुपर्छ र तीमध्ये एक जना महिला हुनुपर्छ।"
+          },
+          {
+            "textEn": "They must both be from the ruling party",
+            "textNe": "उनीहरू दुवै सत्तारूढ राजनीतिक दलबाट हुनुपर्छ।"
+          },
+          {
+            "textEn": "They are both appointed directly by the President",
+            "textNe": "उनीहरू दुवैलाई राष्ट्रपतिले प्रत्यक्ष नियुक्त गर्नुपर्छ।"
+          },
+          {
+            "textEn": "They must both be lawyers",
+            "textNe": "उनीहरू दुवै कानून व्यवसायी हुनुपर्छ।"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 717,
+        "questionEn": "Which article guarantees the right to a clean and healthy environment?",
+        "questionNe": "स्वच्छ तथा स्वस्थ वातावरणमा बाँच्न पाउने हक कुन धाराले सुनिश्चित गरेको छ?",
+        "options": [
+          {
+            "textEn": "Article 30",
+            "textNe": "धारा ३०"
+          },
+          {
+            "textEn": "Article 20",
+            "textNe": "धारा २०"
+          },
+          {
+            "textEn": "Article 50",
+            "textNe": "धारा ५०"
+          },
+          {
+            "textEn": "Article 10",
+            "textNe": "धारा १०"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 718,
+        "questionEn": "Under Article 31, up to what level is education both compulsory and free for every citizen from the State?",
+        "questionNe": "धारा ३१ अनुसार राज्यबाट प्रत्येक नागरिकका लागि कुन तहसम्मको शिक्षा अनिवार्य र निःशुल्क हुन्छ?",
+        "options": [
+          {
+            "textEn": "Basic level",
+            "textNe": "आधारभूत तह"
+          },
+          {
+            "textEn": "Secondary level",
+            "textNe": "माध्यमिक तह"
+          },
+          {
+            "textEn": "Higher education",
+            "textNe": "उच्च शिक्षा"
+          },
+          {
+            "textEn": "Primary level only",
+            "textNe": "प्राथमिक तह मात्र"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 719,
+        "questionEn": "What is the standard term of office for the President of Nepal?",
+        "questionNe": "नेपालको राष्ट्रपतिको सामान्य पदावधि कति वर्षको हुन्छ?",
+        "options": [
+          {
+            "textEn": "Five years",
+            "textNe": "पाँच वर्ष"
+          },
+          {
+            "textEn": "Four years",
+            "textNe": "चार वर्ष"
+          },
+          {
+            "textEn": "Lifetime",
+            "textNe": "आजीवन"
+          },
+          {
+            "textEn": "Six years",
+            "textNe": "छ वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-08-24": {
+    "id": "2026-08-24",
+    "title": "Challenge #182",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 720,
+        "questionEn": "What is the minimum age required to become the President of Nepal according to Article 64?",
+        "questionNe": "धारा ६४ अनुसार नेपालको राष्ट्रपति बन्न आवश्यक न्यूनतम उमेर कति हो?",
+        "options": [
+          {
+            "textEn": "45 years",
+            "textNe": "४५ वर्ष"
+          },
+          {
+            "textEn": "50 years",
+            "textNe": "५० वर्ष"
+          },
+          {
+            "textEn": "40 years",
+            "textNe": "४० वर्ष"
+          },
+          {
+            "textEn": "35 years",
+            "textNe": "३५ वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 721,
+        "questionEn": "What is the term of office for the Chief Justice of Nepal as per Article 129?",
+        "questionNe": "धारा १२९ अनुसार नेपालको प्रधानन्यायाधीशको पदावधि कति वर्षको हुन्छ?",
+        "options": [
+          {
+            "textEn": "Six years",
+            "textNe": "छ वर्ष"
+          },
+          {
+            "textEn": "Until the age of 65",
+            "textNe": "६५ वर्षको उमेरसम्म"
+          },
+          {
+            "textEn": "Seven years",
+            "textNe": "सात वर्ष"
+          },
+          {
+            "textEn": "Five years",
+            "textNe": "पाँच वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 722,
+        "questionEn": "In whom is the sovereignty and state authority of Nepal vested under Article 2?",
+        "questionNe": "धारा २ अनुसार नेपालको सार्वभौमसत्ता र राजकीयसत्ता कसमा निहित रहेको छ?",
+        "options": [
+          {
+            "textEn": "The Nepalese people",
+            "textNe": "नेपाली जनतामा"
+          },
+          {
+            "textEn": "The Federal Parliament",
+            "textNe": "संघीय संसदमा"
+          },
+          {
+            "textEn": "The Council of Ministers",
+            "textNe": "मन्त्रिपरिषद्मा"
+          },
+          {
+            "textEn": "The President of Nepal",
+            "textNe": "नेपालको राष्ट्रपतिमा"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 723,
+        "questionEn": "In the National Assembly, how many members are nominated by the President on the recommendation of the Government of Nepal?",
+        "questionNe": "राष्ट्रिय सभामा नेपाल सरकारको सिफारिसमा राष्ट्रपतिबाट कति जना सदस्य मनोनीत हुन्छन्?",
+        "options": [
+          {
+            "textEn": "Three",
+            "textNe": "तीन जना"
+          },
+          {
+            "textEn": "Eight from each State",
+            "textNe": "प्रत्येक प्रदेशबाट आठ जना"
+          },
+          {
+            "textEn": "Five",
+            "textNe": "पाँच जना"
+          },
+          {
+            "textEn": "One",
+            "textNe": "एक जना"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 724,
+        "questionEn": "Which fundamental right in Article 37 prohibits the eviction of a citizen from their residence except in accordance with law?",
+        "questionNe": "धारा ३७ अन्तर्गत कानूनबमोजिम बाहेक नागरिकलाई निजको आवासबाट हटाउन निषेध गर्ने मौलिक हक कुन हो?",
+        "options": [
+          {
+            "textEn": "Right to housing",
+            "textNe": "आवासको हक"
+          },
+          {
+            "textEn": "Right against exploitation",
+            "textNe": "शोषणविरुद्धको हक"
+          },
+          {
+            "textEn": "Right to equality",
+            "textNe": "समानताको हक"
+          },
+          {
+            "textEn": "Right to property",
+            "textNe": "सम्पत्तिको हक"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-08-25": {
+    "id": "2026-08-25",
+    "title": "Challenge #183",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 725,
+        "questionEn": "What is the status of the 'Directive Principles, Policies and Obligations' of the State regarding their enforceability in court?",
+        "questionNe": "‘राज्यका निर्देशक सिद्धान्त, नीति तथा दायित्व’ को अदालतमा कार्यान्वयनयोग्यताका सम्बन्धमा के व्यवस्था गरिएको छ?",
+        "options": [
+          {
+            "textEn": "No question shall be raised in any court as to whether they have been implemented or not.",
+            "textNe": "तिनको कार्यान्वयन भए वा नभएको विषयमा कुनै अदालतमा प्रश्न उठाउन सकिने छैन।"
+          },
+          {
+            "textEn": "They only apply during a state of emergency.",
+            "textNe": "तिनीहरू संकटकालको अवस्थामा मात्र लागू हुन्छन्।"
+          },
+          {
+            "textEn": "They are fully enforceable like Fundamental Rights.",
+            "textNe": "तिनीहरू मौलिक हकसरह पूर्ण रूपमा कार्यान्वयनयोग्य हुन्छन्।"
+          },
+          {
+            "textEn": "The Supreme Court can force the government to implement them immediately.",
+            "textNe": "सर्वोच्च अदालतले सरकारलाई तिनको तत्काल कार्यान्वयन गर्न बाध्य पार्न सक्छ।"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 726,
+        "questionEn": "According to Article 1, what is the status of any law that is inconsistent with the Constitution of Nepal?",
+        "questionNe": "नेपालको संविधानको धारा १ अनुसार संविधानसँग बाझिएको कुनै पनि कानूनको हैसियत के हुन्छ?",
+        "options": [
+          {
+            "textEn": "It shall be void to the extent of such inconsistency.",
+            "textNe": "त्यस्तो कानून संविधानसँग बाझिएको हदसम्म अमान्य हुनेछ।"
+          },
+          {
+            "textEn": "It remains valid until the Federal Parliament amends it.",
+            "textNe": "संघीय संसदले संशोधन नगरेसम्म त्यस्तो कानून लागू रहन्छ।"
+          },
+          {
+            "textEn": "It applies only to the State level and not the Federation.",
+            "textNe": "त्यस्तो कानून प्रदेश तहमा मात्र लागू हुन्छ र संघमा लागू हुँदैन।"
+          },
+          {
+            "textEn": "It is referred to the President for a final decision.",
+            "textNe": "त्यस्तो कानूनलाई अन्तिम निर्णयका लागि राष्ट्रपतिसमक्ष पठाइन्छ।"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 727,
+        "questionEn": "Which body has the power over any matter not enumerated in the Federal, State, Local, or Concurrent lists?",
+        "questionNe": "संघ, प्रदेश, स्थानीय वा साझा सूचीमा उल्लेख नभएको विषयमा अधिकार कुन निकायमा निहित हुन्छ?",
+        "options": [
+          {
+            "textEn": "The Federation",
+            "textNe": "संघमा"
+          },
+          {
+            "textEn": "The Local level",
+            "textNe": "स्थानीय तहमा"
+          },
+          {
+            "textEn": "The Judicial Council",
+            "textNe": "न्याय परिषद्मा"
+          },
+          {
+            "textEn": "The State Assembly",
+            "textNe": "प्रदेश सभामा"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 728,
+        "questionEn": "Under Article 289, a person must have obtained citizenship by descent to be eligible for which office?",
+        "questionNe": "धारा २८९ अनुसार कुन पदका लागि वंशजको आधारमा नागरिकता प्राप्त गरेको व्यक्ति मात्र योग्य हुन्छ?",
+        "options": [
+          {
+            "textEn": "President or Prime Minister",
+            "textNe": "राष्ट्रपति वा प्रधानमन्त्री"
+          },
+          {
+            "textEn": "Member of a Constitutional Body",
+            "textNe": "संवैधानिक निकायको सदस्य"
+          },
+          {
+            "textEn": "Mayor of a Municipality",
+            "textNe": "नगरपालिकाको प्रमुख"
+          },
+          {
+            "textEn": "Civil Service employee",
+            "textNe": "निजामती सेवाको कर्मचारी"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 729,
+        "questionEn": "What is the term of office for the President of Nepal?",
+        "questionNe": "नेपालको राष्ट्रपतिको पदावधि कति वर्षको हुन्छ?",
+        "options": [
+          {
+            "textEn": "Five years",
+            "textNe": "पाँच वर्ष"
+          },
+          {
+            "textEn": "Life term",
+            "textNe": "आजीवन पदावधि"
+          },
+          {
+            "textEn": "Four years",
+            "textNe": "चार वर्ष"
+          },
+          {
+            "textEn": "Six years",
+            "textNe": "छ वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-08-26": {
+    "id": "2026-08-26",
+    "title": "Challenge #184",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 730,
+        "questionEn": "Article 26 grants the right to freedom of religion, but it explicitly prohibits which of the following acts?",
+        "questionNe": "धारा २६ ले धर्मसम्बन्धी स्वतन्त्रताको हक प्रदान गरेको छ, तर निम्नमध्ये कुन कार्यलाई स्पष्ट रूपमा निषेध गरेको छ?",
+        "options": [
+          {
+            "textEn": "Converting another person from one religion to another",
+            "textNe": "एक धर्मबाट अर्को धर्ममा परिवर्तन गराउने कार्य"
+          },
+          {
+            "textEn": "Organising religious educational trusts",
+            "textNe": "धार्मिक शैक्षिक ट्रस्टहरू सञ्चालन गर्ने कार्य"
+          },
+          {
+            "textEn": "Practising religious rituals in public",
+            "textNe": "सार्वजनिक रूपमा धार्मिक अनुष्ठान गर्ने कार्य"
+          },
+          {
+            "textEn": "Building new religious sites",
+            "textNe": "नयाँ धार्मिक स्थल निर्माण गर्ने कार्य"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 731,
+        "questionEn": "According to Article 14, non-residential citizenship of Nepal can be granted to individuals residing in countries outside which regional association?",
+        "questionNe": "धारा १४ अनुसार कुन क्षेत्रीय संगठनबाहेकका देशमा बसोबास गर्ने व्यक्तिलाई नेपालको गैरआवासीय नागरिकता प्रदान गर्न सकिन्छ?",
+        "options": [
+          {
+            "textEn": "SAARC",
+            "textNe": "सार्क"
+          },
+          {
+            "textEn": "ASEAN",
+            "textNe": "आसियान"
+          },
+          {
+            "textEn": "The European Union",
+            "textNe": "युरोपेली संघ"
+          },
+          {
+            "textEn": "BIMSTEC",
+            "textNe": "बिमस्टेक"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 732,
+        "questionEn": "What does Article 16(2) explicitly prohibit regarding the right to live with dignity?",
+        "questionNe": "धारा १६ को उपधारा (२) ले सम्मानपूर्वक बाँच्न पाउने हकका सम्बन्धमा के कुरालाई स्पष्ट रूपमा निषेध गरेको छ?",
+        "options": [
+          {
+            "textEn": "The death penalty",
+            "textNe": "मृत्युदण्ड"
+          },
+          {
+            "textEn": "Hard labour",
+            "textNe": "कठोर श्रम"
+          },
+          {
+            "textEn": "Life imprisonment",
+            "textNe": "आजीवन कारावास"
+          },
+          {
+            "textEn": "Solitary confinement",
+            "textNe": "एकान्त कारावास"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 733,
+        "questionEn": "Which body is responsible for conducting examinations for the selection of suitable candidates for the Civil Service?",
+        "questionNe": "निजामती सेवाका लागि उपयुक्त उम्मेदवार छनोट गर्न परीक्षा सञ्चालन गर्ने जिम्मेवारी कुन निकायको हो?",
+        "options": [
+          {
+            "textEn": "The Public Service Commission",
+            "textNe": "लोक सेवा आयोग"
+          },
+          {
+            "textEn": "The National Inclusion Commission",
+            "textNe": "राष्ट्रिय समावेशी आयोग"
+          },
+          {
+            "textEn": "The Judicial Service Commission",
+            "textNe": "न्याय सेवा आयोग"
+          },
+          {
+            "textEn": "The Election Commission",
+            "textNe": "निर्वाचन आयोग"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 734,
+        "questionEn": "According to Article 274, which of the following cannot be amended?",
+        "questionNe": "धारा २७४ अनुसार निम्नमध्ये कुन कुरा संशोधन गर्न सकिँदैन?",
+        "options": [
+          {
+            "textEn": "The sovereignty, territorial integrity, and independence of Nepal",
+            "textNe": "नेपालको सार्वभौमसत्ता, भौगोलिक अखण्डता र स्वतन्त्रता"
+          },
+          {
+            "textEn": "The borders of the States",
+            "textNe": "प्रदेशका सीमाहरू"
+          },
+          {
+            "textEn": "The term of the House of Representatives",
+            "textNe": "प्रतिनिधि सभाको पदावधि"
+          },
+          {
+            "textEn": "The right to property",
+            "textNe": "सम्पत्तिको हक"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-08-27": {
+    "id": "2026-08-27",
+    "title": "Challenge #185",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 735,
+        "questionEn": "How is the term 'secular' explained in Article 4 of the Constitution?",
+        "questionNe": "संविधानको धारा ४ मा ‘धर्मनिरपेक्ष’ शब्दलाई कसरी व्याख्या गरिएको छ?",
+        "options": [
+          {
+            "textEn": "Religious and cultural freedoms, including protection of ancient religion and culture.",
+            "textNe": "धार्मिक तथा सांस्कृतिक स्वतन्त्रता, जसमा प्राचीन धर्म तथा संस्कृतिको संरक्षणसमेत पर्दछ।"
+          },
+          {
+            "textEn": "A system where only modern religions are recognised.",
+            "textNe": "आधुनिक धर्महरूलाई मात्र मान्यता दिने व्यवस्था।"
+          },
+          {
+            "textEn": "The complete absence of religion in state affairs.",
+            "textNe": "राज्यका कार्यहरूबाट धर्मको पूर्ण अनुपस्थिति।"
+          },
+          {
+            "textEn": "The adoption of a single official state religion.",
+            "textNe": "एउटा मात्र आधिकारिक राज्य धर्मको अंगीकार।"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 736,
+        "questionEn": "Article 20(3) requires that an arrested person be produced before the adjudicating authority within how many hours?",
+        "questionNe": "धारा २० को उपधारा (३) अनुसार पक्राउ परेको व्यक्तिलाई कति घण्टाभित्र न्यायिक अधिकारीसमक्ष उपस्थित गराउनुपर्छ?",
+        "options": [
+          {
+            "textEn": "24 hours",
+            "textNe": "२४ घण्टा"
+          },
+          {
+            "textEn": "48 hours",
+            "textNe": "४८ घण्टा"
+          },
+          {
+            "textEn": "12 hours",
+            "textNe": "१२ घण्टा"
+          },
+          {
+            "textEn": "72 hours",
+            "textNe": "७२ घण्टा"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 737,
+        "questionEn": "Who serves as the Chairperson of the Constitutional Council as per Article 284?",
+        "questionNe": "धारा २८४ अनुसार संवैधानिक परिषद्को अध्यक्ष को हुन्छ?",
+        "options": [
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "The Speaker of the House of Representatives",
+            "textNe": "प्रतिनिधि सभाका सभामुख"
+          },
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "The Chief Justice",
+            "textNe": "प्रधानन्यायाधीश"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 738,
+        "questionEn": "How many members of the House of Representatives are elected through the 'first past the post' electoral system?",
+        "questionNe": "प्रतिनिधि सभाका कति जना सदस्य ‘पहिलो हुने निर्वाचित हुने’ निर्वाचन प्रणालीबाट निर्वाचित हुन्छन्?",
+        "options": [
+          {
+            "textEn": "165",
+            "textNe": "१६५ जना"
+          },
+          {
+            "textEn": "275",
+            "textNe": "२७५ जना"
+          },
+          {
+            "textEn": "59",
+            "textNe": "५९ जना"
+          },
+          {
+            "textEn": "110",
+            "textNe": "११० जना"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 739,
+        "questionEn": "Article 18 ensures that the State shall not discriminate against citizens on various grounds. However, it allows 'special provisions' for the protection of which group?",
+        "questionNe": "धारा १८ ले राज्यले नागरिकबीच विभिन्न आधारमा भेदभाव गर्न नहुने व्यवस्था गरेको छ। तर कुन समूहको संरक्षणका लागि ‘विशेष व्यवस्था’ गर्न अनुमति दिएको छ?",
+        "options": [
+          {
+            "textEn": "Socially or culturally backward groups",
+            "textNe": "सामाजिक वा सांस्कृतिक रूपमा पिछडिएका समूह"
+          },
+          {
+            "textEn": "Government officials",
+            "textNe": "सरकारी अधिकारीहरू"
+          },
+          {
+            "textEn": "Foreign investors",
+            "textNe": "विदेशी लगानीकर्ताहरू"
+          },
+          {
+            "textEn": "The economically affluent",
+            "textNe": "आर्थिक रूपमा सम्पन्न वर्ग"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-08-28": {
+    "id": "2026-08-28",
+    "title": "Challenge #186",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 740,
+        "questionEn": "Which fundamental right protects the 'Guthi' of religious denominations?",
+        "questionNe": "धार्मिक सम्प्रदायका ‘गुठी’ को संरक्षण कुन मौलिक हकले गर्छ?",
+        "options": [
+          {
+            "textEn": "Right to freedom of religion",
+            "textNe": "धर्मसम्बन्धी स्वतन्त्रताको हक"
+          },
+          {
+            "textEn": "Right to language and culture",
+            "textNe": "भाषा तथा संस्कृतिको हक"
+          },
+          {
+            "textEn": "Right to social justice",
+            "textNe": "सामाजिक न्यायको हक"
+          },
+          {
+            "textEn": "Right relating to property",
+            "textNe": "सम्पत्तिसम्बन्धी हक"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 741,
+        "questionEn": "Under Article 48, which of the following is NOT listed as a duty of citizens?",
+        "questionNe": "धारा ४८ अनुसार निम्नमध्ये कुन कुरा नागरिकको कर्तव्यको रूपमा उल्लेख गरिएको छैन?",
+        "options": [
+          {
+            "textEn": "To vote in every election without fail",
+            "textNe": "हरेक निर्वाचनमा अनिवार्य रूपमा मतदान गर्नु"
+          },
+          {
+            "textEn": "To abide by the Constitution and law",
+            "textNe": "संविधान र कानूनको पालना गर्नु"
+          },
+          {
+            "textEn": "To protect and preserve public property",
+            "textNe": "सार्वजनिक सम्पत्तिको संरक्षण र संवर्द्धन गर्नु"
+          },
+          {
+            "textEn": "To render compulsory service as required by the State",
+            "textNe": "राज्यले आवश्यक ठहर्याएको अनिवार्य सेवा गर्नु"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 742,
+        "questionEn": "Which fundamental right in Article 24 prohibits discrimination in workplaces and public places based on caste or origin?",
+        "questionNe": "धारा २४ अन्तर्गत जात वा उत्पत्तिका आधारमा कार्यस्थल तथा सार्वजनिक स्थानमा हुने भेदभावलाई कुन मौलिक हकले निषेध गर्छ?",
+        "options": [
+          {
+            "textEn": "Right against untouchability and discrimination",
+            "textNe": "छुवाछूत तथा भेदभावविरुद्धको हक"
+          },
+          {
+            "textEn": "Right to equality",
+            "textNe": "समानताको हक"
+          },
+          {
+            "textEn": "Right relating to justice",
+            "textNe": "न्यायसम्बन्धी हक"
+          },
+          {
+            "textEn": "Right to privacy",
+            "textNe": "गोपनीयताको हक"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 743,
+        "questionEn": "According to Article 4, what form of state is Nepal?",
+        "questionNe": "धारा ४ अनुसार नेपाल कस्तो राज्य हो?",
+        "options": [
+          {
+            "textEn": "Federal democratic republican state",
+            "textNe": "संघीय लोकतान्त्रिक गणतन्त्रात्मक राज्य"
+          },
+          {
+            "textEn": "Unitary monarchical state",
+            "textNe": "एकात्मक राजतान्त्रिक राज्य"
+          },
+          {
+            "textEn": "A socialist-only state with no elections",
+            "textNe": "निर्वाचन नभएको समाजवादी मात्र राज्य"
+          },
+          {
+            "textEn": "A confederation of independent states",
+            "textNe": "स्वतन्त्र राज्यहरूको महासंघ"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 744,
+        "questionEn": "The National Security Council is chaired by whom?",
+        "questionNe": "राष्ट्रिय सुरक्षा परिषद्को अध्यक्ष को हुन्छ?",
+        "options": [
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "The Minister for Defence",
+            "textNe": "रक्षा मन्त्री"
+          },
+          {
+            "textEn": "The Commander-in-Chief of the Nepal Army",
+            "textNe": "नेपाली सेनाका प्रधानसेनापति"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-08-29": {
+    "id": "2026-08-29",
+    "title": "Challenge #187",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 745,
+        "questionEn": "Under Article 56, the main structure of the Federal Democratic Republic of Nepal consists of how many levels?",
+        "questionNe": "धारा ५६ अनुसार नेपालको संघीय लोकतान्त्रिक गणतन्त्रको मुख्य संरचना कति तहको हुन्छ?",
+        "options": [
+          {
+            "textEn": "Three: Federation, State and Local level",
+            "textNe": "तीन तह: संघ, प्रदेश र स्थानीय तह"
+          },
+          {
+            "textEn": "One: A unitary central government",
+            "textNe": "एक तह: एकात्मक केन्द्रीय सरकार"
+          },
+          {
+            "textEn": "Four: Federation, State, District and Village",
+            "textNe": "चार तह: संघ, प्रदेश, जिल्ला र गाउँ"
+          },
+          {
+            "textEn": "Two: Federation and State",
+            "textNe": "दुई तह: संघ र प्रदेश"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 746,
+        "questionEn": "Article 287 requires the Government of Nepal to constitute which commission within one year of the commencement of the Constitution?",
+        "questionNe": "धारा २८७ अनुसार संविधान प्रारम्भ भएको एक वर्षभित्र नेपाल सरकारले कुन आयोग गठन गर्नुपर्ने व्यवस्था छ?",
+        "options": [
+          {
+            "textEn": "The Language Commission",
+            "textNe": "भाषा आयोग"
+          },
+          {
+            "textEn": "The Human Rights Commission",
+            "textNe": "मानव अधिकार आयोग"
+          },
+          {
+            "textEn": "The Women Commission",
+            "textNe": "महिला आयोग"
+          },
+          {
+            "textEn": "The Natural Resources Commission",
+            "textNe": "प्राकृतिक स्रोत आयोग"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 747,
+        "questionEn": "What is the minimum voting age for a citizen of Nepal according to Article 84?",
+        "questionNe": "धारा ८४ अनुसार नेपालको नागरिकका लागि मतदान गर्ने न्यूनतम उमेर कति हो?",
+        "options": [
+          {
+            "textEn": "18 years",
+            "textNe": "१८ वर्ष"
+          },
+          {
+            "textEn": "21 years",
+            "textNe": "२१ वर्ष"
+          },
+          {
+            "textEn": "25 years",
+            "textNe": "२५ वर्ष"
+          },
+          {
+            "textEn": "16 years",
+            "textNe": "१६ वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 748,
+        "questionEn": "The Constitutional Bench of the Supreme Court, as per Article 137, consists of the Chief Justice and how many other judges?",
+        "questionNe": "धारा १३७ अनुसार सर्वोच्च अदालतको संवैधानिक इजलासमा प्रधानन्यायाधीशसहित अन्य कति जना न्यायाधीश हुन्छन्?",
+        "options": [
+          {
+            "textEn": "Four",
+            "textNe": "चार जना"
+          },
+          {
+            "textEn": "Seven",
+            "textNe": "सात जना"
+          },
+          {
+            "textEn": "Two",
+            "textNe": "दुई जना"
+          },
+          {
+            "textEn": "All judges of the Supreme Court",
+            "textNe": "सर्वोच्च अदालतका सबै न्यायाधीशहरू"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 749,
+        "questionEn": "A Money Bill can only be introduced in which House of the Federal Parliament?",
+        "questionNe": "संघीय संसद्को कुन सदनमा मात्र विनियोजन विधेयक पेश गर्न सकिन्छ?",
+        "options": [
+          {
+            "textEn": "The House of Representatives",
+            "textNe": "प्रतिनिधि सभा"
+          },
+          {
+            "textEn": "Either House",
+            "textNe": "कुनै पनि सदन"
+          },
+          {
+            "textEn": "A joint sitting of both Houses",
+            "textNe": "दुवै सदनको संयुक्त बैठक"
+          },
+          {
+            "textEn": "The National Assembly",
+            "textNe": "राष्ट्रिय सभा"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-08-30": {
+    "id": "2026-08-30",
+    "title": "Challenge #188",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 750,
+        "questionEn": "As per Article 31, every citizen has the right to free education from the State up to which level?",
+        "questionNe": "धारा ३१ अनुसार प्रत्येक नागरिकलाई राज्यबाट कुन तहसम्म निःशुल्क शिक्षा प्राप्त गर्ने हक हुन्छ?",
+        "options": [
+          {
+            "textEn": "Secondary level",
+            "textNe": "माध्यमिक तह"
+          },
+          {
+            "textEn": "Basic level only",
+            "textNe": "आधारभूत तह मात्र"
+          },
+          {
+            "textEn": "Primary level only",
+            "textNe": "प्राथमिक तह मात्र"
+          },
+          {
+            "textEn": "Higher education for all",
+            "textNe": "सबैका लागि उच्च शिक्षा"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 751,
+        "questionEn": "What is the duty of every person according to Article 1(2)?",
+        "questionNe": "धारा १ को उपधारा (२) अनुसार प्रत्येक व्यक्तिको कर्तव्य के हो?",
+        "options": [
+          {
+            "textEn": "To observe this Constitution",
+            "textNe": "यस संविधानको पालना गर्नु"
+          },
+          {
+            "textEn": "To join a political party",
+            "textNe": "राजनीतिक दलमा आबद्ध हुनु"
+          },
+          {
+            "textEn": "To pay taxes every month",
+            "textNe": "हरेक महिना कर तिर्नु"
+          },
+          {
+            "textEn": "To serve in the army",
+            "textNe": "सेनामा सेवा गर्नु"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 752,
+        "questionEn": "According to Article 157, the Attorney General is appointed on the recommendation of which official?",
+        "questionNe": "धारा १५७ अनुसार महान्यायाधिवक्ताको नियुक्ति कुन पदाधिकारीको सिफारिसमा हुन्छ?",
+        "options": [
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "The Chief Justice",
+            "textNe": "प्रधानन्यायाधीश"
+          },
+          {
+            "textEn": "The Speaker of the House",
+            "textNe": "सभामुख"
+          },
+          {
+            "textEn": "The Constitutional Council",
+            "textNe": "संवैधानिक परिषद्"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 753,
+        "questionEn": "Which language is designated as the official language of Nepal under Article 7?",
+        "questionNe": "धारा ७ अनुसार नेपालको सरकारी कामकाजको भाषा कुन हो?",
+        "options": [
+          {
+            "textEn": "The Nepali language in the Devnagari script",
+            "textNe": "देवनागरी लिपिमा नेपाली भाषा"
+          },
+          {
+            "textEn": "Sanskrit in the Devnagari script",
+            "textNe": "देवनागरी लिपिमा संस्कृत भाषा"
+          },
+          {
+            "textEn": "Any language spoken by the majority in a particular State",
+            "textNe": "कुनै प्रदेशमा बहुसंख्यकले बोल्ने कुनै पनि भाषा"
+          },
+          {
+            "textEn": "English and Nepali",
+            "textNe": "अंग्रेजी र नेपाली"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 754,
+        "questionEn": "What does Article 38(6) say about the rights of a spouse regarding property and family affairs?",
+        "questionNe": "धारा ३८ को उपधारा (६) ले सम्पत्ति तथा पारिवारिक मामिलामा पति वा पत्नीको हकका सम्बन्धमा के व्यवस्था गरेको छ?",
+        "options": [
+          {
+            "textEn": "The spouse shall have the equal right.",
+            "textNe": "पति वा पत्नीलाई समान हक हुनेछ।"
+          },
+          {
+            "textEn": "Property rights are only granted to the spouse who earns the income.",
+            "textNe": "सम्पत्तिको हक आम्दानी गर्ने पति वा पत्नीलाई मात्र प्रदान गरिनेछ।"
+          },
+          {
+            "textEn": "The husband has the primary right.",
+            "textNe": "पतिको प्राथमिक हक हुनेछ।"
+          },
+          {
+            "textEn": "Rights are determined solely by religious law.",
+            "textNe": "हक धार्मिक कानूनद्वारा मात्र निर्धारण गरिनेछ।"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  "2026-08-31": {
+    "id": "2026-08-31",
+    "title": "Challenge #189",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 755,
+        "questionEn": "According to Article 40, the State shall provide land to which community once, in accordance with law?",
+        "questionNe": "धारा ४० अनुसार राज्यले कानूनबमोजिम कुन समुदायलाई एक पटक भूमि उपलब्ध गराउनेछ?",
+        "options": [
+          {
+            "textEn": "Landless Dalit",
+            "textNe": "भूमिहीन दलित"
+          },
+          {
+            "textEn": "The Madhesi community",
+            "textNe": "मधेसी समुदाय"
+          },
+          {
+            "textEn": "Khas Arya",
+            "textNe": "खस आर्य"
+          },
+          {
+            "textEn": "Indigenous nationalities",
+            "textNe": "आदिवासी जनजाति"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 756,
+        "questionEn": "According to Article 76(9), what is the maximum number of Ministers allowed in the Federal Council of Ministers, including the Prime Minister?",
+        "questionNe": "धारा ७६ को उपधारा (९) अनुसार प्रधानमन्त्रीसहित संघीय मन्त्रिपरिषद्मा बढीमा कति जना मन्त्री रहन सक्छन्?",
+        "options": [
+          {
+            "textEn": "25",
+            "textNe": "२५ जना"
+          },
+          {
+            "textEn": "35",
+            "textNe": "३५ जना"
+          },
+          {
+            "textEn": "No specific limit is mentioned",
+            "textNe": "कुनै निश्चित सीमा उल्लेख गरिएको छैन।"
+          },
+          {
+            "textEn": "15",
+            "textNe": "१५ जना"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 757,
+        "questionEn": "Which animal is recognised as the national animal of Nepal in Article 9?",
+        "questionNe": "धारा ९ अनुसार नेपालको राष्ट्रिय जनावर कुन हो?",
+        "options": [
+          {
+            "textEn": "The Cow",
+            "textNe": "गाई"
+          },
+          {
+            "textEn": "The Snow Leopard",
+            "textNe": "हिउँ चितुवा"
+          },
+          {
+            "textEn": "The Tiger",
+            "textNe": "बाघ"
+          },
+          {
+            "textEn": "The Rhino",
+            "textNe": "गैंडा"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 758,
+        "questionEn": "Under Article 11, a person whose father or mother was a citizen of Nepal at the time of their birth is entitled to which type of citizenship?",
+        "questionNe": "धारा ११ अनुसार जन्म हुँदाका बखत बाबु वा आमामध्ये कुनै एक जना नेपालको नागरिक भएमा त्यस्तो व्यक्तिले कुन प्रकारको नागरिकता प्राप्त गर्न सक्छ?",
+        "options": [
+          {
+            "textEn": "Citizenship by descent",
+            "textNe": "वंशजको आधारमा नागरिकता"
+          },
+          {
+            "textEn": "Naturalised citizenship",
+            "textNe": "अङ्गीकृत नागरिकता"
+          },
+          {
+            "textEn": "Honorary citizenship",
+            "textNe": "सम्मानार्थ नागरिकता"
+          },
+          {
+            "textEn": "Non-resident citizenship",
+            "textNe": "गैरआवासीय नागरिकता"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 759,
+        "questionEn": "Who has the final authority to interpret the Constitution and laws in Nepal?",
+        "questionNe": "नेपालको संविधान तथा कानूनको अन्तिम व्याख्या गर्ने अधिकार कसलाई हुन्छ?",
+        "options": [
+          {
+            "textEn": "The Supreme Court",
+            "textNe": "सर्वोच्च अदालतलाई"
+          },
+          {
+            "textEn": "The Attorney General",
+            "textNe": "महान्यायाधिवक्तालाई"
+          },
+          {
+            "textEn": "The Federal Parliament",
+            "textNe": "संघीय संसदलाई"
+          },
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपतिलाई"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
   }
 }
