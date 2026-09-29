@@ -3,6 +3,8 @@
 
 Workflow (see .claude/skills/daily-quiz/SKILL.md):
   article   print the official text of articles, to write and review from
+  coverage  how often each article is already used
+  merge     combine part drafts into one draft
   validate  mechanical checks on a draft (no AI)
   blind     make a copy of a draft without answers, options shuffled
   compare   check the reviewer's blind answers against the draft's key
@@ -277,6 +279,43 @@ def cmd_sheet(args):
     print(f"wrote {out}")
 
 
+def cmd_coverage(args):
+    """How often each article is already used, published and in drafts."""
+    counts = {}
+    sources = [q for p in monthly_files() for day in load_json(p).values()
+               for q in day["questions"]]
+    texts = [f"{q['questionEn']} {q['questionNe']}" for q in sources]
+    for path in glob.glob(os.path.join(ROOT, "drafts", "*.json")):
+        # Merged drafts only; parts would count every question twice.
+        if re.search(r"\.(blind|reviewer)\.json$|\.part\d+\.json$", path):
+            continue
+        for day in load_json(path).get("days", []):
+            for q in day["questions"]:
+                key = str(q.get("source", {}).get("article", ""))
+                counts[key] = counts.get(key, 0) + 1
+    for key, a in articles().items():
+        n = counts.get(key, 0)
+        # Published questions have no source field; count mentions of the article.
+        if key.isdigit():
+            ne = key.translate(str.maketrans("0123456789", "०१२३४५६७८९"))
+            pat = re.compile(rf"(Article {key}\b|धारा {ne}(?![०-९]))")
+            n += sum(1 for t in texts if pat.search(t))
+        if args.unused and n:
+            continue
+        print(f"{key:>4}  {n:>2}  {a['titleEn'].strip()[:70]}")
+
+
+def cmd_merge(args):
+    # Skip review files so a glob like drafts/<name>.part*.json just works.
+    parts = [p for p in args.parts if not re.search(r"\.(blind|reviewer)\.json$", p)]
+    days = []
+    for part in parts:
+        days += load_json(part)["days"]
+    days.sort(key=lambda d: d["date"])
+    write_json(args.out, {"days": days})
+    print(f"wrote {args.out}: {len(days)} day(s) from {len(parts)} part(s)")
+
+
 def cmd_publish(args):
     draft = load_json(args.draft)
     errors = validate(draft)
@@ -327,6 +366,13 @@ def main():
         s = sub.add_parser(name)
         s.add_argument("draft")
         s.set_defaults(func=func)
+    cv = sub.add_parser("coverage", help="how often each article is already used")
+    cv.add_argument("--unused", action="store_true", help="only articles never used")
+    cv.set_defaults(func=cmd_coverage)
+    m = sub.add_parser("merge", help="combine part drafts into one")
+    m.add_argument("out")
+    m.add_argument("parts", nargs="+")
+    m.set_defaults(func=cmd_merge)
     c = sub.add_parser("compare")
     c.add_argument("draft")
     c.add_argument("review", help="reviewer output JSON")

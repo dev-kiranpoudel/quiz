@@ -1,76 +1,76 @@
 ---
 name: daily-quiz
-description: Write, verify and publish daily challenge questions for the Sambidhan app. Use when asked to create daily challenge or quiz questions for a date range, e.g. "/daily-quiz 2026-10-01 2026-10-08".
+description: Write, verify and publish daily challenge questions for the Sambidhan app. Use when asked to create daily challenge or quiz questions for a month or date range, e.g. "/daily-quiz 2026-11" or "/daily-quiz 2026-10-01 2026-10-31".
 ---
 
 # Daily challenge questions
 
-Arguments: start date and end date (inclusive), `YYYY-MM-DD`. If missing, ask.
-Each day has exactly 5 questions. Work in batches of at most 10 days.
+Arguments: a month (`YYYY-MM`) or a start and end date (`YYYY-MM-DD`,
+inclusive). If missing, ask. Each day has exactly 5 questions.
 
 The app loads `quiz/quiz_YYYY_MM` from this repo's `main` branch on GitHub.
 Nothing reaches users until it is merged and pushed to `main`.
 
-## 1. Write the draft
+Draft name `<name>`: the month (`2026-11`) or `<start>_<end>`. Files:
+- parts: `drafts/<name>.partN.json` (+ `.blind.json`, `.reviewer.json`)
+- merged: `drafts/<name>.json` and the review list `drafts/<name>.review.md`
 
-Draft name: `<start>_<end>`, file `drafts/<start>_<end>.json`. The format is
-in the docstring of `scripts/quiz.py`.
+## 1. Plan the parts
 
-- Base every question on the article text from
-  `python3 scripts/quiz.py article <keys>`, never on memory. The Nepali text
-  is official; the English translation has errors.
-- `source.quoteNe` must be copied exactly from the Nepali text (the validator
-  checks this). `quoteEn` is the matching English sentence.
-- Prefer articles not yet asked about. Spread topics across the constitution;
-  no more than 2 questions from the same article per day.
-- Mix difficulty in each day: 2 easy, 2 medium, 1 harder.
-- Wrong options must be plausible (real numbers, bodies and terms from the
-  constitution) but clearly wrong by the text. Avoid "all of the above",
-  "none of the above", and negative questions ("which is NOT").
-- Put the correct answer at any index; the app shuffles options.
-- Write natural Nepali using the constitution's own terms (धारा, उपधारा,
-  प्रतिनिधि सभा, राष्ट्रिय सभा, मन्त्रिपरिषद्). Use Nepali digits in Nepali text.
+Split the range into parts of about 10 days (a 30-day month: 3 parts).
 
-## 2. Validate (no AI)
+Run `python3 scripts/quiz.py coverage` to see how often each article is
+already used. Give each part its own articles, with no overlap between
+parts:
+- about 8-12 articles per part (enough for 5 questions a day), favouring
+  unused or rarely used ones
+- a mix of topics in each part (rights, government, courts, provinces,
+  commissions, schedules), not one chapter per part
+- skip articles with little testable content (e.g. "shall be as provided by law")
 
-```bash
-python3 scripts/quiz.py validate drafts/<name>.json
-```
+## 2. Write, in parallel
 
-Fix every failure and re-run until it passes.
+Start one `quiz-writer` agent per part, all in the same message, each with
+its date range, article keys and output path `drafts/<name>.partN.json`.
 
-## 3. Blind review
+When they finish, run `python3 scripts/quiz.py validate` on each part and
+fix anything still failing.
 
-```bash
-python3 scripts/quiz.py blind drafts/<name>.json
-```
+## 3. Blind review, in parallel
 
-Then run the `quiz-reviewer` agent with only the blind file path:
-"Review drafts/<name>.blind.json". Do not pass the draft or the answers.
+For each part: `python3 scripts/quiz.py blind drafts/<name>.partN.json`.
+Then start one `quiz-reviewer` agent per part, all in the same message, each
+given only "Review drafts/<name>.partN.blind.json". Never pass the draft or
+the answers.
+
+Then, for each part:
 
 ```bash
-python3 scripts/quiz.py compare drafts/<name>.json drafts/<name>.reviewer.json
+python3 scripts/quiz.py compare drafts/<name>.partN.json drafts/<name>.partN.reviewer.json
 ```
 
 ## 4. Fix or drop
 
-For each flagged question, re-read the article and decide:
+For each flagged question, read the article yourself and decide:
 - the reviewer is right: fix the question, or replace it with a new one
-- the draft is right: note why in your summary for the user
+- the draft is right: note why for the user
 
-Fixed or new questions go through validate and one more blind review (only
-the changed ones may be reviewed; delete the old `.blind.json` and
-`.reviewer.json` first). A question that fails twice is replaced, not argued.
+Re-validate. Put fixed or new questions through one more blind review (a
+small draft with just those days is fine). A question that fails twice is
+replaced, not argued.
 
-## 5. Human review
+## 5. Merge and human review
 
 ```bash
+python3 scripts/quiz.py merge drafts/<name>.json drafts/<name>.part*.json
+python3 scripts/quiz.py validate drafts/<name>.json
 python3 scripts/quiz.py sheet drafts/<name>.json
 ```
 
-Give the user `drafts/<name>.review.md` and a short summary: how many
-questions, how many the reviewer flagged, what changed. Stop and wait for
-approval. Apply any corrections the user asks for, then validate again.
+Validate on the merged draft catches repeats across parts. Give the user
+`drafts/<name>.review.md` and a short summary: questions written, flagged by
+the reviewer, fixed, replaced. Stop and wait for approval. Apply any
+corrections the user asks for in `drafts/<name>.json`, then validate again.
 
 ## 6. Publish (only after the user approves)
 
@@ -78,5 +78,5 @@ approval. Apply any corrections the user asks for, then validate again.
 python3 scripts/quiz.py publish drafts/<name>.json
 ```
 
-Commit the updated `quiz/quiz_YYYY_MM` file(s) and the draft files. Push only
-when the user asks.
+Commit the updated `quiz/quiz_YYYY_MM` file(s) and `drafts/<name>*`. Push
+only when the user asks.
