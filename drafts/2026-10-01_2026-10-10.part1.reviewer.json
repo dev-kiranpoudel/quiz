@@ -1,0 +1,416 @@
+{
+  "results": [
+    {
+      "ref": "2026-10-01#1",
+      "answer": "C",
+      "evidence": "संविधान र कानूनको व्याख्या गर्ने अन्तिम अधिकार सर्वोच्च अदालतलाई हुनेछ",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-01#2",
+      "answer": "B",
+      "evidence": "प्रधान न्यायाधीशको नियुक्ति राष्ट्रपतिबाट हुनेछ (संवैधानिक परिषदको सिफारिसमा)",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-01#3",
+      "answer": "D",
+      "evidence": "सर्वोच्च अदालत, उच्च अदालत, र जिल्ला अदालत",
+      "difficulty": "easy",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-01#4",
+      "answer": "A",
+      "evidence": "प्रधान न्यायाधीशको पदावधि छ वर्षको हुनेछ",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-01#5",
+      "answer": "B",
+      "evidence": "सर्वोच्च अदालतको वरिष्ठतम न्यायाधीशले कायममुकायम प्रधान न्यायाधीश भई काम गर्नेछ",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-02#1",
+      "answer": "D",
+      "evidence": "संघ, प्रदेश र स्थानीय तह गरी तीन तहको",
+      "difficulty": "easy",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-02#2",
+      "answer": "D",
+      "evidence": "प्रदेशको व्यवस्थापिका ... प्रदेश सभा भनिनेछ",
+      "difficulty": "easy",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-02#3",
+      "answer": "A",
+      "evidence": "राष्ट्रपतिले प्रत्येक प्रदेशका लागि एक प्रदेश प्रमुख नियुक्ति गर्नेछ",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-02#4",
+      "answer": "D",
+      "evidence": "प्रदेश प्रमुखको पदावधि पाँच वर्षको हुनेछ",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-02#5",
+      "answer": "D",
+      "evidence": "प्रदेश प्रमुखले ... मुख्यमन्त्री नियुक्त गर्नेछ",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-03#1",
+      "answer": "C",
+      "evidence": "संविधान र कानूनको व्याख्या गर्ने अन्तिम अधिकार सर्वोच्च अदालतलाई हुनेछ",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-03#2",
+      "answer": "D",
+      "evidence": "संघ, प्रदेश र स्थानीय तह",
+      "difficulty": "easy",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-03#3",
+      "answer": "D",
+      "evidence": "प्रत्येक प्रदेशमा नेपाल सरकारको प्रतिनिधिको रूपमा प्रदेश प्रमुख रहनेछ",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-03#4",
+      "answer": "A",
+      "evidence": "प्रधान न्यायाधीशको पदावधि छ वर्षको हुनेछ",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-03#5",
+      "answer": "C",
+      "evidence": "प्रदेश प्रमुखले प्रदेश सभामा बहुमत प्राप्त संसदीय दलको नेतालाई मुख्यमन्त्री नियुक्त गर्नेछ",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-04#1",
+      "answer": "C",
+      "evidence": "राष्ट्रिय फूल लालीगुराँस",
+      "difficulty": "easy",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-04#2",
+      "answer": "A",
+      "evidence": "देवनागरी लिपिमा लेखिने नेपाली भाषा नेपालको सरकारी कामकाजको भाषा हुनेछ",
+      "difficulty": "easy",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-04#3",
+      "answer": "B",
+      "evidence": "सार्वभौमसत्ता ... नेपाली जनतामा निहित रहेको छ",
+      "difficulty": "easy",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-04#4",
+      "answer": "A",
+      "evidence": "नेपालमा बोलिने सबै मातृभाषाहरू राष्ट्रभाषा हुन्",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-04#5",
+      "answer": "C",
+      "evidence": "तल्लो भागमा बाह्र कोणयुक्त सूर्यको सेतो आकार",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-05#1",
+      "answer": "B",
+      "evidence": "माध्यमिक तहसम्मको शिक्षा निःशुल्क पाउने हक हुनेछ",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-05#2",
+      "answer": "A",
+      "evidence": "कसैलाई पनि मृत्युदण्डको सजाय दिने गरी कानून बनाइने छैन",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-05#3",
+      "answer": "C",
+      "evidence": "आधारभूत स्वास्थ्य सेवा निःशुल्क प्राप्त गर्ने हक",
+      "difficulty": "easy",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-05#4",
+      "answer": "D",
+      "evidence": "पैतृक सम्पत्तिमा लैंगिक भेदभाव विना सबै सन्तानको समान हक हुनेछ",
+      "difficulty": "easy",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-05#5",
+      "answer": "C",
+      "evidence": "राज्यले भूमिहीन दलितलाई कानून बमोजिम एक पटक जमीन उपलब्ध गराउनु पर्नेछ",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-06#1",
+      "answer": "C",
+      "evidence": "राष्ट्रपति नेपालको राष्ट्राध्यक्ष हुनेछ",
+      "difficulty": "easy",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-06#2",
+      "answer": "D",
+      "evidence": "राष्ट्रपतिको पदावधि ... पाँच वर्षको हुनेछ",
+      "difficulty": "easy",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-06#3",
+      "answer": "B",
+      "evidence": "राष्ट्रपतिले प्रतिनिधि सभामा बहुमत प्राप्त संसदीय दलको नेतालाई प्रधानमन्त्री नियुक्त गर्नेछ",
+      "difficulty": "easy",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-06#4",
+      "answer": "B",
+      "evidence": "कम्तीमा पैंतालिस वर्ष उमेर पूरा भएको",
+      "difficulty": "hard",
+      "verdict": "fix",
+      "issues": [
+        "hard: exact age figure (45) only specialists know; options 30/60 are plausible"
+      ]
+    },
+    {
+      "ref": "2026-10-06#5",
+      "answer": "C",
+      "evidence": "फरक फरक लिंग वा समुदायको प्रतिनिधित्व हुने गरी गर्नु पर्नेछ",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-07#1",
+      "answer": "A",
+      "evidence": "प्रतिनिधि सभा र राष्ट्रिय सभा नामका दुई सदन",
+      "difficulty": "easy",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-07#2",
+      "answer": "A",
+      "evidence": "अठार वर्ष उमेर पूरा भएको ... मतदान गर्ने अधिकार हुनेछ",
+      "difficulty": "easy",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-07#3",
+      "answer": "D",
+      "evidence": "प्रतिनिधि सभाको कार्यकाल पाँच वर्षको हुनेछ",
+      "difficulty": "easy",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-07#4",
+      "answer": "B",
+      "evidence": "दुई सय पचहत्तर सदस्य रहनेछन्",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-07#5",
+      "answer": "C",
+      "evidence": "राष्ट्रिय सभाका सदस्यहरूको पदावधि छ वर्षको हुनेछ",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-08#1",
+      "answer": "D",
+      "evidence": "राष्ट्रपतिले संवैधानिक परिषदको सिफारिसमा प्रमुख निर्वाचन आयुक्त ... नियुक्ति गर्नेछ",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-08#2",
+      "answer": "B",
+      "evidence": "कम्तीमा दश वर्ष महिलाको हक, हित वा लैंगिक न्याय ... योगदान पुर्‍याएको महिला",
+      "difficulty": "hard",
+      "verdict": "fix",
+      "issues": [
+        "hard: Article 252(6) lists several qualifications (10 years contribution, degree for chair, age 45, non-party); option B paraphrases only one, and the Nepali also covers women development, human rights and law fields"
+      ]
+    },
+    {
+      "ref": "2026-10-08#3",
+      "answer": "B",
+      "evidence": "अदालतले दिएको आदेश वा निर्णयको सबैले पालन गर्नु पर्नेछ",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-08#4",
+      "answer": "C",
+      "evidence": "प्रधान न्यायाधीशका अतिरिक्त बढीमा बीस जना न्यायाधीश",
+      "difficulty": "hard",
+      "verdict": "fix",
+      "issues": [
+        "hard: exact figure (20 additional Justices) is specialist detail"
+      ]
+    },
+    {
+      "ref": "2026-10-08#5",
+      "answer": "D",
+      "evidence": "पैँतालिस वर्ष उमेर पूरा भएको",
+      "difficulty": "hard",
+      "verdict": "fix",
+      "issues": [
+        "hard: Auditor General age 45 (240(6)(ग)) is an exact-figure memory test"
+      ]
+    },
+    {
+      "ref": "2026-10-09#1",
+      "answer": "D",
+      "evidence": "गाउँ कार्यपालिका वा नगर कार्यपालिकामा निहित रहनेछ",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-09#2",
+      "answer": "D",
+      "evidence": "सम्बन्धित गाउँपालिका क्षेत्रभित्रका मतदाताले ... निर्वाचन",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-09#3",
+      "answer": "C",
+      "evidence": "कम्तीमा एक तिहाइ सदस्य महिला हुनु पर्नेछ",
+      "difficulty": "hard",
+      "verdict": "fix",
+      "issues": [
+        "hard: one-third women share for each party in Provincial Assembly (176(9)) is a specialist detail; option C correct"
+      ]
+    },
+    {
+      "ref": "2026-10-09#4",
+      "answer": "C",
+      "evidence": "नतोकिएको विषयमा संघको अधिकार हुनेछ",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-09#5",
+      "answer": "A",
+      "evidence": "एक्काइस वर्ष उमेर पूरा भएको",
+      "difficulty": "hard",
+      "verdict": "fix",
+      "issues": [
+        "hard: exact age 21 for local chairperson (215(5)(ख)); option C 18 is a tempting voting-age distractor"
+      ]
+    },
+    {
+      "ref": "2026-10-10#1",
+      "answer": "A",
+      "evidence": "राष्ट्रिय फूल लालीगुराँस",
+      "difficulty": "easy",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-10#2",
+      "answer": "A",
+      "evidence": "राष्ट्रपति नेपालको राष्ट्राध्यक्ष हुनेछ",
+      "difficulty": "easy",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-10#3",
+      "answer": "C",
+      "evidence": "कसैलाई पनि मृत्युदण्डको सजाय दिने गरी कानून बनाइने छैन",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-10#4",
+      "answer": "B",
+      "evidence": "दुई सय पचहत्तर सदस्य रहनेछन्",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-10#5",
+      "answer": "A",
+      "evidence": "नतोकिएको विषयमा संघको अधिकार हुनेछ",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    }
+  ]
+}
