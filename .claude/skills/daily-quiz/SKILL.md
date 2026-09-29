@@ -19,14 +19,28 @@ Draft name `<name>`: the month (`2026-11`) or `<start>_<end>`. Files:
 
 Split the range into parts of about 10 days (a 30-day month: 3 parts).
 
-Run `python3 scripts/quiz.py coverage` to see how often each article is
-already used. Give each part its own articles, with no overlap between
-parts:
-- about 8-12 articles per part (enough for 5 questions a day), favouring
-  unused or rarely used ones
-- a mix of topics in each part (rights, government, courts, provinces,
-  commissions, schedules), not one chapter per part
-- skip articles with little testable content (e.g. "shall be as provided by law")
+The daily challenge is an easy daily habit: 3 easy + 2 medium questions a
+day, themed by weekday (table in `.claude/agents/quiz-writer.md`, checked by
+the validator). Aim for an average score of about 4 out of 5.
+
+Build an article pool for each theme, choosing articles for how useful and
+well known their facts are, not for being unused. Good sources:
+- nepal-basics: P, 1-9, S1-S4
+- fundamental-rights: 16-48
+- president-government: 61-82
+- parliament-elections: 83-89, 91-92
+- courts-commissions: 126-129, 238-265
+- provinces-local: 56-58, 162-176, 214-222
+- weekly-review: facts from that week's other themes
+
+Skip articles with little testable content ("shall be as provided by law")
+and heavy procedure (sessions, quorum, bill passage, budget steps).
+`python3 scripts/quiz.py coverage` shows how often each article is used;
+prefer less-used ones among the useful ones, but well-known facts may be
+asked again in new wording.
+
+Split each theme's pool between the parts, so parts do not share articles.
+Every part needs articles for every theme, because it covers every weekday.
 
 ## 2. Write, in parallel
 
@@ -54,6 +68,8 @@ python3 scripts/quiz.py compare drafts/<name>.partN.json drafts/<name>.partN.rev
 For each flagged question, read the article yourself and decide:
 - the reviewer is right: fix the question, or replace it with a new one
 - the draft is right: note why for the user
+- rated hard: make it easier (a better-known fact, or clearly different
+  options), or replace it
 
 Re-validate. Put fixed or new questions through one more blind review (a
 small draft with just those days is fine). A question that fails twice is
@@ -69,7 +85,7 @@ python3 scripts/quiz.py sheet drafts/<name>.json
 
 Validate on the merged draft catches repeats across parts. Give the user
 `drafts/<name>.review.md` and a short summary: questions written, flagged by
-the reviewer, fixed, replaced. Stop and wait for approval. Apply any
+the reviewer, fixed, replaced, and the reviewer's easy/medium split. Stop and wait for approval. Apply any
 corrections the user asks for in `drafts/<name>.json`, then validate again.
 
 ## 6. Publish (only after the user approves)

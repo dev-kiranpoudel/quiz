@@ -34,10 +34,18 @@ questions and shuffled options labelled A-D, but **not** the intended answer.
    - the Nepali question and options say the same thing as the English, using
      the constitution's own Nepali terms
    - the question is clear and not a trick; it has one reading
-4. Verdict:
+   - an article or clause number is not the answer
+4. Rate difficulty for a general Nepali adult (this is a daily habit quiz,
+   aiming for about 4 out of 5 correct):
+   - `easy`: most educated adults know it or can reason it out
+   - `medium`: commonly taught and worth learning
+   - `hard`: procedural detail, exact clauses or figures only specialists
+     know, or options so close that it is a memory test
+5. Verdict:
    - `pass`: correct and no issues
    - `fix`: fixable problem (wording, translation, wrong clause number)
    - `drop`: ambiguous, not supported by the text, or more than one correct option
+   A `hard` rating is enough for `fix`; say what makes it hard.
 
 ## Output
 
@@ -50,6 +58,7 @@ Write `drafts/<name>.reviewer.json`, where `<name>` matches the blind file:
       "ref": "2026-09-30#1",
       "answer": "B",
       "evidence": "short quote from the Nepali text that decides it",
+      "difficulty": "easy",
       "verdict": "pass",
       "issues": []
     }
@@ -59,4 +68,5 @@ Write `drafts/<name>.reviewer.json`, where `<name>` matches the blind file:
 
 Include every question in the blind file. Keep `issues` short and specific,
 for example "Nepali option C says 'six years', English says 'five years'".
-Then reply with one line: how many pass, fix and drop.
+Then reply with one line: how many pass, fix and drop, and how many you
+rated easy, medium and hard.

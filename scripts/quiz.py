@@ -14,10 +14,13 @@ Workflow (see .claude/skills/daily-quiz/SKILL.md):
 A draft lives in drafts/<name>.json:
 {
   "days": [
-    {"date": "2026-09-30", "questions": [
-      {"questionEn": "...", "questionNe": "...",
+    {"date": "2026-09-30", "theme": "fundamental-rights", "questions": [
+      {"difficulty": "easy",
+       "questionEn": "...", "questionNe": "...",
        "options": [{"textEn": "...", "textNe": "..."}, x4],
        "correctAnswerIndex": 0,
+       "explanationEn": "one sentence: why this is the answer",
+       "explanationNe": "same in Nepali",
        "source": {"article": "76", "clause": "9",
                   "quoteNe": "exact sentence from the Nepali text",
                   "quoteEn": "matching English sentence"}}
@@ -42,6 +45,24 @@ CONSTITUTION = os.path.join(ROOT, "constitution", "constitution.json")
 QUIZ_DIR = os.path.join(ROOT, "quiz")
 QUESTIONS_PER_DAY = 5
 START_DATE = datetime.date(2026, 3, 1)  # DailyChallengeUtils.startDate in the app
+
+# Each day: 3 easy + 2 medium. No hard questions in the daily challenge.
+DIFFICULTY_MIX = {"easy": 3, "medium": 2}
+
+# Theme by weekday (Python: Monday = 0). Nepal's week starts on Sunday.
+THEMES = {
+    6: ("nepal-basics", "Nepal basics: state, symbols, language, provinces"),
+    0: ("fundamental-rights", "Fundamental rights"),
+    1: ("president-government", "President and government"),
+    2: ("parliament-elections", "Parliament and elections"),
+    3: ("courts-commissions", "Courts and constitutional commissions"),
+    4: ("provinces-local", "Provinces and local government"),
+    5: ("weekly-review", "Mixed review of the week's most useful facts"),
+}
+
+
+def theme_for(date):
+    return THEMES[date.weekday()]
 
 NE_DIGITS = str.maketrans("०१२३४५६७८९", "0123456789")
 DEVANAGARI = re.compile(r"[ऀ-ॿ]")
@@ -150,6 +171,14 @@ def validate(draft):
         qs = day.get("questions", [])
         if len(qs) != QUESTIONS_PER_DAY:
             errors.append(f"{where}: {len(qs)} questions, expected {QUESTIONS_PER_DAY}")
+        expected_theme = theme_for(parsed)[0]
+        if day.get("theme") != expected_theme:
+            errors.append(f"{where}: theme '{day.get('theme')}', expected '{expected_theme}'")
+        mix = {}
+        for q in qs:
+            mix[q.get("difficulty")] = mix.get(q.get("difficulty"), 0) + 1
+        if mix != DIFFICULTY_MIX:
+            errors.append(f"{where}: difficulty mix {mix}, expected {DIFFICULTY_MIX}")
         for i, q in enumerate(qs, 1):
             at = f"{where} Q{i}"
             for field in ("questionEn", "questionNe"):
@@ -157,6 +186,10 @@ def validate(draft):
                     errors.append(f"{at}: missing {field}")
             if q.get("questionNe") and not DEVANAGARI.search(q["questionNe"]):
                 errors.append(f"{at}: questionNe is not Nepali")
+            if not str(q.get("explanationEn", "")).strip():
+                errors.append(f"{at}: missing explanationEn")
+            if not DEVANAGARI.search(str(q.get("explanationNe", ""))):
+                errors.append(f"{at}: missing or non-Nepali explanationNe")
             opts = q.get("options", [])
             if len(opts) != 4:
                 errors.append(f"{at}: {len(opts)} options, expected 4")
@@ -243,6 +276,8 @@ def cmd_compare(args):
                 problems.append(f"reviewer chose {letter} '{chosen}', key is '{key_text}'")
             if r.get("verdict") != "pass":
                 problems.append(f"verdict {r.get('verdict')}")
+            if r.get("difficulty") not in ("easy", "medium"):
+                problems.append(f"reviewer rates it {r.get('difficulty')}")
             problems += r.get("issues", [])
             if problems:
                 flagged += 1
@@ -257,17 +292,21 @@ def cmd_sheet(args):
     lines = [f"# Review: {os.path.basename(args.draft)}", "",
              "Check each answer against the quoted text. The Nepali text is official.", ""]
     for day in draft["days"]:
-        lines.append(f"## {day['date']}  (Challenge #{challenge_number(day['date'])})")
+        theme = theme_for(datetime.date.fromisoformat(day["date"]))[1]
+        lines.append(f"## {day['date']}  (Challenge #{challenge_number(day['date'])}) · {theme}")
         lines.append("")
         for i, q in enumerate(day["questions"], 1):
             src = q["source"]
             clause = f"({src['clause']})" if src.get("clause") else ""
-            lines.append(f"**Q{i}. {q['questionEn']}**  ")
+            lines.append(f"**Q{i}. [{q.get('difficulty')}] {q['questionEn']}**  ")
             lines.append(f"{q['questionNe']}")
             lines.append("")
             for n, o in enumerate(q["options"]):
                 mark = "✅" if n == q["correctAnswerIndex"] else "▫️"
                 lines.append(f"- {mark} {o['textEn']} / {o['textNe']}")
+            lines.append("")
+            lines.append(f"💡 {q.get('explanationEn', '')}  ")
+            lines.append(f"{q.get('explanationNe', '')}")
             lines.append("")
             lines.append(f"> Article {src['article']}{clause}: {src.get('quoteNe', '')}  ")
             if src.get("quoteEn"):
@@ -337,6 +376,9 @@ def cmd_publish(args):
                 "questionNe": q["questionNe"],
                 "options": [{"textEn": o["textEn"], "textNe": o["textNe"]} for o in q["options"]],
                 "correctAnswerIndex": q["correctAnswerIndex"],
+                # Not shown by the app yet; older app versions ignore them.
+                "explanationEn": q["explanationEn"],
+                "explanationNe": q["explanationNe"],
             })
             next_id += 1
         by_month.setdefault(date[:7], {})[date] = {
