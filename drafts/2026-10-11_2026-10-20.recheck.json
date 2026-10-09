@@ -1,0 +1,335 @@
+{
+  "days": [
+    {
+      "date": "2026-10-14",
+      "theme": "parliament-elections",
+      "questions": [
+        {
+          "difficulty": "easy",
+          "questionEn": "What is Nepal's federal legislature, with its two houses, called?",
+          "questionNe": "दुई सदन भएको नेपालको संघीय व्यवस्थापिकालाई के भनिन्छ?",
+          "options": [
+            {
+              "textEn": "The Constituent Assembly",
+              "textNe": "संविधान सभा"
+            },
+            {
+              "textEn": "The National Panchayat",
+              "textNe": "राष्ट्रिय पञ्चायत"
+            },
+            {
+              "textEn": "The Federal Parliament",
+              "textNe": "संघीय संसद"
+            },
+            {
+              "textEn": "The Provincial Assembly",
+              "textNe": "प्रदेश सभा"
+            }
+          ],
+          "correctAnswerIndex": 2,
+          "explanationEn": "Nepal's federal legislature is called the Federal Parliament, made up of the House of Representatives and the National Assembly.",
+          "explanationNe": "प्रतिनिधि सभा र राष्ट्रिय सभा मिलेर बनेको संघीय व्यवस्थापिकालाई संघीय संसद भनिन्छ।",
+          "source": {
+            "article": "83",
+            "quoteNe": "प्रतिनिधि सभा र राष्ट्रिय सभा नामका दुई सदन सहितको एक संघीय व्यवस्थापिका हुनेछ जसलाई संघीय संसद भनिनेछ ।",
+            "quoteEn": "There shall be a Legislature, called Federal Parliament, consisting of two Houses, namely the House of Representatives and the National Assembly."
+          }
+        },
+        {
+          "difficulty": "easy",
+          "questionEn": "Can one person be a member of both houses of the Federal Parliament at the same time?",
+          "questionNe": "एउटै व्यक्ति एकै पटक संघीय संसदका दुवै सदनको सदस्य हुन सक्छ?",
+          "options": [
+            {
+              "textEn": "Yes, always",
+              "textNe": "सक्छ, जहिले पनि"
+            },
+            {
+              "textEn": "No",
+              "textNe": "सक्दैन"
+            },
+            {
+              "textEn": "Yes, if the President allows it",
+              "textNe": "राष्ट्रपतिले अनुमति दिए सक्छ"
+            },
+            {
+              "textEn": "Yes, for up to one year",
+              "textNe": "एक वर्षसम्म सक्छ"
+            }
+          ],
+          "correctAnswerIndex": 1,
+          "explanationEn": "No one can sit in the House of Representatives and the National Assembly at the same time.",
+          "explanationNe": "कुनै पनि व्यक्ति एकै पटक प्रतिनिधि सभा र राष्ट्रिय सभा दुवैको सदस्य हुन सक्दैन।",
+          "source": {
+            "article": "87",
+            "clause": "2",
+            "quoteNe": "कुनै पनि व्यक्ति एकै पटक दुवै सदनको सदस्य हुन सक्ने छैन ।",
+            "quoteEn": "No person shall be a member of both Houses at the same time."
+          }
+        },
+        {
+          "difficulty": "easy",
+          "questionEn": "Which of these does the Constitution call a permanent house?",
+          "questionNe": "संविधानले यीमध्ये कुनलाई स्थायी सदन भनेको छ?",
+          "options": [
+            {
+              "textEn": "The National Assembly",
+              "textNe": "राष्ट्रिय सभा"
+            },
+            {
+              "textEn": "The House of Representatives",
+              "textNe": "प्रतिनिधि सभा"
+            },
+            {
+              "textEn": "A Provincial Assembly",
+              "textNe": "प्रदेश सभा"
+            },
+            {
+              "textEn": "A Village Assembly",
+              "textNe": "गाउँ सभा"
+            }
+          ],
+          "correctAnswerIndex": 0,
+          "explanationEn": "The National Assembly is a permanent house; instead of the whole house ending, one third of its members' terms end every two years.",
+          "explanationNe": "राष्ट्रिय सभा स्थायी सदन हो; यसका एक तिहाइ सदस्यको पदावधि प्रत्येक दुई वर्षमा समाप्त हुन्छ।",
+          "source": {
+            "article": "86",
+            "clause": "1",
+            "quoteNe": "राष्ट्रिय सभा एक स्थायी सदन हुनेछ ।",
+            "quoteEn": "National Assembly shall be a permanent house."
+          }
+        },
+        {
+          "difficulty": "medium",
+          "questionEn": "Unless it is dissolved early, how long is the term of the House of Representatives?",
+          "questionNe": "अगावै विघटन नभएमा प्रतिनिधि सभाको कार्यकाल कति वर्षको हुन्छ?",
+          "options": [
+            {
+              "textEn": "Three years",
+              "textNe": "तीन वर्ष"
+            },
+            {
+              "textEn": "Five years",
+              "textNe": "पाँच वर्ष"
+            },
+            {
+              "textEn": "Seven years",
+              "textNe": "सात वर्ष"
+            },
+            {
+              "textEn": "Ten years",
+              "textNe": "दश वर्ष"
+            }
+          ],
+          "correctAnswerIndex": 1,
+          "explanationEn": "The House of Representatives is elected for five years, unless it is dissolved earlier under the Constitution.",
+          "explanationNe": "संविधान बमोजिम अगावै विघटन नभएमा प्रतिनिधि सभाको कार्यकाल पाँच वर्षको हुन्छ।",
+          "source": {
+            "article": "85",
+            "clause": "1",
+            "quoteNe": "यस संविधान बमोजिम अगावै विघटन भएकोमा बाहेक प्रतिनिधि सभाको कार्यकाल पाँच वर्षको हुनेछ ।",
+            "quoteEn": "Unless dissolved earlier pursuant to this Constitution, the term of the House of Representatives shall be five years."
+          }
+        },
+        {
+          "difficulty": "medium",
+          "questionEn": "What does the Constitution require when electing the Speaker and Deputy Speaker of the House of Representatives?",
+          "questionNe": "प्रतिनिधि सभाको सभामुख र उपसभामुखको निर्वाचन गर्दा संविधानले के अनिवार्य गरेको छ?",
+          "options": [
+            {
+              "textEn": "Both must come from the largest party",
+              "textNe": "दुवै सबैभन्दा ठूलो दलबाट हुनु पर्छ"
+            },
+            {
+              "textEn": "Both must be over 60 years old",
+              "textNe": "दुवैको उमेर ६० वर्षभन्दा बढी हुनु पर्छ"
+            },
+            {
+              "textEn": "Both must be appointed by the President",
+              "textNe": "दुवैलाई राष्ट्रपतिले नियुक्त गर्नु पर्छ"
+            },
+            {
+              "textEn": "One of them must be a woman, and they must be from different parties",
+              "textNe": "एक जना महिला हुनु पर्छ र दुवै फरक फरक दलका हुनु पर्छ"
+            }
+          ],
+          "correctAnswerIndex": 3,
+          "explanationEn": "One of the Speaker and Deputy Speaker must be a woman, and they must normally come from different parties.",
+          "explanationNe": "सभामुख र उपसभामुखमध्ये एक जना महिला हुनु पर्छ, र सामान्यतया दुवै फरक फरक दलका हुनु पर्छ।",
+          "source": {
+            "article": "91",
+            "clause": "2",
+            "quoteNe": "उपधारा (१) बमोजिम निर्वाचन गर्दा प्रतिनिधि सभाको सभामुख र उपसभामुख मध्ये एक जना महिला हुने गरी गर्नु पर्नेछ र प्रतिनिधि सभाको सभामुख र उपसभामुख फरक फरक दलको प्रतिनिधि हुनु पर्नेछ ।",
+            "quoteEn": "While electing Speaker and Deputy Speaker as per clause (1), either Speaker or Deputy Speaker shall be a woman and belong to different parties."
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "theme": "courts-commissions",
+      "questions": [
+        {
+          "difficulty": "easy",
+          "questionEn": "Unless the Constitution says otherwise, all courts and judicial bodies come under which court?",
+          "questionNe": "संविधानमा अन्यथा व्यवस्था भएकोमा बाहेक सबै अदालत र न्यायिक निकायहरू कुन अदालतको मातहतमा रहन्छन्?",
+          "options": [
+            {
+              "textEn": "The District Court",
+              "textNe": "जिल्ला अदालत"
+            },
+            {
+              "textEn": "The Supreme Court",
+              "textNe": "सर्वोच्च अदालत"
+            },
+            {
+              "textEn": "The High Court",
+              "textNe": "उच्च अदालत"
+            },
+            {
+              "textEn": "The Election Commission",
+              "textNe": "निर्वाचन आयोग"
+            }
+          ],
+          "correctAnswerIndex": 1,
+          "explanationEn": "The Supreme Court is a court of record, and all other courts and judicial bodies are under it.",
+          "explanationNe": "सर्वोच्च अदालत अभिलेख अदालत हो, र अन्य सबै अदालत तथा न्यायिक निकाय यसको मातहतमा रहन्छन्।",
+          "source": {
+            "article": "128",
+            "clause": "2",
+            "quoteNe": "यस संविधानमा अन्यथा व्यवस्था भएकोमा बाहेक सबै अदालत र न्यायिक निकायहरू सर्वोच्च अदालत मातहत रहनेछन् ।",
+            "quoteEn": "Unless otherwise provided in this Constitution, all other courts and judicial institutions shall be under the Supreme Court."
+          }
+        },
+        {
+          "difficulty": "easy",
+          "questionEn": "Who acts as the chairperson of the Election Commission?",
+          "questionNe": "निर्वाचन आयोगको अध्यक्ष भई कसले काम गर्छ?",
+          "options": [
+            {
+              "textEn": "The Prime Minister",
+              "textNe": "प्रधानमन्त्री"
+            },
+            {
+              "textEn": "The Chief Justice",
+              "textNe": "प्रधान न्यायाधीश"
+            },
+            {
+              "textEn": "The Speaker",
+              "textNe": "सभामुख"
+            },
+            {
+              "textEn": "The Chief Election Commissioner",
+              "textNe": "प्रमुख निर्वाचन आयुक्त"
+            }
+          ],
+          "correctAnswerIndex": 3,
+          "explanationEn": "The Election Commission has a Chief Election Commissioner, who chairs it, and four other commissioners.",
+          "explanationNe": "निर्वाचन आयोगमा प्रमुख निर्वाचन आयुक्त र अन्य चार जना आयुक्त हुन्छन्; प्रमुख निर्वाचन आयुक्तले आयोगको अध्यक्षता गर्छन्।",
+          "source": {
+            "article": "245",
+            "clause": "1",
+            "quoteNe": "प्रमुख निर्वाचन आयुक्तले निर्वाचन आयोगको अध्यक्ष भई काम गर्नेछ ।",
+            "quoteEn": "The Chief Election Commissioner shall act as the Chairperson of the Election Commission."
+          }
+        },
+        {
+          "difficulty": "easy",
+          "questionEn": "Who can be appointed chairperson or member of the National Dalit Commission?",
+          "questionNe": "राष्ट्रिय दलित आयोगको अध्यक्ष वा सदस्यमा को नियुक्त हुन सक्छ?",
+          "options": [
+            {
+              "textEn": "A Dalit who has made a significant contribution for at least ten years to Dalit rights, human rights or law",
+              "textNe": "कम्तीमा दश वर्ष दलित समुदायको हक हित वा मानव अधिकार र कानूनको क्षेत्रमा महत्वपूर्ण योगदान पुर्‍याएको दलित"
+            },
+            {
+              "textEn": "Any serving minister",
+              "textNe": "बहालवाला जुनसुकै मन्त्री"
+            },
+            {
+              "textEn": "Any active member of a political party",
+              "textNe": "राजनीतिक दलको जुनसुकै सक्रिय सदस्य"
+            },
+            {
+              "textEn": "A foreign human rights expert",
+              "textNe": "विदेशी मानव अधिकार विज्ञ"
+            }
+          ],
+          "correctAnswerIndex": 0,
+          "explanationEn": "Members of the National Dalit Commission must be Dalits who have made an important contribution to Dalit rights, human rights or law for at least ten years.",
+          "explanationNe": "राष्ट्रिय दलित आयोगका पदाधिकारी कम्तीमा दश वर्ष दलित हक हित वा मानव अधिकार र कानूनको क्षेत्रमा महत्वपूर्ण योगदान पुर्‍याएका दलित हुनु पर्छ।",
+          "source": {
+            "article": "255",
+            "clause": "6",
+            "quoteNe": "कम्तीमा दश वर्ष दलित समुदायको हक हित वा मानव अधिकार र कानूनको क्षेत्रमा महत्वपूर्ण योगदान पुर्‍याएको दलित,",
+            "quoteEn": "a person from Dalit community who has significantly contributed to Dalit welfare, human rights and in the legal field for at least ten years,"
+          }
+        },
+        {
+          "difficulty": "medium",
+          "questionEn": "What is the term of office of the commissioners of the Commission for the Investigation of Abuse of Authority?",
+          "questionNe": "अख्तियार दुरुपयोग अनुसन्धान आयोगका प्रमुख आयुक्त र आयुक्तको पदावधि कति वर्षको हुन्छ?",
+          "options": [
+            {
+              "textEn": "Two years",
+              "textNe": "दुई वर्ष"
+            },
+            {
+              "textEn": "Four years",
+              "textNe": "चार वर्ष"
+            },
+            {
+              "textEn": "Six years",
+              "textNe": "छ वर्ष"
+            },
+            {
+              "textEn": "Ten years",
+              "textNe": "दश वर्ष"
+            }
+          ],
+          "correctAnswerIndex": 2,
+          "explanationEn": "The Chief Commissioner and Commissioners of the CIAA serve six years from appointment and cannot be reappointed.",
+          "explanationNe": "अख्तियार दुरुपयोग अनुसन्धान आयोगका प्रमुख आयुक्त र आयुक्तको पदावधि नियुक्तिको मितिले छ वर्षको हुन्छ र पुनः नियुक्ति हुँदैन।",
+          "source": {
+            "article": "238",
+            "clause": "3",
+            "quoteNe": "प्रमुख आयुक्त र आयुक्तको पदावधि नियुक्तिको मितिले छ वर्षको हुनेछ ।",
+            "quoteEn": "The term of office of the Chief Commissioner and other Commissioners shall be six years from the date of appointment."
+          }
+        },
+        {
+          "difficulty": "medium",
+          "questionEn": "Who appoints the chairperson and members of the Public Service Commission?",
+          "questionNe": "लोक सेवा आयोगका अध्यक्ष र सदस्यको नियुक्ति कसले गर्छ?",
+          "options": [
+            {
+              "textEn": "The Prime Minister, on their own",
+              "textNe": "प्रधानमन्त्री आफैंले"
+            },
+            {
+              "textEn": "The Chief Justice",
+              "textNe": "प्रधान न्यायाधीश"
+            },
+            {
+              "textEn": "The President, on the recommendation of the Constitutional Council",
+              "textNe": "संवैधानिक परिषदको सिफारिसमा राष्ट्रपति"
+            },
+            {
+              "textEn": "The Speaker of the House of Representatives",
+              "textNe": "प्रतिनिधि सभाका सभामुख"
+            }
+          ],
+          "correctAnswerIndex": 2,
+          "explanationEn": "Like most constitutional commissions, the Public Service Commission is appointed by the President on the Constitutional Council's recommendation.",
+          "explanationNe": "धेरैजसो संवैधानिक आयोग जस्तै लोक सेवा आयोगका अध्यक्ष र सदस्य पनि संवैधानिक परिषदको सिफारिसमा राष्ट्रपतिले नियुक्त गर्छन्।",
+          "source": {
+            "article": "242",
+            "clause": "2",
+            "quoteNe": "राष्ट्रपतिले संवैधानिक परिषदको सिफारिसमा लोक सेवा आयोगका अध्यक्ष र सदस्यको नियुक्ति गर्नेछ ।",
+            "quoteEn": "The President shall, on the recommendation of the Constitutional Council, appoint the Chairperson and members of the Public Service Commission."
+          }
+        }
+      ]
+    }
+  ]
+}

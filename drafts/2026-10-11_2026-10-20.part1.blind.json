@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "ref": "2026-10-11#1",
+      "article": "4",
+      "questionEn": "How does the Constitution describe the State of Nepal with respect to religion?",
+      "questionNe": "धर्मको सम्बन्धमा संविधानले नेपाल राज्यलाई कस्तो भनेको छ?",
+      "options": {
+        "A": {
+          "textEn": "A Buddhist state",
+          "textNe": "बौद्ध राज्य"
+        },
+        "B": {
+          "textEn": "A Hindu kingdom",
+          "textNe": "हिन्दु अधिराज्य"
+        },
+        "C": {
+          "textEn": "Secular",
+          "textNe": "धर्मनिरपेक्ष"
+        },
+        "D": {
+          "textEn": "A state with one official religion",
+          "textNe": "एउटै राजकीय धर्म भएको राज्य"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-11#2",
+      "article": "9",
+      "questionEn": "Which animal does the Constitution name as Nepal's national animal?",
+      "questionNe": "संविधानले नेपालको राष्ट्रिय जनावर कुन जनावरलाई तोकेको छ?",
+      "options": {
+        "A": {
+          "textEn": "Tiger",
+          "textNe": "बाघ"
+        },
+        "B": {
+          "textEn": "Cow",
+          "textNe": "गाई"
+        },
+        "C": {
+          "textEn": "One-horned rhinoceros",
+          "textNe": "एकसिंगे गैंडा"
+        },
+        "D": {
+          "textEn": "Yak",
+          "textNe": "चौंरी"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-11#3",
+      "article": "8",
+      "questionEn": "What colour is the border of Nepal's national flag?",
+      "questionNe": "नेपालको राष्ट्रिय झण्डाको किनारा कुन रंगको हुन्छ?",
+      "options": {
+        "A": {
+          "textEn": "Black",
+          "textNe": "कालो"
+        },
+        "B": {
+          "textEn": "Gold",
+          "textNe": "सुनौलो"
+        },
+        "C": {
+          "textEn": "Green",
+          "textNe": "हरियो"
+        },
+        "D": {
+          "textEn": "Deep blue",
+          "textNe": "गाढा नीलो"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-11#4",
+      "article": "9",
+      "questionEn": "What is Nepal's national colour under the Constitution?",
+      "questionNe": "संविधान अनुसार नेपालको राष्ट्रिय रंग कुन हो?",
+      "options": {
+        "A": {
+          "textEn": "Sky blue",
+          "textNe": "आकासे नीलो"
+        },
+        "B": {
+          "textEn": "Saffron",
+          "textNe": "केसरी"
+        },
+        "C": {
+          "textEn": "Green",
+          "textNe": "हरियो"
+        },
+        "D": {
+          "textEn": "Crimson",
+          "textNe": "सिम्रिक"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-11#5",
+      "article": "S4",
+      "questionEn": "In the Constitution's list of provinces and districts, Kathmandu district is in which province?",
+      "questionNe": "संविधानको प्रदेश र जिल्लाहरूको सूची अनुसार काठमाडौं जिल्ला कुन प्रदेशमा पर्छ?",
+      "options": {
+        "A": {
+          "textEn": "Province No. 5",
+          "textNe": "प्रदेश नं. ५"
+        },
+        "B": {
+          "textEn": "Province No. 1",
+          "textNe": "प्रदेश नं. १"
+        },
+        "C": {
+          "textEn": "Province No. 7",
+          "textNe": "प्रदेश नं. ७"
+        },
+        "D": {
+          "textEn": "Province No. 3",
+          "textNe": "प्रदेश नं. ३"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-12#1",
+      "article": "30",
+      "questionEn": "What right does the Constitution give every citizen about the environment?",
+      "questionNe": "वातावरणका सम्बन्धमा संविधानले प्रत्येक नागरिकलाई कस्तो हक दिएको छ?",
+      "options": {
+        "A": {
+          "textEn": "To dump waste in rivers",
+          "textNe": "नदीमा फोहोर फाल्न पाउने"
+        },
+        "B": {
+          "textEn": "To live in a clean and healthy environment",
+          "textNe": "स्वच्छ र स्वस्थ वातावरणमा बाँच्न पाउने"
+        },
+        "C": {
+          "textEn": "To receive free land in any city",
+          "textNe": "जुनसुकै शहरमा निःशुल्क जग्गा पाउने"
+        },
+        "D": {
+          "textEn": "To cut any forest freely",
+          "textNe": "कुनै पनि वन स्वतन्त्र रूपमा काट्ने"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-12#2",
+      "article": "39",
+      "questionEn": "Under the rights of the child, every child has the right to a name with identity and what else?",
+      "questionNe": "बालबालिकाको हक अनुसार प्रत्येक बालबालिकालाई आफ्नो पहिचानसहित नामकरण र अरू केको हक छ?",
+      "options": {
+        "A": {
+          "textEn": "A bank loan",
+          "textNe": "बैंक ऋण"
+        },
+        "B": {
+          "textEn": "A driving licence",
+          "textNe": "सवारी चालक अनुमतिपत्र"
+        },
+        "C": {
+          "textEn": "Birth registration",
+          "textNe": "जन्मदर्ता"
+        },
+        "D": {
+          "textEn": "A passport",
+          "textNe": "राहदानी"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-12#3",
+      "article": "29",
+      "questionEn": "What does the right against exploitation say about selling people or keeping them as slaves?",
+      "questionNe": "शोषण विरुद्धको हकले मानिस बेचबिखन गर्ने वा दास बनाउने बारे के भन्छ?",
+      "options": {
+        "A": {
+          "textEn": "Each province decides for itself",
+          "textNe": "प्रत्येक प्रदेशले आफैं निर्णय गर्छ"
+        },
+        "B": {
+          "textEn": "It is allowed if the family agrees",
+          "textNe": "परिवार सहमत भए गर्न पाइन्छ"
+        },
+        "C": {
+          "textEn": "It is allowed where local custom permits",
+          "textNe": "स्थानीय प्रथाले दिए गर्न पाइन्छ"
+        },
+        "D": {
+          "textEn": "No one may be sold, or made a slave or bonded labourer",
+          "textNe": "कसैलाई पनि बेचबिखन गर्न, दास वा बाँधा बनाउन पाइँदैन"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-12#4",
+      "article": "34",
+      "questionEn": "Under the right to labour, what may every worker form and take part in?",
+      "questionNe": "श्रमको हक अनुसार प्रत्येक श्रमिकले के खोल्न र त्यसमा सहभागी हुन पाउँछ?",
+      "options": {
+        "A": {
+          "textEn": "A provincial assembly",
+          "textNe": "प्रदेश सभा"
+        },
+        "B": {
+          "textEn": "An armed group",
+          "textNe": "सशस्त्र समूह"
+        },
+        "C": {
+          "textEn": "A constitutional commission",
+          "textNe": "संवैधानिक आयोग"
+        },
+        "D": {
+          "textEn": "A trade union",
+          "textNe": "ट्रेड युनियन"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-12#5",
+      "article": "41",
+      "questionEn": "What do senior citizens have the right to receive from the State?",
+      "questionNe": "ज्येष्ठ नागरिकलाई राज्यबाट के पाउने हक छ?",
+      "options": {
+        "A": {
+          "textEn": "A reserved seat in the National Assembly",
+          "textNe": "राष्ट्रिय सभामा आरक्षित सिट"
+        },
+        "B": {
+          "textEn": "Special protection and social security",
+          "textNe": "विशेष संरक्षण तथा सामाजिक सुरक्षा"
+        },
+        "C": {
+          "textEn": "Exemption from all laws",
+          "textNe": "सबै कानूनबाट छुट"
+        },
+        "D": {
+          "textEn": "Free foreign travel every year",
+          "textNe": "हरेक वर्ष निःशुल्क विदेश भ्रमण"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-13#1",
+      "article": "67",
+      "questionEn": "Who carries out the President's functions when the President is absent?",
+      "questionNe": "राष्ट्रपतिको अनुपस्थितिमा राष्ट्रपतिका कार्यहरू कसले सम्पादन गर्छ?",
+      "options": {
+        "A": {
+          "textEn": "The Speaker",
+          "textNe": "सभामुख"
+        },
+        "B": {
+          "textEn": "The Prime Minister",
+          "textNe": "प्रधानमन्त्री"
+        },
+        "C": {
+          "textEn": "The Chief Justice",
+          "textNe": "प्रधान न्यायाधीश"
+        },
+        "D": {
+          "textEn": "The Vice-President",
+          "textNe": "उपराष्ट्रपति"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-13#2",
+      "article": "74",
+      "questionEn": "What form of governance does the Constitution set for Nepal?",
+      "questionNe": "संविधानले नेपालको शासकीय स्वरूप कस्तो तोकेको छ?",
+      "options": {
+        "A": {
+          "textEn": "Military rule",
+          "textNe": "सैनिक शासन"
+        },
+        "B": {
+          "textEn": "A single-party system",
+          "textNe": "एकदलीय शासन प्रणाली"
+        },
+        "C": {
+          "textEn": "A multi-party, competitive, federal democratic republican parliamentary system",
+          "textNe": "बहुदलीय प्रतिस्पर्धात्मक संघीय लोकतान्त्रिक गणतन्त्रात्मक संसदीय शासन प्रणाली"
+        },
+        "D": {
+          "textEn": "A constitutional monarchy",
+          "textNe": "संवैधानिक राजतन्त्र"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-13#3",
+      "article": "77",
+      "questionEn": "To whom does the Prime Minister submit a written resignation?",
+      "questionNe": "प्रधानमन्त्रीले लिखित राजीनामा कसलाई दिन्छन्?",
+      "options": {
+        "A": {
+          "textEn": "The Election Commission",
+          "textNe": "निर्वाचन आयोग"
+        },
+        "B": {
+          "textEn": "The President",
+          "textNe": "राष्ट्रपति"
+        },
+        "C": {
+          "textEn": "The Chief Justice",
+          "textNe": "प्रधान न्यायाधीश"
+        },
+        "D": {
+          "textEn": "The Speaker",
+          "textNe": "सभामुख"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-13#4",
+      "article": "62",
+      "questionEn": "Which body votes to elect Nepal's President?",
+      "questionNe": "नेपालको राष्ट्रपतिको निर्वाचन कसले गर्छ?",
+      "options": {
+        "A": {
+          "textEn": "The Supreme Court",
+          "textNe": "सर्वोच्च अदालत"
+        },
+        "B": {
+          "textEn": "All voters directly",
+          "textNe": "सबै मतदाताले प्रत्यक्ष रूपमा"
+        },
+        "C": {
+          "textEn": "The Council of Ministers",
+          "textNe": "मन्त्रिपरिषद्"
+        },
+        "D": {
+          "textEn": "An electoral college of members of the Federal Parliament and the Provincial Assemblies",
+          "textNe": "संघीय संसद र प्रदेश सभाका सदस्य रहेको निर्वाचक मण्डल"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-13#5",
+      "article": "78",
+      "questionEn": "A minister appointed from outside the Federal Parliament must become a member of it within what time?",
+      "questionNe": "संघीय संसदको सदस्य नभएको व्यक्ति मन्त्री नियुक्त भएमा कति समयभित्र संघीय संसदको सदस्यता प्राप्त गर्नु पर्छ?",
+      "options": {
+        "A": {
+          "textEn": "Two years",
+          "textNe": "दुई वर्ष"
+        },
+        "B": {
+          "textEn": "Five years",
+          "textNe": "पाँच वर्ष"
+        },
+        "C": {
+          "textEn": "Six months",
+          "textNe": "छ महीना"
+        },
+        "D": {
+          "textEn": "One week",
+          "textNe": "एक हप्ता"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-14#1",
+      "article": "83",
+      "questionEn": "What is Nepal's federal legislature, with its two houses, called?",
+      "questionNe": "दुई सदन भएको नेपालको संघीय व्यवस्थापिकालाई के भनिन्छ?",
+      "options": {
+        "A": {
+          "textEn": "The National Panchayat",
+          "textNe": "राष्ट्रिय पञ्चायत"
+        },
+        "B": {
+          "textEn": "The Federal Parliament",
+          "textNe": "संघीय संसद"
+        },
+        "C": {
+          "textEn": "The Provincial Assembly",
+          "textNe": "प्रदेश सभा"
+        },
+        "D": {
+          "textEn": "The Constituent Assembly",
+          "textNe": "संविधान सभा"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-14#2",
+      "article": "87",
+      "questionEn": "Can one person be a member of both houses of the Federal Parliament at the same time?",
+      "questionNe": "एउटै व्यक्ति एकै पटक संघीय संसदका दुवै सदनको सदस्य हुन सक्छ?",
+      "options": {
+        "A": {
+          "textEn": "Yes, always",
+          "textNe": "सक्छ, जहिले पनि"
+        },
+        "B": {
+          "textEn": "No",
+          "textNe": "सक्दैन"
+        },
+        "C": {
+          "textEn": "Yes, if the President allows it",
+          "textNe": "राष्ट्रपतिले अनुमति दिए सक्छ"
+        },
+        "D": {
+          "textEn": "Yes, for up to one year",
+          "textNe": "एक वर्षसम्म सक्छ"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-14#3",
+      "article": "86",
+      "questionEn": "Which of these does the Constitution call a permanent house?",
+      "questionNe": "संविधानले यीमध्ये कुनलाई स्थायी सदन भनेको छ?",
+      "options": {
+        "A": {
+          "textEn": "The House of Representatives",
+          "textNe": "प्रतिनिधि सभा"
+        },
+        "B": {
+          "textEn": "A Village Assembly",
+          "textNe": "गाउँ सभा"
+        },
+        "C": {
+          "textEn": "The National Assembly",
+          "textNe": "राष्ट्रिय सभा"
+        },
+        "D": {
+          "textEn": "A Provincial Assembly",
+          "textNe": "प्रदेश सभा"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-14#4",
+      "article": "86",
+      "questionEn": "What is the total membership of the National Assembly?",
+      "questionNe": "राष्ट्रिय सभामा कति सदस्य रहन्छन्?",
+      "options": {
+        "A": {
+          "textEn": "110",
+          "textNe": "११०"
+        },
+        "B": {
+          "textEn": "275",
+          "textNe": "२७५"
+        },
+        "C": {
+          "textEn": "33",
+          "textNe": "३३"
+        },
+        "D": {
+          "textEn": "59",
+          "textNe": "५९"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-14#5",
+      "article": "91",
+      "questionEn": "What does the Constitution require when electing the Speaker and Deputy Speaker of the House of Representatives?",
+      "questionNe": "प्रतिनिधि सभाको सभामुख र उपसभामुखको निर्वाचन गर्दा संविधानले के अनिवार्य गरेको छ?",
+      "options": {
+        "A": {
+          "textEn": "Both must come from the largest party",
+          "textNe": "दुवै सबैभन्दा ठूलो दलबाट हुनु पर्छ"
+        },
+        "B": {
+          "textEn": "Both must be appointed by the President",
+          "textNe": "दुवैलाई राष्ट्रपतिले नियुक्त गर्नु पर्छ"
+        },
+        "C": {
+          "textEn": "One of them must be a woman, and they must be from different parties",
+          "textNe": "एक जना महिला हुनु पर्छ र दुवै फरक फरक दलका हुनु पर्छ"
+        },
+        "D": {
+          "textEn": "Both must be over 60 years old",
+          "textNe": "दुवैको उमेर ६० वर्षभन्दा बढी हुनु पर्छ"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-15#1",
+      "article": "128",
+      "questionEn": "Unless the Constitution says otherwise, all courts and judicial bodies come under which court?",
+      "questionNe": "संविधानमा अन्यथा व्यवस्था भएकोमा बाहेक सबै अदालत र न्यायिक निकायहरू कुन अदालतको मातहतमा रहन्छन्?",
+      "options": {
+        "A": {
+          "textEn": "The Election Commission",
+          "textNe": "निर्वाचन आयोग"
+        },
+        "B": {
+          "textEn": "The District Court",
+          "textNe": "जिल्ला अदालत"
+        },
+        "C": {
+          "textEn": "The High Court",
+          "textNe": "उच्च अदालत"
+        },
+        "D": {
+          "textEn": "The Supreme Court",
+          "textNe": "सर्वोच्च अदालत"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-15#2",
+      "article": "245",
+      "questionEn": "Who acts as the chairperson of the Election Commission?",
+      "questionNe": "निर्वाचन आयोगको अध्यक्ष भई कसले काम गर्छ?",
+      "options": {
+        "A": {
+          "textEn": "The Prime Minister",
+          "textNe": "प्रधानमन्त्री"
+        },
+        "B": {
+          "textEn": "The Chief Election Commissioner",
+          "textNe": "प्रमुख निर्वाचन आयुक्त"
+        },
+        "C": {
+          "textEn": "The Chief Justice",
+          "textNe": "प्रधान न्यायाधीश"
+        },
+        "D": {
+          "textEn": "The Speaker",
+          "textNe": "सभामुख"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-15#3",
+      "article": "255",
+      "questionEn": "Who can be appointed chairperson or member of the National Dalit Commission?",
+      "questionNe": "राष्ट्रिय दलित आयोगको अध्यक्ष वा सदस्यमा को नियुक्त हुन सक्छ?",
+      "options": {
+        "A": {
+          "textEn": "A Dalit who has contributed for at least ten years to Dalit rights, human rights or law",
+          "textNe": "कम्तीमा दश वर्ष दलित समुदायको हक हित वा मानव अधिकार र कानूनको क्षेत्रमा योगदान पुर्‍याएको दलित"
+        },
+        "B": {
+          "textEn": "A foreign human rights expert",
+          "textNe": "विदेशी मानव अधिकार विज्ञ"
+        },
+        "C": {
+          "textEn": "Any active member of a political party",
+          "textNe": "राजनीतिक दलको जुनसुकै सक्रिय सदस्य"
+        },
+        "D": {
+          "textEn": "Any serving minister",
+          "textNe": "बहालवाला जुनसुकै मन्त्री"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-15#4",
+      "article": "238",
+      "questionEn": "What is the term of office of the commissioners of the Commission for the Investigation of Abuse of Authority?",
+      "questionNe": "अख्तियार दुरुपयोग अनुसन्धान आयोगका प्रमुख आयुक्त र आयुक्तको पदावधि कति वर्षको हुन्छ?",
+      "options": {
+        "A": {
+          "textEn": "Four years",
+          "textNe": "चार वर्ष"
+        },
+        "B": {
+          "textEn": "Ten years",
+          "textNe": "दश वर्ष"
+        },
+        "C": {
+          "textEn": "Two years",
+          "textNe": "दुई वर्ष"
+        },
+        "D": {
+          "textEn": "Six years",
+          "textNe": "छ वर्ष"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-15#5",
+      "article": "242",
+      "questionEn": "At what age does the chairperson or a member of the Public Service Commission leave office?",
+      "questionNe": "लोक सेवा आयोगको अध्यक्ष वा सदस्यको पद कति वर्ष उमेर पूरा भएपछि रिक्त हुन्छ?",
+      "options": {
+        "A": {
+          "textEn": "50",
+          "textNe": "५०"
+        },
+        "B": {
+          "textEn": "75",
+          "textNe": "७५"
+        },
+        "C": {
+          "textEn": "65",
+          "textNe": "६५"
+        },
+        "D": {
+          "textEn": "58",
+          "textNe": "५८"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-16#1",
+      "article": "216",
+      "questionEn": "Who chairs the municipal executive in each municipality?",
+      "questionNe": "प्रत्येक नगरपालिकामा नगर कार्यपालिकाको अध्यक्षता कसले गर्छ?",
+      "options": {
+        "A": {
+          "textEn": "The Province Chief",
+          "textNe": "प्रदेश प्रमुख"
+        },
+        "B": {
+          "textEn": "The Chief District Officer",
+          "textNe": "प्रमुख जिल्ला अधिकारी"
+        },
+        "C": {
+          "textEn": "The Chief Minister",
+          "textNe": "मुख्यमन्त्री"
+        },
+        "D": {
+          "textEn": "The Mayor (Pramukh)",
+          "textNe": "नगर कार्यपालिका प्रमुख"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-16#2",
+      "article": "220",
+      "questionEn": "Why does the Constitution set up a District Assembly in each district?",
+      "questionNe": "संविधानले प्रत्येक जिल्लामा जिल्ला सभा किन राखेको छ?",
+      "options": {
+        "A": {
+          "textEn": "To coordinate among the rural municipalities and municipalities in the district",
+          "textNe": "जिल्लाभित्रका गाउँपालिका र नगरपालिकाहरूबीच समन्वय गर्न"
+        },
+        "B": {
+          "textEn": "To hear criminal cases",
+          "textNe": "फौजदारी मुद्दा हेर्न"
+        },
+        "C": {
+          "textEn": "To make federal laws",
+          "textNe": "संघीय कानून बनाउन"
+        },
+        "D": {
+          "textEn": "To appoint the Province Chief",
+          "textNe": "प्रदेश प्रमुख नियुक्त गर्न"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-16#3",
+      "article": "169",
+      "questionEn": "To whom does a Chief Minister submit a written resignation?",
+      "questionNe": "मुख्यमन्त्रीले लिखित राजीनामा कसलाई दिन्छन्?",
+      "options": {
+        "A": {
+          "textEn": "The President",
+          "textNe": "राष्ट्रपति"
+        },
+        "B": {
+          "textEn": "The Chief Justice",
+          "textNe": "प्रधान न्यायाधीश"
+        },
+        "C": {
+          "textEn": "The Election Commission",
+          "textNe": "निर्वाचन आयोग"
+        },
+        "D": {
+          "textEn": "The Province Chief",
+          "textNe": "प्रदेश प्रमुख"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-16#4",
+      "article": "164",
+      "questionEn": "What is the minimum age to become a Province Chief?",
+      "questionNe": "प्रदेश प्रमुख हुन कम्तीमा कति वर्ष उमेर पूरा भएको हुनु पर्छ?",
+      "options": {
+        "A": {
+          "textEn": "35 years",
+          "textNe": "३५ वर्ष"
+        },
+        "B": {
+          "textEn": "21 years",
+          "textNe": "२१ वर्ष"
+        },
+        "C": {
+          "textEn": "60 years",
+          "textNe": "६० वर्ष"
+        },
+        "D": {
+          "textEn": "50 years",
+          "textNe": "५० वर्ष"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-16#5",
+      "article": "176",
+      "questionEn": "What share of Provincial Assembly members are elected by the first-past-the-post system?",
+      "questionNe": "प्रदेश सभाका कति प्रतिशत सदस्य पहिलो हुने निर्वाचित हुने निर्वाचन प्रणालीबाट निर्वाचित हुन्छन्?",
+      "options": {
+        "A": {
+          "textEn": "40 percent",
+          "textNe": "४० प्रतिशत"
+        },
+        "B": {
+          "textEn": "60 percent",
+          "textNe": "६० प्रतिशत"
+        },
+        "C": {
+          "textEn": "100 percent",
+          "textNe": "१०० प्रतिशत"
+        },
+        "D": {
+          "textEn": "25 percent",
+          "textNe": "२५ प्रतिशत"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-17#1",
+      "article": "9",
+      "questionEn": "Which bird is Nepal's national bird under the Constitution?",
+      "questionNe": "संविधान अनुसार नेपालको राष्ट्रिय पक्षी कुन हो?",
+      "options": {
+        "A": {
+          "textEn": "Peacock",
+          "textNe": "मयूर"
+        },
+        "B": {
+          "textEn": "Crow",
+          "textNe": "काग"
+        },
+        "C": {
+          "textEn": "Pigeon",
+          "textNe": "परेवा"
+        },
+        "D": {
+          "textEn": "Danphe (Himalayan monal)",
+          "textNe": "डाँफे"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-17#2",
+      "article": "32",
+      "questionEn": "Under the right to language and culture, what right does every person and community have?",
+      "questionNe": "भाषा तथा संस्कृतिको हक अनुसार प्रत्येक व्यक्ति र समुदायलाई कस्तो हक छ?",
+      "options": {
+        "A": {
+          "textEn": "To form their own army",
+          "textNe": "आफ्नै सेना खडा गर्ने"
+        },
+        "B": {
+          "textEn": "To be exempt from all taxes",
+          "textNe": "सबै करबाट छुट पाउने"
+        },
+        "C": {
+          "textEn": "To print their own currency",
+          "textNe": "आफ्नै मुद्रा छाप्ने"
+        },
+        "D": {
+          "textEn": "To use their own language",
+          "textNe": "आफ्नो भाषा प्रयोग गर्ने"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-17#3",
+      "article": "215",
+      "questionEn": "For how many years is the chairperson of a rural municipality elected?",
+      "questionNe": "गाउँ कार्यपालिकाको अध्यक्ष कति वर्षका लागि निर्वाचित हुन्छन्?",
+      "options": {
+        "A": {
+          "textEn": "Five years",
+          "textNe": "पाँच वर्ष"
+        },
+        "B": {
+          "textEn": "Seven years",
+          "textNe": "सात वर्ष"
+        },
+        "C": {
+          "textEn": "Two years",
+          "textNe": "दुई वर्ष"
+        },
+        "D": {
+          "textEn": "Ten years",
+          "textNe": "दश वर्ष"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-17#4",
+      "article": "87",
+      "questionEn": "How old must a person be to become a member of the House of Representatives?",
+      "questionNe": "प्रतिनिधि सभाको सदस्य हुन कम्तीमा कति वर्ष उमेर पूरा भएको हुनु पर्छ?",
+      "options": {
+        "A": {
+          "textEn": "40 years",
+          "textNe": "४० वर्ष"
+        },
+        "B": {
+          "textEn": "60 years",
+          "textNe": "६० वर्ष"
+        },
+        "C": {
+          "textEn": "18 years",
+          "textNe": "१८ वर्ष"
+        },
+        "D": {
+          "textEn": "25 years",
+          "textNe": "२५ वर्ष"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-17#5",
+      "article": "222",
+      "questionEn": "Who makes up a ward committee in a rural municipality?",
+      "questionNe": "गाउँपालिकाको वडा समितिमा को को रहन्छन्?",
+      "options": {
+        "A": {
+          "textEn": "Two ministers and a judge",
+          "textNe": "दुई जना मन्त्री र एक जना न्यायाधीश"
+        },
+        "B": {
+          "textEn": "A ward chairperson and four members",
+          "textNe": "वडा अध्यक्ष र चार जना सदस्य"
+        },
+        "C": {
+          "textEn": "Only the Chief District Officer",
+          "textNe": "प्रमुख जिल्ला अधिकारी मात्र"
+        },
+        "D": {
+          "textEn": "All members of the Provincial Assembly",
+          "textNe": "प्रदेश सभाका सबै सदस्य"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-18#1",
+      "article": "3",
+      "questionEn": "According to the Constitution, who together make up the Nepali nation?",
+      "questionNe": "संविधान अनुसार समष्टिमा राष्ट्र को हो?",
+      "options": {
+        "A": {
+          "textEn": "Only government employees",
+          "textNe": "सरकारी कर्मचारी मात्र"
+        },
+        "B": {
+          "textEn": "All the Nepali people, collectively",
+          "textNe": "समष्टिमा सबै नेपाली जनता"
+        },
+        "C": {
+          "textEn": "Only the people of Kathmandu",
+          "textNe": "काठमाडौंका बासिन्दा मात्र"
+        },
+        "D": {
+          "textEn": "Only the members of Parliament",
+          "textNe": "संसद सदस्यहरू मात्र"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-18#2",
+      "article": "2",
+      "questionEn": "According to the Constitution, who holds Nepal's sovereignty and state authority?",
+      "questionNe": "संविधान अनुसार नेपालको सार्वभौमसत्ता र राजकीयसत्ता कोमा निहित छ?",
+      "options": {
+        "A": {
+          "textEn": "The Nepal Army",
+          "textNe": "नेपाली सेना"
+        },
+        "B": {
+          "textEn": "The Nepali people",
+          "textNe": "नेपाली जनता"
+        },
+        "C": {
+          "textEn": "The President",
+          "textNe": "राष्ट्रपति"
+        },
+        "D": {
+          "textEn": "The Federal Parliament",
+          "textNe": "संघीय संसद"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-18#3",
+      "article": "6",
+      "questionEn": "What status does the Constitution give to all mother tongues spoken in Nepal?",
+      "questionNe": "नेपालमा बोलिने सबै मातृभाषालाई संविधानले कस्तो मान्यता दिएको छ?",
+      "options": {
+        "A": {
+          "textEn": "National languages",
+          "textNe": "राष्ट्रभाषा"
+        },
+        "B": {
+          "textEn": "Temporary languages",
+          "textNe": "अस्थायी भाषा"
+        },
+        "C": {
+          "textEn": "Foreign languages",
+          "textNe": "विदेशी भाषा"
+        },
+        "D": {
+          "textEn": "Banned languages",
+          "textNe": "प्रतिबन्धित भाषा"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-18#4",
+      "article": "P",
+      "questionEn": "According to the Preamble, which body passed and issued this Constitution?",
+      "questionNe": "प्रस्तावना अनुसार यो संविधान कुन निकायबाट पारित गरी जारी गरिएको हो?",
+      "options": {
+        "A": {
+          "textEn": "The Constituent Assembly",
+          "textNe": "संविधान सभा"
+        },
+        "B": {
+          "textEn": "The Supreme Court",
+          "textNe": "सर्वोच्च अदालत"
+        },
+        "C": {
+          "textEn": "The Federal Parliament",
+          "textNe": "संघीय संसद"
+        },
+        "D": {
+          "textEn": "The Council of Ministers",
+          "textNe": "मन्त्रिपरिषद्"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-18#5",
+      "article": "5",
+      "questionEn": "How does the Constitution treat conduct and acts against Nepal's national interest?",
+      "questionNe": "राष्ट्र हित प्रतिकूलको आचरण र कार्यलाई संविधानले कसरी हेरेको छ?",
+      "options": {
+        "A": {
+          "textEn": "Only foreign courts can deal with them",
+          "textNe": "विदेशी अदालतले मात्र हेर्न सक्छ"
+        },
+        "B": {
+          "textEn": "They are rewarded by the State",
+          "textNe": "राज्यले पुरस्कृत गर्छ"
+        },
+        "C": {
+          "textEn": "They are punishable under federal law",
+          "textNe": "संघीय कानून बमोजिम दण्डनीय हुन्छन्"
+        },
+        "D": {
+          "textEn": "They are always allowed",
+          "textNe": "जहिले पनि गर्न पाइन्छ"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-19#1",
+      "article": "17",
+      "questionEn": "Under the right to freedom, how may citizens gather together?",
+      "questionNe": "स्वतन्त्रताको हक अनुसार नागरिकहरू कसरी भेला हुन पाउँछन्?",
+      "options": {
+        "A": {
+          "textEn": "Only as members of the army",
+          "textNe": "सेनाको सदस्यका रूपमा मात्र"
+        },
+        "B": {
+          "textEn": "Peacefully and without arms",
+          "textNe": "विना हातहतियार शान्तिपूर्वक"
+        },
+        "C": {
+          "textEn": "Only inside government offices",
+          "textNe": "सरकारी कार्यालयभित्र मात्र"
+        },
+        "D": {
+          "textEn": "Only during elections",
+          "textNe": "निर्वाचनको समयमा मात्र"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-19#2",
+      "article": "35",
+      "questionEn": "Under the right to health, what may no one be denied?",
+      "questionNe": "स्वास्थ्य सम्बन्धी हक अनुसार कसैलाई पनि केबाट वञ्चित गरिँदैन?",
+      "options": {
+        "A": {
+          "textEn": "A private hospital room",
+          "textNe": "निजी अस्पतालको कोठा"
+        },
+        "B": {
+          "textEn": "A government health job",
+          "textNe": "सरकारी स्वास्थ्य जागिर"
+        },
+        "C": {
+          "textEn": "Emergency health services",
+          "textNe": "आकस्मिक स्वास्थ्य सेवा"
+        },
+        "D": {
+          "textEn": "Free treatment abroad",
+          "textNe": "विदेशमा निःशुल्क उपचार"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-19#3",
+      "article": "36",
+      "questionEn": "Which of these is a fundamental right of every citizen in the Constitution?",
+      "questionNe": "यीमध्ये कुन संविधानले प्रत्येक नागरिकलाई दिएको मौलिक हक हो?",
+      "options": {
+        "A": {
+          "textEn": "The right relating to food",
+          "textNe": "खाद्य सम्बन्धी हक"
+        },
+        "B": {
+          "textEn": "The right not to pay any tax",
+          "textNe": "कुनै कर नतिर्ने हक"
+        },
+        "C": {
+          "textEn": "The right to a free trip abroad",
+          "textNe": "निःशुल्क विदेश भ्रमणको हक"
+        },
+        "D": {
+          "textEn": "The right to a free car",
+          "textNe": "निःशुल्क गाडी पाउने हक"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-19#4",
+      "article": "44",
+      "questionEn": "Under the right of consumers, what may a person harmed by substandard goods or services get?",
+      "questionNe": "उपभोक्ताको हक अनुसार गुणस्तरहीन वस्तु वा सेवाबाट क्षति पुगेको व्यक्तिले के पाउन सक्छ?",
+      "options": {
+        "A": {
+          "textEn": "Compensation as provided by law",
+          "textNe": "कानून बमोजिम क्षतिपूर्ति"
+        },
+        "B": {
+          "textEn": "Nothing; consumers have no such right",
+          "textNe": "केही पनि होइन; उपभोक्तालाई यस्तो हक छैन"
+        },
+        "C": {
+          "textEn": "Permission to arrest the seller personally",
+          "textNe": "विक्रेतालाई आफैं पक्राउ गर्ने अनुमति"
+        },
+        "D": {
+          "textEn": "Permission to seize the seller's property themselves",
+          "textNe": "विक्रेताको सम्पत्ति आफैं कब्जा गर्ने अनुमति"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-19#5",
+      "article": "22",
+      "questionEn": "The right against torture specifically protects whom from physical or mental torture?",
+      "questionNe": "यातना विरुद्धको हकले विशेष गरी कसलाई शारीरिक वा मानसिक यातनाबाट जोगाउँछ?",
+      "options": {
+        "A": {
+          "textEn": "Only foreign citizens",
+          "textNe": "विदेशी नागरिक मात्र"
+        },
+        "B": {
+          "textEn": "A person who is arrested or held in detention",
+          "textNe": "पक्राउ परेको वा थुनामा रहेको व्यक्ति"
+        },
+        "C": {
+          "textEn": "Only members of Parliament",
+          "textNe": "संसद सदस्य मात्र"
+        },
+        "D": {
+          "textEn": "Only soldiers",
+          "textNe": "सैनिक मात्र"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-20#1",
+      "article": "63",
+      "questionEn": "When the President's five-year term ends, who keeps doing the President's work until the next elected President takes office?",
+      "questionNe": "राष्ट्रपतिको पाँच वर्षे पदावधि सकिएपछि अर्को निर्वाचित राष्ट्रपतिले पदभार नसम्हालेसम्म राष्ट्रपतिको काम कसले गर्छ?",
+      "options": {
+        "A": {
+          "textEn": "The Speaker",
+          "textNe": "सभामुख"
+        },
+        "B": {
+          "textEn": "The Chief Justice",
+          "textNe": "प्रधान न्यायाधीश"
+        },
+        "C": {
+          "textEn": "The Prime Minister",
+          "textNe": "प्रधानमन्त्री"
+        },
+        "D": {
+          "textEn": "The outgoing President",
+          "textNe": "पदावधि सकिएका राष्ट्रपति"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-20#2",
+      "article": "69",
+      "questionEn": "How do the Vice-President's qualifications, election process and term compare with the President's?",
+      "questionNe": "उपराष्ट्रपतिको योग्यता, निर्वाचन प्रक्रिया र पदावधि राष्ट्रपतिको तुलनामा कस्तो हुन्छ?",
+      "options": {
+        "A": {
+          "textEn": "They are the same as the President's",
+          "textNe": "राष्ट्रपतिको सरह हुन्छ"
+        },
+        "B": {
+          "textEn": "The Vice-President is appointed by the Supreme Court",
+          "textNe": "उपराष्ट्रपतिलाई सर्वोच्च अदालतले नियुक्त गर्छ"
+        },
+        "C": {
+          "textEn": "The Vice-President serves only two years",
+          "textNe": "उपराष्ट्रपतिको पदावधि दुई वर्ष मात्र हुन्छ"
+        },
+        "D": {
+          "textEn": "The Prime Minister decides them each time",
+          "textNe": "प्रत्येक पटक प्रधानमन्त्रीले तोक्छन्"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-20#3",
+      "article": "76",
+      "questionEn": "To which body are the Prime Minister and ministers collectively accountable?",
+      "questionNe": "प्रधानमन्त्री र मन्त्रीहरू सामूहिक रूपमा कुन निकायप्रति उत्तरदायी हुन्छन्?",
+      "options": {
+        "A": {
+          "textEn": "The Election Commission",
+          "textNe": "निर्वाचन आयोग"
+        },
+        "B": {
+          "textEn": "The Federal Parliament",
+          "textNe": "संघीय संसद"
+        },
+        "C": {
+          "textEn": "The Provincial Assemblies",
+          "textNe": "प्रदेश सभाहरू"
+        },
+        "D": {
+          "textEn": "The Supreme Court",
+          "textNe": "सर्वोच्च अदालत"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-20#4",
+      "article": "65",
+      "questionEn": "If the President resigns, to whom is the written resignation given?",
+      "questionNe": "राष्ट्रपतिले राजीनामा दिँदा लिखित राजीनामा कसलाई दिन्छन्?",
+      "options": {
+        "A": {
+          "textEn": "The Prime Minister",
+          "textNe": "प्रधानमन्त्री"
+        },
+        "B": {
+          "textEn": "The Vice-President",
+          "textNe": "उपराष्ट्रपति"
+        },
+        "C": {
+          "textEn": "The Chief Justice",
+          "textNe": "प्रधान न्यायाधीश"
+        },
+        "D": {
+          "textEn": "The Speaker",
+          "textNe": "सभामुख"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-20#5",
+      "article": "66",
+      "questionEn": "Except where the Constitution names another body to recommend, the President acts on whose recommendation and consent?",
+      "questionNe": "संविधानले अर्को निकायको सिफारिस तोकेकोमा बाहेक राष्ट्रपतिले कसको सिफारिस र सम्मतिबाट काम गर्छन्?",
+      "options": {
+        "A": {
+          "textEn": "The Council of Ministers",
+          "textNe": "मन्त्रिपरिषद्"
+        },
+        "B": {
+          "textEn": "The Chief Justice",
+          "textNe": "प्रधान न्यायाधीश"
+        },
+        "C": {
+          "textEn": "The Election Commission",
+          "textNe": "निर्वाचन आयोग"
+        },
+        "D": {
+          "textEn": "The Chairperson of the National Assembly",
+          "textNe": "राष्ट्रिय सभाको अध्यक्ष"
+        }
+      }
+    }
+  ]
+}

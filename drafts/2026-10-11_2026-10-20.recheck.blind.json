@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "ref": "2026-10-14#1",
+      "article": "83",
+      "questionEn": "What is Nepal's federal legislature, with its two houses, called?",
+      "questionNe": "दुई सदन भएको नेपालको संघीय व्यवस्थापिकालाई के भनिन्छ?",
+      "options": {
+        "A": {
+          "textEn": "The Constituent Assembly",
+          "textNe": "संविधान सभा"
+        },
+        "B": {
+          "textEn": "The Federal Parliament",
+          "textNe": "संघीय संसद"
+        },
+        "C": {
+          "textEn": "The National Panchayat",
+          "textNe": "राष्ट्रिय पञ्चायत"
+        },
+        "D": {
+          "textEn": "The Provincial Assembly",
+          "textNe": "प्रदेश सभा"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-14#2",
+      "article": "87",
+      "questionEn": "Can one person be a member of both houses of the Federal Parliament at the same time?",
+      "questionNe": "एउटै व्यक्ति एकै पटक संघीय संसदका दुवै सदनको सदस्य हुन सक्छ?",
+      "options": {
+        "A": {
+          "textEn": "No",
+          "textNe": "सक्दैन"
+        },
+        "B": {
+          "textEn": "Yes, always",
+          "textNe": "सक्छ, जहिले पनि"
+        },
+        "C": {
+          "textEn": "Yes, if the President allows it",
+          "textNe": "राष्ट्रपतिले अनुमति दिए सक्छ"
+        },
+        "D": {
+          "textEn": "Yes, for up to one year",
+          "textNe": "एक वर्षसम्म सक्छ"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-14#3",
+      "article": "86",
+      "questionEn": "Which of these does the Constitution call a permanent house?",
+      "questionNe": "संविधानले यीमध्ये कुनलाई स्थायी सदन भनेको छ?",
+      "options": {
+        "A": {
+          "textEn": "The National Assembly",
+          "textNe": "राष्ट्रिय सभा"
+        },
+        "B": {
+          "textEn": "The House of Representatives",
+          "textNe": "प्रतिनिधि सभा"
+        },
+        "C": {
+          "textEn": "A Village Assembly",
+          "textNe": "गाउँ सभा"
+        },
+        "D": {
+          "textEn": "A Provincial Assembly",
+          "textNe": "प्रदेश सभा"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-14#4",
+      "article": "85",
+      "questionEn": "Unless it is dissolved early, how long is the term of the House of Representatives?",
+      "questionNe": "अगावै विघटन नभएमा प्रतिनिधि सभाको कार्यकाल कति वर्षको हुन्छ?",
+      "options": {
+        "A": {
+          "textEn": "Seven years",
+          "textNe": "सात वर्ष"
+        },
+        "B": {
+          "textEn": "Ten years",
+          "textNe": "दश वर्ष"
+        },
+        "C": {
+          "textEn": "Five years",
+          "textNe": "पाँच वर्ष"
+        },
+        "D": {
+          "textEn": "Three years",
+          "textNe": "तीन वर्ष"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-14#5",
+      "article": "91",
+      "questionEn": "What does the Constitution require when electing the Speaker and Deputy Speaker of the House of Representatives?",
+      "questionNe": "प्रतिनिधि सभाको सभामुख र उपसभामुखको निर्वाचन गर्दा संविधानले के अनिवार्य गरेको छ?",
+      "options": {
+        "A": {
+          "textEn": "One of them must be a woman, and they must be from different parties",
+          "textNe": "एक जना महिला हुनु पर्छ र दुवै फरक फरक दलका हुनु पर्छ"
+        },
+        "B": {
+          "textEn": "Both must be appointed by the President",
+          "textNe": "दुवैलाई राष्ट्रपतिले नियुक्त गर्नु पर्छ"
+        },
+        "C": {
+          "textEn": "Both must come from the largest party",
+          "textNe": "दुवै सबैभन्दा ठूलो दलबाट हुनु पर्छ"
+        },
+        "D": {
+          "textEn": "Both must be over 60 years old",
+          "textNe": "दुवैको उमेर ६० वर्षभन्दा बढी हुनु पर्छ"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-15#1",
+      "article": "128",
+      "questionEn": "Unless the Constitution says otherwise, all courts and judicial bodies come under which court?",
+      "questionNe": "संविधानमा अन्यथा व्यवस्था भएकोमा बाहेक सबै अदालत र न्यायिक निकायहरू कुन अदालतको मातहतमा रहन्छन्?",
+      "options": {
+        "A": {
+          "textEn": "The High Court",
+          "textNe": "उच्च अदालत"
+        },
+        "B": {
+          "textEn": "The District Court",
+          "textNe": "जिल्ला अदालत"
+        },
+        "C": {
+          "textEn": "The Election Commission",
+          "textNe": "निर्वाचन आयोग"
+        },
+        "D": {
+          "textEn": "The Supreme Court",
+          "textNe": "सर्वोच्च अदालत"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-15#2",
+      "article": "245",
+      "questionEn": "Who acts as the chairperson of the Election Commission?",
+      "questionNe": "निर्वाचन आयोगको अध्यक्ष भई कसले काम गर्छ?",
+      "options": {
+        "A": {
+          "textEn": "The Speaker",
+          "textNe": "सभामुख"
+        },
+        "B": {
+          "textEn": "The Chief Election Commissioner",
+          "textNe": "प्रमुख निर्वाचन आयुक्त"
+        },
+        "C": {
+          "textEn": "The Prime Minister",
+          "textNe": "प्रधानमन्त्री"
+        },
+        "D": {
+          "textEn": "The Chief Justice",
+          "textNe": "प्रधान न्यायाधीश"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-15#3",
+      "article": "255",
+      "questionEn": "Who can be appointed chairperson or member of the National Dalit Commission?",
+      "questionNe": "राष्ट्रिय दलित आयोगको अध्यक्ष वा सदस्यमा को नियुक्त हुन सक्छ?",
+      "options": {
+        "A": {
+          "textEn": "A Dalit who has made a significant contribution for at least ten years to Dalit rights, human rights or law",
+          "textNe": "कम्तीमा दश वर्ष दलित समुदायको हक हित वा मानव अधिकार र कानूनको क्षेत्रमा महत्वपूर्ण योगदान पुर्‍याएको दलित"
+        },
+        "B": {
+          "textEn": "A foreign human rights expert",
+          "textNe": "विदेशी मानव अधिकार विज्ञ"
+        },
+        "C": {
+          "textEn": "Any serving minister",
+          "textNe": "बहालवाला जुनसुकै मन्त्री"
+        },
+        "D": {
+          "textEn": "Any active member of a political party",
+          "textNe": "राजनीतिक दलको जुनसुकै सक्रिय सदस्य"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-15#4",
+      "article": "238",
+      "questionEn": "What is the term of office of the commissioners of the Commission for the Investigation of Abuse of Authority?",
+      "questionNe": "अख्तियार दुरुपयोग अनुसन्धान आयोगका प्रमुख आयुक्त र आयुक्तको पदावधि कति वर्षको हुन्छ?",
+      "options": {
+        "A": {
+          "textEn": "Four years",
+          "textNe": "चार वर्ष"
+        },
+        "B": {
+          "textEn": "Two years",
+          "textNe": "दुई वर्ष"
+        },
+        "C": {
+          "textEn": "Ten years",
+          "textNe": "दश वर्ष"
+        },
+        "D": {
+          "textEn": "Six years",
+          "textNe": "छ वर्ष"
+        }
+      }
+    },
+    {
+      "ref": "2026-10-15#5",
+      "article": "242",
+      "questionEn": "Who appoints the chairperson and members of the Public Service Commission?",
+      "questionNe": "लोक सेवा आयोगका अध्यक्ष र सदस्यको नियुक्ति कसले गर्छ?",
+      "options": {
+        "A": {
+          "textEn": "The Chief Justice",
+          "textNe": "प्रधान न्यायाधीश"
+        },
+        "B": {
+          "textEn": "The President, on the recommendation of the Constitutional Council",
+          "textNe": "संवैधानिक परिषदको सिफारिसमा राष्ट्रपति"
+        },
+        "C": {
+          "textEn": "The Prime Minister, on their own",
+          "textNe": "प्रधानमन्त्री आफैंले"
+        },
+        "D": {
+          "textEn": "The Speaker of the House of Representatives",
+          "textNe": "प्रतिनिधि सभाका सभामुख"
+        }
+      }
+    }
+  ]
+}

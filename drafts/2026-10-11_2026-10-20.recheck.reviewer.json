@@ -1,0 +1,84 @@
+{
+  "results": [
+    {
+      "ref": "2026-10-14#1",
+      "answer": "B",
+      "evidence": "संघीय संसद भनिनेछ",
+      "difficulty": "easy",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-14#2",
+      "answer": "A",
+      "evidence": "कुनै पनि व्यक्ति एकै पटक दुवै सदनको सदस्य हुन सक्ने छैन",
+      "difficulty": "easy",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-14#3",
+      "answer": "A",
+      "evidence": "राष्ट्रिय सभा एक स्थायी सदन हुनेछ",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-14#4",
+      "answer": "C",
+      "evidence": "प्रतिनिधि सभाको कार्यकाल पाँच वर्षको हुनेछ",
+      "difficulty": "easy",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-14#5",
+      "answer": "A",
+      "evidence": "एक जना महिला हुने गरी ... फरक फरक दलको प्रतिनिधि हुनु पर्नेछ",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-15#1",
+      "answer": "D",
+      "evidence": "सबै अदालत र न्यायिक निकायहरू सर्वोच्च अदालत मातहत रहनेछन्",
+      "difficulty": "easy",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-15#2",
+      "answer": "B",
+      "evidence": "प्रमुख निर्वाचन आयुक्तले निर्वाचन आयोगको अध्यक्ष भई काम गर्नेछ",
+      "difficulty": "easy",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-15#3",
+      "answer": "A",
+      "evidence": "कम्तीमा दश वर्ष ... महत्वपूर्ण योगदान पुर्‍याएको दलित",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-15#4",
+      "answer": "D",
+      "evidence": "पदावधि नियुक्तिको मितिले छ वर्षको हुनेछ",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    },
+    {
+      "ref": "2026-10-15#5",
+      "answer": "B",
+      "evidence": "राष्ट्रपतिले संवैधानिक परिषदको सिफारिसमा ... नियुक्ति गर्नेछ",
+      "difficulty": "medium",
+      "verdict": "pass",
+      "issues": []
+    }
+  ]
+}
