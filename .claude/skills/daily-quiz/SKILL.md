@@ -94,5 +94,6 @@ corrections the user asks for in `drafts/<name>.json`, then validate again.
 python3 scripts/quiz.py publish drafts/<name>.json
 ```
 
-Commit the updated `quiz/quiz_YYYY_MM` file(s) and `drafts/<name>*`. Push
+Commit only the updated `quiz/quiz_YYYY_MM` file(s). Drafts are local
+working files: `drafts/` is in `.gitignore`, never commit them. Push
 only when the user asks.
