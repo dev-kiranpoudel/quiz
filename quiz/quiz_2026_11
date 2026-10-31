@@ -1,0 +1,278 @@
+{
+  "2026-11-01": {
+    "id": "2026-11-01",
+    "title": "Challenge #246",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 915,
+        "questionEn": "Which body has the final authority to interpret the Constitution and laws of Nepal?",
+        "questionNe": "नेपालको संविधान र कानूनको व्याख्या गर्ने अन्तिम अधिकार कुन निकायलाई छ?",
+        "options": [
+          {
+            "textEn": "The Federal Parliament",
+            "textNe": "संघीय संसद"
+          },
+          {
+            "textEn": "The Supreme Court",
+            "textNe": "सर्वोच्च अदालत"
+          },
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "The Election Commission",
+            "textNe": "निर्वाचन आयोग"
+          }
+        ],
+        "correctAnswerIndex": 1,
+        "explanationEn": "The Supreme Court has the final say on what the Constitution and laws mean.",
+        "explanationNe": "संविधान र कानूनको अर्थ के हो भन्ने अन्तिम व्याख्या सर्वोच्च अदालतले गर्छ।"
+      },
+      {
+        "id": 916,
+        "questionEn": "The Chief Justice of Nepal is appointed by whom?",
+        "questionNe": "नेपालको प्रधान न्यायाधीश कसबाट नियुक्त हुन्छन्?",
+        "options": [
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "The Speaker of the House of Representatives",
+            "textNe": "प्रतिनिधि सभाको सभामुख"
+          },
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "The Chairperson of the National Assembly",
+            "textNe": "राष्ट्रिय सभाको अध्यक्ष"
+          }
+        ],
+        "correctAnswerIndex": 2,
+        "explanationEn": "The President appoints the Chief Justice on the recommendation of the Constitutional Council.",
+        "explanationNe": "संवैधानिक परिषदको सिफारिसमा राष्ट्रपतिले प्रधान न्यायाधीशको नियुक्ति गर्छन्।"
+      },
+      {
+        "id": 917,
+        "questionEn": "Nepal's courts are the Supreme Court, the High Court and which other court?",
+        "questionNe": "नेपालमा सर्वोच्च अदालत, उच्च अदालत र अर्को कुन अदालत रहन्छ?",
+        "options": [
+          {
+            "textEn": "District Court",
+            "textNe": "जिल्ला अदालत"
+          },
+          {
+            "textEn": "Ward Court",
+            "textNe": "वडा अदालत"
+          },
+          {
+            "textEn": "Provincial Assembly Court",
+            "textNe": "प्रदेश सभा अदालत"
+          },
+          {
+            "textEn": "Cabinet Court",
+            "textNe": "मन्त्रिपरिषद् अदालत"
+          }
+        ],
+        "correctAnswerIndex": 0,
+        "explanationEn": "The Constitution sets up three levels of courts: the Supreme Court, the High Court and the District Court.",
+        "explanationNe": "संविधानले सर्वोच्च अदालत, उच्च अदालत र जिल्ला अदालत गरी तीन तहका अदालत व्यवस्था गरेको छ।"
+      },
+      {
+        "id": 918,
+        "questionEn": "What is the term of office of the Chief Justice of Nepal?",
+        "questionNe": "नेपालको प्रधान न्यायाधीशको पदावधि कति वर्षको हुन्छ?",
+        "options": [
+          {
+            "textEn": "3 years",
+            "textNe": "३ वर्ष"
+          },
+          {
+            "textEn": "10 years",
+            "textNe": "१० वर्ष"
+          },
+          {
+            "textEn": "15 years",
+            "textNe": "१५ वर्ष"
+          },
+          {
+            "textEn": "6 years",
+            "textNe": "६ वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 3,
+        "explanationEn": "The Chief Justice serves a term of six years.",
+        "explanationNe": "प्रधान न्यायाधीशको पदावधि छ वर्षको हुन्छ।"
+      },
+      {
+        "id": 919,
+        "questionEn": "If the office of Chief Justice is vacant, who acts as Acting Chief Justice?",
+        "questionNe": "प्रधान न्यायाधीशको पद रिक्त भएमा कायममुकायम प्रधान न्यायाधीश भई कसले काम गर्छ?",
+        "options": [
+          {
+            "textEn": "The Law Minister",
+            "textNe": "कानून मन्त्री"
+          },
+          {
+            "textEn": "The senior-most Justice of the Supreme Court",
+            "textNe": "सर्वोच्च अदालतको वरिष्ठतम न्यायाधीश"
+          },
+          {
+            "textEn": "The Attorney General",
+            "textNe": "महान्यायाधिवक्ता"
+          },
+          {
+            "textEn": "The Chief Judge of a High Court",
+            "textNe": "उच्च अदालतको मुख्य न्यायाधीश"
+          }
+        ],
+        "correctAnswerIndex": 1,
+        "explanationEn": "When the Chief Justice's post is empty or they are absent, the senior-most Supreme Court Justice acts in their place.",
+        "explanationNe": "प्रधान न्यायाधीशको पद रिक्त भएमा वा उपस्थित नहुँदा सर्वोच्च अदालतको वरिष्ठतम न्यायाधीशले कायममुकायम भई काम गर्छन्।"
+      }
+    ]
+  },
+  "2026-11-02": {
+    "id": "2026-11-02",
+    "title": "Challenge #247",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 920,
+        "questionEn": "How many levels does the basic structure of the State of Nepal have?",
+        "questionNe": "नेपालको राज्यको मूल संरचना कति तहको हुन्छ?",
+        "options": [
+          {
+            "textEn": "Two",
+            "textNe": "दुई"
+          },
+          {
+            "textEn": "Three",
+            "textNe": "तीन"
+          },
+          {
+            "textEn": "Five",
+            "textNe": "पाँच"
+          },
+          {
+            "textEn": "Seven",
+            "textNe": "सात"
+          }
+        ],
+        "correctAnswerIndex": 1,
+        "explanationEn": "Nepal has three levels of government: federal, provincial and local.",
+        "explanationNe": "नेपालको राज्य संरचना संघ, प्रदेश र स्थानीय तह गरी तीन तहको छ।"
+      },
+      {
+        "id": 921,
+        "questionEn": "What is the legislature of a province called?",
+        "questionNe": "प्रदेशको व्यवस्थापिकालाई के भनिन्छ?",
+        "options": [
+          {
+            "textEn": "National Assembly",
+            "textNe": "राष्ट्रिय सभा"
+          },
+          {
+            "textEn": "House of Representatives",
+            "textNe": "प्रतिनिधि सभा"
+          },
+          {
+            "textEn": "Provincial Assembly",
+            "textNe": "प्रदेश सभा"
+          },
+          {
+            "textEn": "Village Assembly",
+            "textNe": "गाउँ सभा"
+          }
+        ],
+        "correctAnswerIndex": 2,
+        "explanationEn": "Each province has a single-house legislature called the Provincial Assembly.",
+        "explanationNe": "प्रत्येक प्रदेशको व्यवस्थापिका एकसदनात्मक हुन्छ, जसलाई प्रदेश सभा भनिन्छ।"
+      },
+      {
+        "id": 922,
+        "questionEn": "Who appoints the Province Chief for each province?",
+        "questionNe": "प्रत्येक प्रदेशका लागि प्रदेश प्रमुखको नियुक्ति कसले गर्छ?",
+        "options": [
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "The Chief Minister",
+            "textNe": "मुख्यमन्त्री"
+          },
+          {
+            "textEn": "The Provincial Assembly",
+            "textNe": "प्रदेश सभा"
+          },
+          {
+            "textEn": "The Chief Justice",
+            "textNe": "प्रधान न्यायाधीश"
+          }
+        ],
+        "correctAnswerIndex": 0,
+        "explanationEn": "The President appoints one Province Chief for each province.",
+        "explanationNe": "राष्ट्रपतिले प्रत्येक प्रदेशका लागि एक जना प्रदेश प्रमुख नियुक्त गर्छन्।"
+      },
+      {
+        "id": 923,
+        "questionEn": "Unless removed earlier by the President, how long is a Province Chief's term?",
+        "questionNe": "राष्ट्रपतिले अगावै पदमुक्त नगरेमा प्रदेश प्रमुखको पदावधि कति वर्षको हुन्छ?",
+        "options": [
+          {
+            "textEn": "2 years",
+            "textNe": "२ वर्ष"
+          },
+          {
+            "textEn": "10 years",
+            "textNe": "१० वर्ष"
+          },
+          {
+            "textEn": "5 years",
+            "textNe": "५ वर्ष"
+          },
+          {
+            "textEn": "15 years",
+            "textNe": "१५ वर्ष"
+          }
+        ],
+        "correctAnswerIndex": 2,
+        "explanationEn": "A Province Chief serves five years unless the President removes them earlier.",
+        "explanationNe": "राष्ट्रपतिले अगावै पदमुक्त नगरेमा प्रदेश प्रमुखको पदावधि पाँच वर्षको हुन्छ।"
+      },
+      {
+        "id": 924,
+        "questionEn": "Who appoints the Chief Minister of a province?",
+        "questionNe": "प्रदेशको मुख्यमन्त्रीको नियुक्ति कसले गर्छ?",
+        "options": [
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "The Speaker of the Provincial Assembly",
+            "textNe": "प्रदेश सभाको सभामुख"
+          },
+          {
+            "textEn": "The Election Commission",
+            "textNe": "निर्वाचन आयोग"
+          },
+          {
+            "textEn": "The Province Chief",
+            "textNe": "प्रदेश प्रमुख"
+          }
+        ],
+        "correctAnswerIndex": 3,
+        "explanationEn": "The Province Chief appoints the leader of the majority parliamentary party in the Provincial Assembly as Chief Minister.",
+        "explanationNe": "प्रदेश प्रमुखले प्रदेश सभामा बहुमत प्राप्त संसदीय दलको नेतालाई मुख्यमन्त्री नियुक्त गर्छन्।"
+      }
+    ]
+  }
+}   
