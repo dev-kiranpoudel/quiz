@@ -10,6 +10,20 @@ inclusive). If missing, ask. Each day has exactly 5 questions.
 
 The app loads `quiz/quiz_YYYY_MM` from this repo's `main` branch on GitHub.
 Nothing reaches users until it is merged and pushed to `main`.
+`quiz.py publish` only writes the local file: never tell the user questions
+are "published" or live until step 6 has pushed them and checked GitHub.
+
+## 0. Start from GitHub's main
+
+```bash
+git fetch origin
+git switch -c quiz/<name> origin/main
+```
+
+Validate, coverage and question ids read `quiz/`, so they must see every
+question already on GitHub. Check the last date on `origin/main`: if the
+user's range overlaps it or leaves a gap before it, say so and ask. If the
+first date is soon, tell the user the push must happen before then.
 
 Draft name `<name>`: the month (`2026-11`) or `<start>_<end>`. Files:
 - parts: `drafts/<name>.partN.json` (+ `.blind.json`, `.reviewer.json`)
@@ -88,12 +102,21 @@ Validate on the merged draft catches repeats across parts. Give the user
 the reviewer, fixed, replaced, and the reviewer's easy/medium split. Stop and wait for approval. Apply any
 corrections the user asks for in `drafts/<name>.json`, then validate again.
 
-## 6. Publish (only after the user approves)
+## 6. Go live (only after the user approves)
+
+Approving the review list means "put it live": do all of these steps.
 
 ```bash
+git fetch origin && git merge-base --is-ancestor origin/main HEAD  # else rebase on origin/main
+python3 scripts/quiz.py validate drafts/<name>.json
 python3 scripts/quiz.py publish drafts/<name>.json
 ```
 
 Commit only the updated `quiz/quiz_YYYY_MM` file(s). Drafts are local
-working files: `drafts/` is in `.gitignore`, never commit them. Push
-only when the user asks.
+working files: `drafts/` is in `.gitignore`, never commit them. Suggest the
+commit message first, then push to `main` (`git push origin HEAD:main`).
+
+Then confirm it is live: fetch
+`https://raw.githubusercontent.com/<owner>/<repo>/main/quiz/quiz_YYYY_MM`
+and check that it contains every new date. Only then say it is live. If any
+step is skipped, tell the user plainly that users cannot see it yet.
