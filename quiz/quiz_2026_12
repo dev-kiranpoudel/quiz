@@ -1,0 +1,1382 @@
+{
+  "2026-12-01": {
+    "id": "2026-12-01",
+    "title": "Challenge #276",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 1045,
+        "questionEn": "If the Vice-President wants to resign, to whom is the written resignation given?",
+        "questionNe": "उपराष्ट्रपतिले राजीनामा दिन चाहेमा लिखित राजीनामा कस समक्ष दिनुपर्छ?",
+        "options": [
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "The Speaker of the House of Representatives",
+            "textNe": "प्रतिनिधि सभाका सभामुख"
+          },
+          {
+            "textEn": "The Chief Justice",
+            "textNe": "प्रधान न्यायाधीश"
+          }
+        ],
+        "correctAnswerIndex": 0,
+        "explanationEn": "The Vice-President's office becomes vacant when they give a written resignation to the President.",
+        "explanationNe": "उपराष्ट्रपतिले राष्ट्रपति समक्ष लिखित राजीनामा दिएमा उपराष्ट्रपतिको पद रिक्त हुन्छ।"
+      },
+      {
+        "id": 1046,
+        "questionEn": "Who can remove a Minister of the Government of Nepal from office?",
+        "questionNe": "नेपाल सरकारका मन्त्रीलाई पदमुक्त गर्न सक्ने को हो?",
+        "options": [
+          {
+            "textEn": "The Speaker of the House of Representatives",
+            "textNe": "प्रतिनिधि सभाका सभामुख"
+          },
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "The Chief Justice",
+            "textNe": "प्रधान न्यायाधीश"
+          },
+          {
+            "textEn": "The Election Commission",
+            "textNe": "निर्वाचन आयोग"
+          }
+        ],
+        "correctAnswerIndex": 1,
+        "explanationEn": "A Minister's office becomes vacant if the Prime Minister removes them.",
+        "explanationNe": "प्रधानमन्त्रीले पदमुक्त गरेमा मन्त्रीको पद रिक्त हुन्छ।"
+      },
+      {
+        "id": 1047,
+        "questionEn": "In whose name are all the federal executive functions of Nepal carried out?",
+        "questionNe": "नेपालको संघीय कार्यकारिणी सम्बन्धी सम्पूर्ण काम कसको नाममा हुन्छ?",
+        "options": [
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "The Federal Parliament",
+            "textNe": "संघीय संसद"
+          },
+          {
+            "textEn": "The Government of Nepal",
+            "textNe": "नेपाल सरकार"
+          },
+          {
+            "textEn": "The Supreme Court",
+            "textNe": "सर्वोच्च अदालत"
+          }
+        ],
+        "correctAnswerIndex": 2,
+        "explanationEn": "All federal executive work of Nepal is done in the name of the Government of Nepal.",
+        "explanationNe": "नेपालको संघीय कार्यकारिणी सम्बन्धी सम्पूर्ण काम नेपाल सरकारको नाममा हुन्छ।"
+      },
+      {
+        "id": 1048,
+        "questionEn": "If no party has a clear majority in the House of Representatives, whom does the President appoint as Prime Minister?",
+        "questionNe": "प्रतिनिधि सभामा कुनै पनि दलको स्पष्ट बहुमत नभएमा राष्ट्रपतिले कसलाई प्रधानमन्त्री नियुक्त गर्छन्?",
+        "options": [
+          {
+            "textEn": "The Speaker of the House of Representatives",
+            "textNe": "प्रतिनिधि सभाका सभामुख"
+          },
+          {
+            "textEn": "The Chief Justice",
+            "textNe": "प्रधान न्यायाधीश"
+          },
+          {
+            "textEn": "A member who can win a majority with the support of two or more parties",
+            "textNe": "दुई वा दुईभन्दा बढी दलको समर्थनमा बहुमत प्राप्त गर्न सक्ने सदस्य"
+          },
+          {
+            "textEn": "The oldest member of the House",
+            "textNe": "सदनका सबैभन्दा बढी उमेरका सदस्य"
+          }
+        ],
+        "correctAnswerIndex": 2,
+        "explanationEn": "When no party has a clear majority, the President appoints a House member who can win a majority with the backing of two or more parties.",
+        "explanationNe": "कुनै दलको स्पष्ट बहुमत नभएमा दुई वा दुईभन्दा बढी दलको समर्थनमा बहुमत पाउन सक्ने प्रतिनिधि सभाका सदस्यलाई राष्ट्रपतिले प्रधानमन्त्री नियुक्त गर्छन्।"
+      },
+      {
+        "id": 1049,
+        "questionEn": "To become President, a person must be qualified to be a member of which body?",
+        "questionNe": "राष्ट्रपति हुन व्यक्ति कुन निकायको सदस्य हुन योग्य हुनुपर्छ?",
+        "options": [
+          {
+            "textEn": "The Federal Parliament",
+            "textNe": "संघीय संसद"
+          },
+          {
+            "textEn": "The Supreme Court",
+            "textNe": "सर्वोच्च अदालत"
+          },
+          {
+            "textEn": "The Election Commission",
+            "textNe": "निर्वाचन आयोग"
+          },
+          {
+            "textEn": "The Nepal Army",
+            "textNe": "नेपाली सेना"
+          }
+        ],
+        "correctAnswerIndex": 0,
+        "explanationEn": "A President must be qualified to be a member of the Federal Parliament, be at least 45, and not be disqualified by any law.",
+        "explanationNe": "राष्ट्रपति हुन संघीय संसदको सदस्य हुन योग्य, कम्तीमा ४५ वर्ष पूरा भएको र कुनै कानूनले अयोग्य नभएको हुनुपर्छ।"
+      }
+    ]
+  },
+  "2026-12-02": {
+    "id": "2026-12-02",
+    "title": "Challenge #277",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 1050,
+        "questionEn": "In a House of Representatives election, can one person be a candidate in more than one constituency at the same time?",
+        "questionNe": "प्रतिनिधि सभाको निर्वाचनमा एउटै व्यक्ति एकै पटक एकभन्दा बढी निर्वाचन क्षेत्रमा उम्मेदवार हुन पाउँछ?",
+        "options": [
+          {
+            "textEn": "Yes, in up to two constituencies",
+            "textNe": "पाउँछ, दुईवटा निर्वाचन क्षेत्रसम्म"
+          },
+          {
+            "textEn": "Yes, if their party agrees",
+            "textNe": "दलले सहमति दिए पाउँछ"
+          },
+          {
+            "textEn": "No",
+            "textNe": "पाउँदैन"
+          },
+          {
+            "textEn": "Yes, in up to three constituencies",
+            "textNe": "पाउँछ, तीनवटा निर्वाचन क्षेत्रसम्म"
+          }
+        ],
+        "correctAnswerIndex": 2,
+        "explanationEn": "The same person cannot stand as a candidate in more than one constituency at the same time.",
+        "explanationNe": "एउटै व्यक्ति एकै पटक एकभन्दा बढी निर्वाचन क्षेत्रमा उम्मेदवार हुन पाउँदैन।"
+      },
+      {
+        "id": 1051,
+        "questionEn": "Which of these is a qualification to become a member of the Federal Parliament?",
+        "questionNe": "संघीय संसदको सदस्य हुन तलका मध्ये कुन योग्यता चाहिन्छ?",
+        "options": [
+          {
+            "textEn": "Holding a university degree",
+            "textNe": "विश्वविद्यालयको उपाधि भएको"
+          },
+          {
+            "textEn": "Not having been convicted of a criminal offence involving moral turpitude",
+            "textNe": "नैतिक पतन देखिने फौजदारी कसूरमा सजाय नपाएको"
+          },
+          {
+            "textEn": "Owning land in Nepal",
+            "textNe": "नेपालमा जग्गा भएको"
+          },
+          {
+            "textEn": "Having worked in the civil service",
+            "textNe": "निजामती सेवामा काम गरेको"
+          }
+        ],
+        "correctAnswerIndex": 1,
+        "explanationEn": "A member of the Federal Parliament must not have been convicted of a criminal offence involving moral turpitude.",
+        "explanationNe": "संघीय संसदको सदस्य हुन नैतिक पतन देखिने फौजदारी कसूरमा सजाय नपाएको हुनुपर्छ।"
+      },
+      {
+        "id": 1052,
+        "questionEn": "Who elects the Chairperson and Vice-Chairperson of the National Assembly?",
+        "questionNe": "राष्ट्रिय सभाको अध्यक्ष र उपाध्यक्षको निर्वाचन कसले गर्छ?",
+        "options": [
+          {
+            "textEn": "The members of the National Assembly, from among themselves",
+            "textNe": "राष्ट्रिय सभाका सदस्यहरूले आफूमध्येबाट"
+          },
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "The House of Representatives",
+            "textNe": "प्रतिनिधि सभा"
+          },
+          {
+            "textEn": "All voters in a national election",
+            "textNe": "राष्ट्रिय निर्वाचनमा सबै मतदाता"
+          }
+        ],
+        "correctAnswerIndex": 0,
+        "explanationEn": "The members of the National Assembly elect its Chairperson and Vice-Chairperson from among themselves.",
+        "explanationNe": "राष्ट्रिय सभाका सदस्यहरूले आफूमध्येबाट अध्यक्ष र उपाध्यक्ष निर्वाचित गर्छन्।"
+      },
+      {
+        "id": 1053,
+        "questionEn": "In the proportional election for the House of Representatives, how is the country treated?",
+        "questionNe": "प्रतिनिधि सभाको समानुपातिक निर्वाचनमा देशलाई कसरी मानिन्छ?",
+        "options": [
+          {
+            "textEn": "One constituency for each Province",
+            "textNe": "प्रत्येक प्रदेशलाई एक निर्वाचन क्षेत्र"
+          },
+          {
+            "textEn": "One constituency for each district",
+            "textNe": "प्रत्येक जिल्लालाई एक निर्वाचन क्षेत्र"
+          },
+          {
+            "textEn": "One constituency for each local level",
+            "textNe": "प्रत्येक स्थानीय तहलाई एक निर्वाचन क्षेत्र"
+          },
+          {
+            "textEn": "The whole country as a single constituency",
+            "textNe": "सम्पूर्ण देशलाई एक निर्वाचन क्षेत्र"
+          }
+        ],
+        "correctAnswerIndex": 3,
+        "explanationEn": "For the proportional seats, the whole country counts as one constituency and voters vote for parties.",
+        "explanationNe": "समानुपातिक निर्वाचनमा सम्पूर्ण देशलाई एक निर्वाचन क्षेत्र मानिन्छ र मतदाताले राजनीतिक दललाई मत दिन्छन्।"
+      },
+      {
+        "id": 1054,
+        "questionEn": "If a person holding an elected, nominated or appointed political post becomes a member of the Federal Parliament, what happens to that post?",
+        "questionNe": "निर्वाचन, मनोनयन वा नियुक्ति हुने राजनीतिक पदमा बहाल रहेको व्यक्ति संघीय संसदको सदस्य भएमा निजको त्यस्तो पदको के हुन्छ?",
+        "options": [
+          {
+            "textEn": "It falls vacant automatically from the day they take the oath as a member",
+            "textNe": "संघीय संसदको सदस्य पदको शपथ ग्रहण गरेको दिनदेखि स्वतः रिक्त हुन्छ"
+          },
+          {
+            "textEn": "They keep both posts until the end of their term",
+            "textNe": "कार्यकाल नसकिउन्जेल दुवै पदमा रहन्छन्"
+          },
+          {
+            "textEn": "The Supreme Court decides which post they keep",
+            "textNe": "कुन पदमा रहने भन्ने सर्वोच्च अदालतले निर्णय गर्छ"
+          },
+          {
+            "textEn": "Their election to Parliament is cancelled",
+            "textNe": "संसदमा भएको निर्वाचन रद्द हुन्छ"
+          }
+        ],
+        "correctAnswerIndex": 0,
+        "explanationEn": "A person cannot hold another political post while sitting in Parliament: that post falls vacant automatically on the day they take the oath as a member.",
+        "explanationNe": "संघीय संसदको सदस्य पदको शपथ ग्रहण गरेको दिनदेखि त्यस्तो राजनीतिक पद स्वतः रिक्त हुन्छ ।"
+      }
+    ]
+  },
+  "2026-12-03": {
+    "id": "2026-12-03",
+    "title": "Challenge #278",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 1055,
+        "questionEn": "Where does the Constitution place High Courts?",
+        "questionNe": "संविधान अनुसार उच्च अदालत कहाँ रहन्छ?",
+        "options": [
+          {
+            "textEn": "One in each district",
+            "textNe": "प्रत्येक जिल्लामा एक"
+          },
+          {
+            "textEn": "Only one, in Kathmandu",
+            "textNe": "काठमाडौंमा मात्र एउटा"
+          },
+          {
+            "textEn": "One in each Province",
+            "textNe": "प्रत्येक प्रदेशमा एक"
+          },
+          {
+            "textEn": "One in each local level",
+            "textNe": "प्रत्येक स्थानीय तहमा एक"
+          }
+        ],
+        "correctAnswerIndex": 2,
+        "explanationEn": "The Constitution provides for one High Court in each Province.",
+        "explanationNe": "संविधानले प्रत्येक प्रदेशमा एक उच्च अदालत रहने व्यवस्था गरेको छ।"
+      },
+      {
+        "id": 1056,
+        "questionEn": "Which body conducts and supervises elections of the President, the Federal Parliament, the Provincial Assemblies and the local levels?",
+        "questionNe": "राष्ट्रपति, संघीय संसद, प्रदेश सभा र स्थानीय तहको निर्वाचनको सञ्चालन र रेखदेख कुन निकायले गर्छ?",
+        "options": [
+          {
+            "textEn": "The Election Commission",
+            "textNe": "निर्वाचन आयोग"
+          },
+          {
+            "textEn": "The Supreme Court",
+            "textNe": "सर्वोच्च अदालत"
+          },
+          {
+            "textEn": "The Public Service Commission",
+            "textNe": "लोक सेवा आयोग"
+          },
+          {
+            "textEn": "The Ministry of Home Affairs",
+            "textNe": "गृह मन्त्रालय"
+          }
+        ],
+        "correctAnswerIndex": 0,
+        "explanationEn": "The Election Commission conducts, supervises, directs and controls these elections and prepares the voter rolls.",
+        "explanationNe": "निर्वाचन आयोगले यी निर्वाचनको सञ्चालन, रेखदेख, निर्देशन र नियन्त्रण गर्छ र मतदाता नामावली पनि तयार गर्छ।"
+      },
+      {
+        "id": 1057,
+        "questionEn": "What is the duty of the National Human Rights Commission?",
+        "questionNe": "राष्ट्रिय मानव अधिकार आयोगको कर्तव्य के हो?",
+        "options": [
+          {
+            "textEn": "To conduct elections",
+            "textNe": "निर्वाचन गराउनु"
+          },
+          {
+            "textEn": "To audit government accounts",
+            "textNe": "सरकारी लेखा परीक्षण गर्नु"
+          },
+          {
+            "textEn": "To select civil servants",
+            "textNe": "निजामती कर्मचारी छनौट गर्नु"
+          },
+          {
+            "textEn": "To respect, protect and promote human rights",
+            "textNe": "मानव अधिकारको सम्मान, संरक्षण र संवर्धन गर्नु"
+          }
+        ],
+        "correctAnswerIndex": 3,
+        "explanationEn": "The National Human Rights Commission must respect, protect and promote human rights and make sure they are put into practice.",
+        "explanationNe": "मानव अधिकारको सम्मान, संरक्षण र संवर्धन गर्नु र त्यसको प्रभावकारी कार्यान्वयन सुनिश्चित गर्नु राष्ट्रिय मानव अधिकार आयोगको कर्तव्य हो।"
+      },
+      {
+        "id": 1058,
+        "questionEn": "On whose recommendation does the President appoint Supreme Court Justices other than the Chief Justice?",
+        "questionNe": "प्रधान न्यायाधीशबाहेक सर्वोच्च अदालतका अन्य न्यायाधीशलाई राष्ट्रपतिले कसको सिफारिसमा नियुक्त गर्छन्?",
+        "options": [
+          {
+            "textEn": "The Election Commission",
+            "textNe": "निर्वाचन आयोग"
+          },
+          {
+            "textEn": "The Judicial Council",
+            "textNe": "न्याय परिषद्"
+          },
+          {
+            "textEn": "The Public Service Commission",
+            "textNe": "लोक सेवा आयोग"
+          },
+          {
+            "textEn": "The National Assembly",
+            "textNe": "राष्ट्रिय सभा"
+          }
+        ],
+        "correctAnswerIndex": 1,
+        "explanationEn": "The President appoints the Chief Justice on the Constitutional Council's recommendation and other Supreme Court Justices on the Judicial Council's recommendation.",
+        "explanationNe": "राष्ट्रपतिले प्रधान न्यायाधीशलाई संवैधानिक परिषद्को र सर्वोच्च अदालतका अन्य न्यायाधीशलाई न्याय परिषद्को सिफारिसमा नियुक्त गर्छन्।"
+      },
+      {
+        "id": 1059,
+        "questionEn": "After retiring, what may a Chief Justice or Supreme Court Justice not do?",
+        "questionNe": "सेवानिवृत्त भएपछि प्रधान न्यायाधीश वा सर्वोच्च अदालतका न्यायाधीशले के गर्न पाउँदैनन्?",
+        "options": [
+          {
+            "textEn": "Vote in elections",
+            "textNe": "निर्वाचनमा मतदान गर्न"
+          },
+          {
+            "textEn": "Write books",
+            "textNe": "पुस्तक लेख्न"
+          },
+          {
+            "textEn": "Argue cases, mediate or arbitrate before any office or court",
+            "textNe": "कुनै पनि अड्डा अदालतमा बहस पैरवी, मेलमिलाप वा मध्यस्थता गर्न"
+          },
+          {
+            "textEn": "Travel abroad",
+            "textNe": "विदेश भ्रमण गर्न"
+          }
+        ],
+        "correctAnswerIndex": 2,
+        "explanationEn": "Once retired, a Chief Justice or Supreme Court Justice cannot practise law, mediate or arbitrate before any office or court.",
+        "explanationNe": "सेवानिवृत्त प्रधान न्यायाधीश वा सर्वोच्च अदालतका न्यायाधीशले कुनै पनि अड्डा अदालतमा बहस पैरवी, मेलमिलाप वा मध्यस्थता गर्न पाउँदैनन्।"
+      }
+    ]
+  },
+  "2026-12-04": {
+    "id": "2026-12-04",
+    "title": "Challenge #279",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 1060,
+        "questionEn": "A Province's executive work is done in the name of which body?",
+        "questionNe": "प्रदेशका कार्यकारिणी कार्यहरू कसको नाममा हुन्छन्?",
+        "options": [
+          {
+            "textEn": "The Provincial Government",
+            "textNe": "प्रदेश सरकार"
+          },
+          {
+            "textEn": "The Government of Nepal",
+            "textNe": "नेपाल सरकार"
+          },
+          {
+            "textEn": "The Provincial Assembly",
+            "textNe": "प्रदेश सभा"
+          },
+          {
+            "textEn": "The High Court",
+            "textNe": "उच्च अदालत"
+          }
+        ],
+        "correctAnswerIndex": 0,
+        "explanationEn": "All executive functions of a Province are carried out in the name of the Provincial Government.",
+        "explanationNe": "प्रदेशका सबै कार्यकारिणी कार्य प्रदेश सरकारको नाममा हुन्छन्।"
+      },
+      {
+        "id": 1061,
+        "questionEn": "On whose recommendation does the Provincial Head form the Provincial Council of Ministers?",
+        "questionNe": "प्रदेश प्रमुखले कसको सिफारिसमा प्रदेश मन्त्रिपरिषद् गठन गर्छन्?",
+        "options": [
+          {
+            "textEn": "The Chief Minister",
+            "textNe": "मुख्यमन्त्री"
+          },
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "The Speaker of the Provincial Assembly",
+            "textNe": "प्रदेश सभाका सभामुख"
+          },
+          {
+            "textEn": "The High Court",
+            "textNe": "उच्च अदालत"
+          }
+        ],
+        "correctAnswerIndex": 0,
+        "explanationEn": "The Provincial Head forms the Provincial Council of Ministers from Provincial Assembly members on the Chief Minister's recommendation.",
+        "explanationNe": "प्रदेश प्रमुखले मुख्यमन्त्रीको सिफारिसमा प्रदेश सभाका सदस्यमध्येबाट प्रदेश मन्त्रिपरिषद् गठन गर्छन्।"
+      },
+      {
+        "id": 1062,
+        "questionEn": "Who can remove a Minister of a Province from office?",
+        "questionNe": "प्रदेशका मन्त्रीलाई पदमुक्त गर्न सक्ने को हो?",
+        "options": [
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "The Chief Justice",
+            "textNe": "प्रधान न्यायाधीश"
+          },
+          {
+            "textEn": "The Election Commission",
+            "textNe": "निर्वाचन आयोग"
+          },
+          {
+            "textEn": "The Chief Minister",
+            "textNe": "मुख्यमन्त्री"
+          }
+        ],
+        "correctAnswerIndex": 3,
+        "explanationEn": "A provincial Minister's office becomes vacant if the Chief Minister removes them.",
+        "explanationNe": "मुख्यमन्त्रीले पदमुक्त गरेमा प्रदेशका मन्त्रीको पद रिक्त हुन्छ।"
+      },
+      {
+        "id": 1063,
+        "questionEn": "Except where another body must recommend, the Provincial Head acts on the recommendation and consent of which body?",
+        "questionNe": "अन्य निकायको सिफारिसमा गर्ने भनिएका काम बाहेक प्रदेश प्रमुखले कुन निकायको सिफारिस र सम्मतिबाट काम गर्छन्?",
+        "options": [
+          {
+            "textEn": "The High Court",
+            "textNe": "उच्च अदालत"
+          },
+          {
+            "textEn": "The Election Commission",
+            "textNe": "निर्वाचन आयोग"
+          },
+          {
+            "textEn": "The Provincial Council of Ministers",
+            "textNe": "प्रदेश मन्त्रिपरिषद्"
+          },
+          {
+            "textEn": "The District Assembly",
+            "textNe": "जिल्ला सभा"
+          }
+        ],
+        "correctAnswerIndex": 2,
+        "explanationEn": "Apart from tasks needing another body's recommendation, the Provincial Head acts on the Provincial Council of Ministers' recommendation and consent, sent through the Chief Minister.",
+        "explanationNe": "अन्य निकायको सिफारिस चाहिने काम बाहेक प्रदेश प्रमुखले मुख्यमन्त्रीमार्फत आएको प्रदेश मन्त्रिपरिषद्को सिफारिस र सम्मतिबाट काम गर्छन्।"
+      },
+      {
+        "id": 1064,
+        "questionEn": "Under federal law, what may be set up for social and cultural protection or economic development?",
+        "questionNe": "संघीय कानून बमोजिम सामाजिक सांस्कृतिक संरक्षण वा आर्थिक विकासका लागि के कायम गर्न सकिन्छ?",
+        "options": [
+          {
+            "textEn": "New independent countries",
+            "textNe": "नयाँ स्वतन्त्र देश"
+          },
+          {
+            "textEn": "A separate army for each Province",
+            "textNe": "प्रत्येक प्रदेशका लागि छुट्टै सेना"
+          },
+          {
+            "textEn": "Private courts",
+            "textNe": "निजी अदालत"
+          },
+          {
+            "textEn": "Special, protected or autonomous regions",
+            "textNe": "विशेष, संरक्षित वा स्वायत्त क्षेत्र"
+          }
+        ],
+        "correctAnswerIndex": 3,
+        "explanationEn": "Federal law can set up special, protected or autonomous regions for social and cultural protection or economic development.",
+        "explanationNe": "संघीय कानून बमोजिम सामाजिक सांस्कृतिक संरक्षण वा आर्थिक विकासका लागि विशेष, संरक्षित वा स्वायत्त क्षेत्र कायम गर्न सकिन्छ।"
+      }
+    ]
+  },
+  "2026-12-05": {
+    "id": "2026-12-05",
+    "title": "Challenge #280",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 1065,
+        "questionEn": "Under the right to freedom, where may every citizen move about and live?",
+        "questionNe": "स्वतन्त्रताको हक अनुसार प्रत्येक नागरिकले कहाँ आवतजावत र बसोबास गर्न पाउँछ?",
+        "options": [
+          {
+            "textEn": "Only in their home district",
+            "textNe": "आफ्नो गृह जिल्लामा मात्र"
+          },
+          {
+            "textEn": "Only in their home Province",
+            "textNe": "आफ्नो प्रदेशमा मात्र"
+          },
+          {
+            "textEn": "In any part of Nepal",
+            "textNe": "नेपालको कुनै पनि भागमा"
+          },
+          {
+            "textEn": "Only where their citizenship was issued",
+            "textNe": "नागरिकता जारी भएको ठाउँमा मात्र"
+          }
+        ],
+        "correctAnswerIndex": 2,
+        "explanationEn": "Every citizen has the freedom to move and live in any part of Nepal.",
+        "explanationNe": "प्रत्येक नागरिकलाई नेपालको कुनै पनि भागमा आवतजावत र बसोबास गर्ने स्वतन्त्रता छ।"
+      },
+      {
+        "id": 1066,
+        "questionEn": "A person who gets citizenship by descent may get the certificate in whose name?",
+        "questionNe": "वंशजको आधारमा नागरिकता पाउने व्यक्तिले कसको नामबाट नागरिकताको प्रमाणपत्र पाउन सक्छ?",
+        "options": [
+          {
+            "textEn": "Their mother's or father's name",
+            "textNe": "आमा वा बाबुको नाम"
+          },
+          {
+            "textEn": "Only their father's name",
+            "textNe": "बाबुको नाम मात्र"
+          },
+          {
+            "textEn": "Only their grandfather's name",
+            "textNe": "हजुरबुबाको नाम मात्र"
+          },
+          {
+            "textEn": "Only their husband's name",
+            "textNe": "पतिको नाम मात्र"
+          }
+        ],
+        "correctAnswerIndex": 0,
+        "explanationEn": "A citizen by descent can get a citizenship certificate with gender identity in the name of their mother or father.",
+        "explanationNe": "वंशजको आधारमा नागरिकता पाउने व्यक्तिले आमा वा बाबुको नामबाट लैंगिक पहिचान सहितको नागरिकताको प्रमाणपत्र पाउन सक्छ।"
+      },
+      {
+        "id": 1067,
+        "questionEn": "Under the right to education, in which language does every Nepali community have the right to get education?",
+        "questionNe": "शिक्षा सम्बन्धी हक अनुसार प्रत्येक नेपाली समुदायलाई कुन भाषामा शिक्षा पाउने हक छ?",
+        "options": [
+          {
+            "textEn": "English only",
+            "textNe": "अंग्रेजीमा मात्र"
+          },
+          {
+            "textEn": "Its own mother tongue",
+            "textNe": "आफ्नो मातृभाषामा"
+          },
+          {
+            "textEn": "Sanskrit only",
+            "textNe": "संस्कृतमा मात्र"
+          },
+          {
+            "textEn": "Nepali only",
+            "textNe": "नेपालीमा मात्र"
+          }
+        ],
+        "correctAnswerIndex": 1,
+        "explanationEn": "Every Nepali community may get education in its mother tongue and open schools for it, as the law provides.",
+        "explanationNe": "प्रत्येक नेपाली समुदायलाई कानून बमोजिम आफ्नो मातृभाषामा शिक्षा पाउने र त्यसका लागि विद्यालय खोल्ने हक छ।"
+      },
+      {
+        "id": 1068,
+        "questionEn": "Besides the territory Nepal had when the Constitution began, what else is part of Nepal's territory?",
+        "questionNe": "संविधान प्रारम्भ हुँदाको क्षेत्रबाहेक नेपालको क्षेत्रमा अरू के पर्छ?",
+        "options": [
+          {
+            "textEn": "Land owned by Nepali citizens in other countries",
+            "textNe": "विदेशमा नेपाली नागरिकको स्वामित्वमा रहेको जग्गा"
+          },
+          {
+            "textEn": "Territory acquired after the Constitution began",
+            "textNe": "संविधान प्रारम्भ भएपछि प्राप्त हुने क्षेत्र"
+          },
+          {
+            "textEn": "The territory of neighbouring countries",
+            "textNe": "छिमेकी देशहरूको क्षेत्र"
+          },
+          {
+            "textEn": "Nothing else",
+            "textNe": "अरू केही पनि पर्दैन"
+          }
+        ],
+        "correctAnswerIndex": 1,
+        "explanationEn": "Nepal's territory is the territory it had when the Constitution began, plus any territory acquired after that.",
+        "explanationNe": "नेपालको क्षेत्रमा संविधान प्रारम्भ हुँदाको क्षेत्र र त्यसपछि प्राप्त हुने क्षेत्र पर्छन्।"
+      },
+      {
+        "id": 1069,
+        "questionEn": "Besides the Supreme, High and District Courts, what may be set up at the local level?",
+        "questionNe": "सर्वोच्च, उच्च र जिल्ला अदालतबाहेक स्थानीय स्तरमा के गठन गर्न सकिन्छ?",
+        "options": [
+          {
+            "textEn": "A separate Supreme Court for each local level",
+            "textNe": "प्रत्येक स्थानीय तहका लागि छुट्टै सर्वोच्च अदालत"
+          },
+          {
+            "textEn": "Military courts",
+            "textNe": "सैनिक अदालत"
+          },
+          {
+            "textEn": "Nothing; no other body may hear cases",
+            "textNe": "केही पनि होइन; अरू कुनै निकायले मुद्दा हेर्न पाउँदैन"
+          },
+          {
+            "textEn": "Judicial bodies to hear cases, or bodies for alternative dispute settlement",
+            "textNe": "मुद्दा हेर्ने न्यायिक निकाय वा विवाद समाधानका वैकल्पिक उपाय अपनाउने निकाय"
+          }
+        ],
+        "correctAnswerIndex": 3,
+        "explanationEn": "Judicial bodies may be formed at the local level to hear cases under law, and other bodies may be formed for alternative dispute settlement.",
+        "explanationNe": "कानून बमोजिम मुद्दा हेर्न स्थानीय स्तरमा न्यायिक निकाय र विवाद समाधानका वैकल्पिक उपाय अपनाउन अन्य निकाय गठन गर्न सकिन्छ।"
+      }
+    ]
+  },
+  "2026-12-06": {
+    "id": "2026-12-06",
+    "title": "Challenge #281",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 1070,
+        "questionEn": "What shape is Nepal's national flag?",
+        "questionNe": "नेपालको राष्ट्रिय झण्डाको आकार कस्तो छ?",
+        "options": [
+          {
+            "textEn": "A rectangle",
+            "textNe": "आयत"
+          },
+          {
+            "textEn": "Two triangles slightly joined together",
+            "textNe": "अलिकति जोडिएका दुई त्रिकोण"
+          },
+          {
+            "textEn": "A square",
+            "textNe": "वर्ग"
+          },
+          {
+            "textEn": "A circle",
+            "textNe": "वृत्त"
+          }
+        ],
+        "correctAnswerIndex": 1,
+        "explanationEn": "Nepal's flag is two slightly joined triangles, with a crimson base and a deep blue border.",
+        "explanationNe": "नेपालको झण्डा सिम्रिक रंगको भुइँ र गाढा नीलो किनारा भएका अलिकति जोडिएका दुई त्रिकोणको हुन्छ।"
+      },
+      {
+        "id": 1071,
+        "questionEn": "Can a citizen of Nepal be denied the right to obtain citizenship?",
+        "questionNe": "कुनै नेपाली नागरिकलाई नागरिकता प्राप्त गर्ने हकबाट वञ्चित गर्न सकिन्छ?",
+        "options": [
+          {
+            "textEn": "Yes, if they live abroad",
+            "textNe": "सकिन्छ, विदेशमा बसेमा"
+          },
+          {
+            "textEn": "Yes, during a state of emergency",
+            "textNe": "सकिन्छ, संकटकालमा"
+          },
+          {
+            "textEn": "Yes, if the local ward decides so",
+            "textNe": "सकिन्छ, वडाले निर्णय गरेमा"
+          },
+          {
+            "textEn": "No, no citizen may be denied it",
+            "textNe": "सकिँदैन, कुनै पनि नागरिकलाई वञ्चित गरिँदैन"
+          }
+        ],
+        "correctAnswerIndex": 3,
+        "explanationEn": "No citizen of Nepal may be deprived of the right to obtain citizenship.",
+        "explanationNe": "कुनै पनि नेपाली नागरिकलाई नागरिकता प्राप्त गर्ने हकबाट वञ्चित गरिँदैन।"
+      },
+      {
+        "id": 1072,
+        "questionEn": "In the national anthem, Nepalis are spread out from Mechi to where?",
+        "questionNe": "राष्ट्रिय गानमा नेपालीहरू मेचीदेखि कहाँसम्म फैलिएका छन् भनिएको छ?",
+        "options": [
+          {
+            "textEn": "Mahakali",
+            "textNe": "महाकाली"
+          },
+          {
+            "textEn": "Koshi",
+            "textNe": "कोशी"
+          },
+          {
+            "textEn": "Gandaki",
+            "textNe": "गण्डकी"
+          },
+          {
+            "textEn": "Karnali",
+            "textNe": "कर्णाली"
+          }
+        ],
+        "correctAnswerIndex": 0,
+        "explanationEn": "The anthem says Nepalis are spread out, sovereign, from Mechi to Mahakali.",
+        "explanationNe": "राष्ट्रिय गानमा नेपालीहरू सार्वभौम भई मेचीदेखि महाकालीसम्म फैलिएका छन् भनिएको छ।"
+      },
+      {
+        "id": 1073,
+        "questionEn": "What kind of citizenship does the Constitution provide in Nepal?",
+        "questionNe": "संविधानले नेपालमा कस्तो नागरिकताको व्यवस्था गरेको छ?",
+        "options": [
+          {
+            "textEn": "Single federal citizenship with provincial identity",
+            "textNe": "प्रादेशिक पहिचान सहितको एकल संघीय नागरिकता"
+          },
+          {
+            "textEn": "A separate citizenship for each Province",
+            "textNe": "प्रत्येक प्रदेशको छुट्टाछुट्टै नागरिकता"
+          },
+          {
+            "textEn": "Citizenship issued by each local level",
+            "textNe": "प्रत्येक स्थानीय तहले दिने नागरिकता"
+          },
+          {
+            "textEn": "Dual citizenship for everyone",
+            "textNe": "सबैका लागि दोहोरो नागरिकता"
+          }
+        ],
+        "correctAnswerIndex": 0,
+        "explanationEn": "Nepal has a single federal citizenship that shows the person's provincial identity.",
+        "explanationNe": "नेपालमा प्रादेशिक पहिचान सहितको एकल संघीय नागरिकताको व्यवस्था छ।"
+      },
+      {
+        "id": 1074,
+        "questionEn": "Other matters about language are decided by the Government of Nepal on whose recommendation?",
+        "questionNe": "भाषा सम्बन्धी अन्य कुरा नेपाल सरकारले कसको सिफारिसमा निर्णय गर्छ?",
+        "options": [
+          {
+            "textEn": "The Election Commission",
+            "textNe": "निर्वाचन आयोग"
+          },
+          {
+            "textEn": "The Supreme Court",
+            "textNe": "सर्वोच्च अदालत"
+          },
+          {
+            "textEn": "The Language Commission",
+            "textNe": "भाषा आयोग"
+          },
+          {
+            "textEn": "The Public Service Commission",
+            "textNe": "लोक सेवा आयोग"
+          }
+        ],
+        "correctAnswerIndex": 2,
+        "explanationEn": "Other language matters are decided by the Government of Nepal on the Language Commission's recommendation.",
+        "explanationNe": "भाषा सम्बन्धी अन्य कुरा भाषा आयोगको सिफारिसमा नेपाल सरकारले निर्णय गर्छ।"
+      }
+    ]
+  },
+  "2026-12-07": {
+    "id": "2026-12-07",
+    "title": "Challenge #282",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 1075,
+        "questionEn": "Under the right relating to justice, how is a person accused of an offence treated until the offence is proved?",
+        "questionNe": "न्याय सम्बन्धी हक अनुसार कसूर प्रमाणित नभएसम्म अभियोग लागेको व्यक्तिलाई कसरी हेरिन्छ?",
+        "options": [
+          {
+            "textEn": "As guilty until they prove their innocence",
+            "textNe": "निर्दोष प्रमाणित नगरेसम्म कसूरदार"
+          },
+          {
+            "textEn": "As not guilty",
+            "textNe": "कसूरदार मानिँदैन"
+          },
+          {
+            "textEn": "As having lost their citizenship",
+            "textNe": "नागरिकता गुमाएको"
+          },
+          {
+            "textEn": "As having lost the right to vote",
+            "textNe": "मतदानको अधिकार गुमाएको"
+          }
+        ],
+        "correctAnswerIndex": 1,
+        "explanationEn": "An accused person is not considered guilty until the offence is proved.",
+        "explanationNe": "अभियोग लागेको व्यक्तिलाई कसूर प्रमाणित नभएसम्म कसूरदार मानिँदैन।"
+      },
+      {
+        "id": 1076,
+        "questionEn": "Under the right to housing, what does every citizen have the right to?",
+        "questionNe": "आवासको हक अनुसार प्रत्येक नागरिकलाई केको हक छ?",
+        "options": [
+          {
+            "textEn": "Appropriate housing",
+            "textNe": "उपयुक्त आवास"
+          },
+          {
+            "textEn": "A free house in Kathmandu",
+            "textNe": "काठमाडौंमा निःशुल्क घर"
+          },
+          {
+            "textEn": "A government job",
+            "textNe": "सरकारी जागिर"
+          },
+          {
+            "textEn": "Free land in any district",
+            "textNe": "जुनसुकै जिल्लामा निःशुल्क जग्गा"
+          }
+        ],
+        "correctAnswerIndex": 0,
+        "explanationEn": "Every citizen has the right to appropriate housing.",
+        "explanationNe": "प्रत्येक नागरिकलाई उपयुक्त आवासको हक छ।"
+      },
+      {
+        "id": 1077,
+        "questionEn": "Which of these is a duty of every citizen under the Constitution?",
+        "questionNe": "संविधान अनुसार तलका मध्ये कुन प्रत्येक नागरिकको कर्तव्य हो?",
+        "options": [
+          {
+            "textEn": "To join a political party",
+            "textNe": "राजनीतिक दलमा आबद्ध हुनु"
+          },
+          {
+            "textEn": "To live in the district of their birth",
+            "textNe": "जन्मेकै जिल्लामा बस्नु"
+          },
+          {
+            "textEn": "To protect and preserve public property",
+            "textNe": "सार्वजनिक सम्पत्तिको सुरक्षा र संरक्षण गर्नु"
+          },
+          {
+            "textEn": "To own land",
+            "textNe": "जग्गा धनी हुनु"
+          }
+        ],
+        "correctAnswerIndex": 2,
+        "explanationEn": "Protecting and preserving public property is one of every citizen's duties.",
+        "explanationNe": "सार्वजनिक सम्पत्तिको सुरक्षा र संरक्षण गर्नु प्रत्येक नागरिकको कर्तव्य हो।"
+      },
+      {
+        "id": 1078,
+        "questionEn": "Not counting travel time, within how long must an arrested person be brought before the authority that hears the case?",
+        "questionNe": "बाटोको म्याद बाहेक पक्राउ परेको व्यक्तिलाई कति समयभित्र मुद्दा हेर्ने अधिकारी समक्ष उपस्थित गराउनुपर्छ?",
+        "options": [
+          {
+            "textEn": "7 days",
+            "textNe": "७ दिन"
+          },
+          {
+            "textEn": "30 days",
+            "textNe": "३० दिन"
+          },
+          {
+            "textEn": "3 months",
+            "textNe": "३ महिना"
+          },
+          {
+            "textEn": "24 hours",
+            "textNe": "२४ घण्टा"
+          }
+        ],
+        "correctAnswerIndex": 3,
+        "explanationEn": "An arrested person must be brought before the adjudicating authority within 24 hours, not counting travel time.",
+        "explanationNe": "पक्राउ परेको व्यक्तिलाई बाटोको म्याद बाहेक २४ घण्टाभित्र मुद्दा हेर्ने अधिकारी समक्ष उपस्थित गराउनुपर्छ।"
+      },
+      {
+        "id": 1079,
+        "questionEn": "Under the right to privacy, what is protected from intrusion except as the law allows?",
+        "questionNe": "गोपनीयताको हक अनुसार कानून बमोजिम बाहेक केको गोपनीयता अनतिक्रम्य हुन्छ?",
+        "options": [
+          {
+            "textEn": "Only government documents",
+            "textNe": "सरकारी कागजात मात्र"
+          },
+          {
+            "textEn": "A person's body, home, property, documents, data and letters",
+            "textNe": "व्यक्तिको जीउ, आवास, सम्पत्ति, लिखत, तथ्यांक र पत्राचार"
+          },
+          {
+            "textEn": "Only the President's letters",
+            "textNe": "राष्ट्रपतिको पत्राचार मात्र"
+          },
+          {
+            "textEn": "Only bank savings",
+            "textNe": "बैंक बचत मात्र"
+          }
+        ],
+        "correctAnswerIndex": 1,
+        "explanationEn": "The privacy of a person's body, home, property, documents, data, correspondence and character is protected, except as the law provides.",
+        "explanationNe": "कानून बमोजिम बाहेक व्यक्तिको जीउ, आवास, सम्पत्ति, लिखत, तथ्यांक, पत्राचार र चरित्र सम्बन्धी विषयको गोपनीयता अनतिक्रम्य हुन्छ।"
+      }
+    ]
+  },
+  "2026-12-08": {
+    "id": "2026-12-08",
+    "title": "Challenge #283",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 1080,
+        "questionEn": "Before whom do the Prime Minister and Ministers take their oath of office?",
+        "questionNe": "प्रधानमन्त्री र मन्त्रीले पद तथा गोपनीयताको शपथ कस समक्ष लिन्छन्?",
+        "options": [
+          {
+            "textEn": "The Chief Justice",
+            "textNe": "प्रधान न्यायाधीश"
+          },
+          {
+            "textEn": "The Speaker of the House of Representatives",
+            "textNe": "प्रतिनिधि सभाका सभामुख"
+          },
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "The Chief Election Commissioner",
+            "textNe": "प्रमुख निर्वाचन आयुक्त"
+          }
+        ],
+        "correctAnswerIndex": 2,
+        "explanationEn": "The Prime Minister, Deputy Prime Minister and Ministers take their oath before the President.",
+        "explanationNe": "प्रधानमन्त्री, उपप्रधानमन्त्री र मन्त्रीले राष्ट्रपति समक्ष शपथ लिन्छन्।"
+      },
+      {
+        "id": 1081,
+        "questionEn": "To whom does a federal Minister submit a written resignation?",
+        "questionNe": "संघीय मन्त्रीले लिखित राजीनामा कस समक्ष दिन्छन्?",
+        "options": [
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "The Speaker of the House of Representatives",
+            "textNe": "प्रतिनिधि सभाका सभामुख"
+          },
+          {
+            "textEn": "The Chief Justice",
+            "textNe": "प्रधान न्यायाधीश"
+          }
+        ],
+        "correctAnswerIndex": 0,
+        "explanationEn": "A Minister's office becomes vacant when they give a written resignation to the Prime Minister.",
+        "explanationNe": "मन्त्रीले प्रधानमन्त्री समक्ष लिखित राजीनामा दिएमा निजको पद रिक्त हुन्छ।"
+      },
+      {
+        "id": 1082,
+        "questionEn": "Who chairs Nepal's Council of Ministers?",
+        "questionNe": "नेपालको मन्त्रिपरिषद्को अध्यक्षता कसले गर्छ?",
+        "options": [
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपति"
+          },
+          {
+            "textEn": "The Chief Justice",
+            "textNe": "प्रधान न्यायाधीश"
+          },
+          {
+            "textEn": "The Speaker of the House of Representatives",
+            "textNe": "प्रतिनिधि सभाका सभामुख"
+          },
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          }
+        ],
+        "correctAnswerIndex": 3,
+        "explanationEn": "The President appoints the Prime Minister, and the Council of Ministers is formed under the Prime Minister's chairpersonship.",
+        "explanationNe": "राष्ट्रपतिले प्रधानमन्त्री नियुक्त गर्छन् र प्रधानमन्त्रीको अध्यक्षतामा मन्त्रिपरिषद्को गठन हुन्छ।"
+      },
+      {
+        "id": 1083,
+        "questionEn": "If a person holding another political office is elected President, what happens to that office?",
+        "questionNe": "निर्वाचन, मनोनयन वा नियुक्ति हुने राजनीतिक पदमा बहाल व्यक्ति राष्ट्रपति निर्वाचित भएमा निजको त्यस्तो पद के हुन्छ?",
+        "options": [
+          {
+            "textEn": "It becomes vacant automatically",
+            "textNe": "स्वतः रिक्त हुन्छ"
+          },
+          {
+            "textEn": "They may keep both offices",
+            "textNe": "दुवै पदमा रहन पाउँछन्"
+          },
+          {
+            "textEn": "They keep it for one more year",
+            "textNe": "थप एक वर्ष त्यही पदमा रहन्छन्"
+          },
+          {
+            "textEn": "Their party decides",
+            "textNe": "उनको दलले निर्णय गर्छ"
+          }
+        ],
+        "correctAnswerIndex": 0,
+        "explanationEn": "Any political office a person holds becomes vacant automatically when they are elected President.",
+        "explanationNe": "राजनीतिक पदमा बहाल व्यक्ति राष्ट्रपति निर्वाचित भएमा निजको त्यस्तो पद स्वतः रिक्त हुन्छ।"
+      },
+      {
+        "id": 1084,
+        "questionEn": "The Prime Minister's office falls vacant if they stop being a member of which body?",
+        "questionNe": "प्रधानमन्त्री कुन निकायको सदस्य नरहेमा प्रधानमन्त्रीको पद रिक्त हुन्छ?",
+        "options": [
+          {
+            "textEn": "The National Assembly",
+            "textNe": "राष्ट्रिय सभा"
+          },
+          {
+            "textEn": "The House of Representatives",
+            "textNe": "प्रतिनिधि सभा"
+          },
+          {
+            "textEn": "A Provincial Assembly",
+            "textNe": "प्रदेश सभा"
+          },
+          {
+            "textEn": "The Constitutional Council",
+            "textNe": "संवैधानिक परिषद्"
+          }
+        ],
+        "correctAnswerIndex": 1,
+        "explanationEn": "The Prime Minister must remain a member of the House of Representatives; if they cease to be one, the office falls vacant.",
+        "explanationNe": "प्रधानमन्त्री प्रतिनिधि सभाको सदस्य नरहेमा प्रधानमन्त्रीको पद रिक्त हुन्छ।"
+      }
+    ]
+  },
+  "2026-12-09": {
+    "id": "2026-12-09",
+    "title": "Challenge #284",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 1085,
+        "questionEn": "When the National Assembly elects its Chairperson and Vice-Chairperson, what must be true?",
+        "questionNe": "राष्ट्रिय सभाको अध्यक्ष र उपाध्यक्षको निर्वाचन गर्दा के सुनिश्चित गर्नुपर्छ?",
+        "options": [
+          {
+            "textEn": "Both must be from the largest party",
+            "textNe": "दुवै सबैभन्दा ठूलो दलका हुनुपर्छ"
+          },
+          {
+            "textEn": "Both must be from the same Province",
+            "textNe": "दुवै एउटै प्रदेशका हुनुपर्छ"
+          },
+          {
+            "textEn": "One of them must be a woman",
+            "textNe": "दुईमध्ये एक जना महिला हुनुपर्छ"
+          },
+          {
+            "textEn": "Both must be over 60",
+            "textNe": "दुवैको उमेर ६० वर्षभन्दा बढी हुनुपर्छ"
+          }
+        ],
+        "correctAnswerIndex": 2,
+        "explanationEn": "Of the National Assembly's Chairperson and Vice-Chairperson, one must be a woman.",
+        "explanationNe": "राष्ट्रिय सभाको अध्यक्ष र उपाध्यक्षमध्ये एक जना महिला हुनुपर्छ।"
+      },
+      {
+        "id": 1086,
+        "questionEn": "Can a person who is not a citizen of Nepal become a member of the Federal Parliament?",
+        "questionNe": "नेपालको नागरिक नभएको व्यक्ति संघीय संसदको सदस्य हुन सक्छ?",
+        "options": [
+          {
+            "textEn": "Yes, after living in Nepal for five years",
+            "textNe": "सक्छ, नेपालमा पाँच वर्ष बसेपछि"
+          },
+          {
+            "textEn": "Yes, if the President nominates them",
+            "textNe": "सक्छ, राष्ट्रपतिले मनोनीत गरेमा"
+          },
+          {
+            "textEn": "Yes, but only in the National Assembly",
+            "textNe": "सक्छ, राष्ट्रिय सभामा मात्र"
+          },
+          {
+            "textEn": "No, a member must be a citizen of Nepal",
+            "textNe": "सक्दैन, सदस्य नेपालको नागरिक हुनुपर्छ"
+          }
+        ],
+        "correctAnswerIndex": 3,
+        "explanationEn": "Being a citizen of Nepal is the first qualification for membership of the Federal Parliament.",
+        "explanationNe": "संघीय संसदको सदस्य हुन नेपालको नागरिक हुनु पहिलो योग्यता हो।"
+      },
+      {
+        "id": 1087,
+        "questionEn": "Who chairs the National Assembly when its Chairperson is absent?",
+        "questionNe": "राष्ट्रिय सभाको अध्यक्षको अनुपस्थितिमा राष्ट्रिय सभाको अध्यक्षता कसले गर्छ?",
+        "options": [
+          {
+            "textEn": "The Vice-Chairperson of the National Assembly",
+            "textNe": "राष्ट्रिय सभाको उपाध्यक्ष"
+          },
+          {
+            "textEn": "The Speaker of the House of Representatives",
+            "textNe": "प्रतिनिधि सभाका सभामुख"
+          },
+          {
+            "textEn": "The Prime Minister",
+            "textNe": "प्रधानमन्त्री"
+          },
+          {
+            "textEn": "The President",
+            "textNe": "राष्ट्रपति"
+          }
+        ],
+        "correctAnswerIndex": 0,
+        "explanationEn": "When the Chairperson is absent, the Vice-Chairperson chairs the National Assembly.",
+        "explanationNe": "अध्यक्षको अनुपस्थितिमा राष्ट्रिय सभाको उपाध्यक्षले अध्यक्षता गर्छन्।"
+      },
+      {
+        "id": 1088,
+        "questionEn": "On what basis are the House of Representatives' first-past-the-post constituencies set?",
+        "questionNe": "प्रतिनिधि सभाका पहिलो हुने निर्वाचित हुने प्रणालीका निर्वाचन क्षेत्रहरू केका आधारमा कायम गरिन्छन्?",
+        "options": [
+          {
+            "textEn": "The number of party members in each area",
+            "textNe": "प्रत्येक क्षेत्रमा रहेका दलका सदस्य संख्या"
+          },
+          {
+            "textEn": "Population and geography",
+            "textNe": "जनसंख्या र भौगोलिक अनुकूलता तथा विशिष्टता"
+          },
+          {
+            "textEn": "The tax paid in each area",
+            "textNe": "प्रत्येक क्षेत्रले तिरेको कर"
+          },
+          {
+            "textEn": "Caste and religion",
+            "textNe": "जात र धर्म"
+          }
+        ],
+        "correctAnswerIndex": 1,
+        "explanationEn": "Nepal's 165 constituencies are set on the basis of population and geographical convenience and specificity.",
+        "explanationNe": "नेपालका १६५ निर्वाचन क्षेत्र जनसंख्या र भौगोलिक अनुकूलता तथा विशिष्टताका आधारमा कायम गरिन्छन्।"
+      },
+      {
+        "id": 1089,
+        "questionEn": "In the proportional election for the House of Representatives, whom must parties' closed candidate lists represent?",
+        "questionNe": "प्रतिनिधि सभाको समानुपातिक निर्वाचनमा राजनीतिक दलले बन्द सूचीमा उम्मेदवारी दिँदा कसको प्रतिनिधित्व गराउनुपर्छ?",
+        "options": [
+          {
+            "textEn": "Only party leaders",
+            "textNe": "दलका नेता मात्र"
+          },
+          {
+            "textEn": "Only people from Kathmandu",
+            "textNe": "काठमाडौंका व्यक्ति मात्र"
+          },
+          {
+            "textEn": "Only former ministers",
+            "textNe": "पूर्वमन्त्री मात्र"
+          },
+          {
+            "textEn": "Women, Dalit, Adibasi Janajati, Khas Arya, Madhesi, Tharu, Muslim and backward regions",
+            "textNe": "महिला, दलित, आदिवासी जनजाति, खस आर्य, मधेसी, थारू, मुस्लिम र पिछडिएको क्षेत्र"
+          }
+        ],
+        "correctAnswerIndex": 3,
+        "explanationEn": "Parties' proportional closed lists must include women, Dalit, Adibasi Janajati, Khas Arya, Madhesi, Tharu, Muslim and backward regions, based on population.",
+        "explanationNe": "समानुपातिक बन्द सूचीमा दलले जनसंख्याको आधारमा महिला, दलित, आदिवासी जनजाति, खस आर्य, मधेसी, थारू, मुस्लिम र पिछडिएको क्षेत्रको प्रतिनिधित्व गराउनुपर्छ।"
+      }
+    ]
+  },
+  "2026-12-10": {
+    "id": "2026-12-10",
+    "title": "Challenge #285",
+    "questionsCount": "5",
+    "duration": "5",
+    "questions": [
+      {
+        "id": 1090,
+        "questionEn": "The Constitution says there shall be one District Court in each what?",
+        "questionNe": "संविधान अनुसार प्रत्येक केमा एक जिल्ला अदालत रहन्छ?",
+        "options": [
+          {
+            "textEn": "Province",
+            "textNe": "प्रदेश"
+          },
+          {
+            "textEn": "Ward",
+            "textNe": "वडा"
+          },
+          {
+            "textEn": "District",
+            "textNe": "जिल्ला"
+          },
+          {
+            "textEn": "Municipality",
+            "textNe": "नगरपालिका"
+          }
+        ],
+        "correctAnswerIndex": 2,
+        "explanationEn": "There is one District Court in each district.",
+        "explanationNe": "प्रत्येक जिल्लामा एक जिल्ला अदालत हुन्छ।"
+      },
+      {
+        "id": 1091,
+        "questionEn": "What may the Supreme Court do if someone disobeys its order or judgment?",
+        "questionNe": "कसैले सर्वोच्च अदालतको आदेश वा फैसलाको अवज्ञा गरेमा सर्वोच्च अदालतले के गर्न सक्छ?",
+        "options": [
+          {
+            "textEn": "Dissolve the Federal Parliament",
+            "textNe": "संघीय संसद विघटन गर्ने"
+          },
+          {
+            "textEn": "Take contempt proceedings and punish them, as the law provides",
+            "textNe": "कानून बमोजिम अवहेलनामा कारबाही चलाई सजाय गर्ने"
+          },
+          {
+            "textEn": "Cancel that person's citizenship",
+            "textNe": "त्यस व्यक्तिको नागरिकता खारेज गर्ने"
+          },
+          {
+            "textEn": "Nothing; it has no such power",
+            "textNe": "केही गर्न सक्दैन"
+          }
+        ],
+        "correctAnswerIndex": 1,
+        "explanationEn": "The Supreme Court can start contempt proceedings and punish anyone who obstructs justice or disobeys its orders.",
+        "explanationNe": "न्यायसम्पादनमा अवरोध गर्ने वा आदेश वा फैसलाको अवज्ञा गर्नेलाई सर्वोच्च अदालतले कानून बमोजिम अवहेलनामा कारबाही चलाई सजाय गर्न सक्छ।"
+      },
+      {
+        "id": 1092,
+        "questionEn": "Which of these commissions does the Constitution set up?",
+        "questionNe": "तलका मध्ये कुन आयोग संविधानले स्थापना गरेको हो?",
+        "options": [
+          {
+            "textEn": "Tharu Commission",
+            "textNe": "थारू आयोग"
+          },
+          {
+            "textEn": "National Sports Commission",
+            "textNe": "राष्ट्रिय खेलकुद आयोग"
+          },
+          {
+            "textEn": "National Tourism Commission",
+            "textNe": "राष्ट्रिय पर्यटन आयोग"
+          },
+          {
+            "textEn": "National Film Commission",
+            "textNe": "राष्ट्रिय चलचित्र आयोग"
+          }
+        ],
+        "correctAnswerIndex": 0,
+        "explanationEn": "The Constitution sets up a Tharu Commission with a Chairperson and up to four other members.",
+        "explanationNe": "संविधानले अध्यक्ष र अन्य चार जनासम्म सदस्य रहने थारू आयोगको व्यवस्था गरेको छ।"
+      },
+      {
+        "id": 1093,
+        "questionEn": "Under its extraordinary jurisdiction, which of these can the Supreme Court issue?",
+        "questionNe": "असाधारण अधिकार क्षेत्र अन्तर्गत सर्वोच्च अदालतले तलका मध्ये के जारी गर्न सक्छ?",
+        "options": [
+          {
+            "textEn": "A declaration of a state of emergency",
+            "textNe": "संकटकालको घोषणा"
+          },
+          {
+            "textEn": "An ordinance",
+            "textNe": "अध्यादेश"
+          },
+          {
+            "textEn": "An order dissolving the House of Representatives",
+            "textNe": "प्रतिनिधि सभा विघटनको आदेश"
+          },
+          {
+            "textEn": "A writ of habeas corpus",
+            "textNe": "बन्दी प्रत्यक्षीकरणको आदेश"
+          }
+        ],
+        "correctAnswerIndex": 3,
+        "explanationEn": "The Supreme Court can issue writs such as habeas corpus, mandamus, certiorari, prohibition and quo warranto.",
+        "explanationNe": "सर्वोच्च अदालतले बन्दी प्रत्यक्षीकरण, परमादेश, उत्प्रेषण, प्रतिषेध, अधिकारपृच्छा लगायतका आदेश जारी गर्न सक्छ।"
+      },
+      {
+        "id": 1094,
+        "questionEn": "Whose accounts does the Auditor General audit?",
+        "questionNe": "महालेखा परीक्षकले कसको लेखापरीक्षण गर्छ?",
+        "options": [
+          {
+            "textEn": "Only private companies",
+            "textNe": "निजी कम्पनीको मात्र"
+          },
+          {
+            "textEn": "All federal and provincial government offices, including the Nepal Army and Nepal Police",
+            "textNe": "नेपाली सेना र नेपाल प्रहरी लगायत सबै संघीय र प्रदेश सरकारी कार्यालयको"
+          },
+          {
+            "textEn": "Only local levels",
+            "textNe": "स्थानीय तहको मात्र"
+          },
+          {
+            "textEn": "Only foreign aid projects",
+            "textNe": "वैदेशिक सहायताका आयोजनाको मात्र"
+          }
+        ],
+        "correctAnswerIndex": 1,
+        "explanationEn": "The Auditor General audits all federal and provincial government offices, including courts, Parliament, the Nepal Army and the police.",
+        "explanationNe": "महालेखा परीक्षकले अदालत, संसद, नेपाली सेना र प्रहरी लगायत सबै संघीय र प्रदेश सरकारी कार्यालयको लेखापरीक्षण गर्छ।"
+      }
+    ]
+  }
+}
